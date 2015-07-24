@@ -1,71 +1,73 @@
 ##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS
-1,Jimmy Graham,NO,6,,27,9,$40 ,184.3
-2,Julius Thomas  Contract Year Player,DEN,4,,26,28,$24 ,156.3
-3,Rob Gronkowski  News,NE,10,Que,25,28,$25 ,149
-4,Jordan Reed  Injury,WAS,10,Pro,24,82,$8 ,132.2
-5,Jordan Cameron  News Contract Year Player,CLE,4,,26,56,$14 ,129.5
-6,Kyle Rudolph  Contract Year Player,MIN,10,Pro,24,83,$8 ,127
-7,Vernon Davis BUST,SF,8,,30,59,$11 ,122.3
-8,Ladarius Green,SD,10,,24,129,$5 ,113.6
-9,Dennis Pitta,BAL,11,,29,92,$6 ,113.5
-10,Jason Witten,DAL,11,,32,68,$10 ,113.4
-11,Zach Ertz INSIDER,PHI,7,,23,102,$6 ,107.6
-12,Greg Olsen,CAR,12,,29,88,$7 ,106.7
-13,Martellus Bennett,CHI,9,,27,118,$4 ,105.4
-14,Charles Clay  Contract Year Player,MIA,5,,25,134,$3 ,103
-15,Dwayne Allen,IND,10,Pro,24,162,$2 ,103
-16,Garrett Graham,HOU,10,,28,177,$1 ,98
-17,Eric Ebron,DET,9,,21,137,$5 ,92
-18,Jared Cook,STL,4,,27,183,$1 ,88.5
-19,Delanie Walker,TEN,9,,30,161,$2 ,87.1
-20,Tyler Eifert,CIN,4,,23,156,$3 ,85
-21,Travis Kelce,KC,6,Pro,24,153,$2 ,81
-22,Jace Amaro,NYJ,11,,22,185,$2 ,76.5
-23,Richard Rodgers  News,GB,9,,22,176,$1 ,76.5
-24,Luke Willson,SEA,4,,24,195,$1 ,75
-25,Antonio Gates,SD,10,,34,138,$2 ,74
-26,Austin Seferian-Jenkins  News,TB,7,Pro,21,180,$2 ,74
-27,Levine Toilolo,ATL,9,,23,203,$1 ,73
-28,Heath Miller,PIT,12,,31,140,$2 ,71.5
-29,Coby Fleener,IND,10,,25,168,$1 ,70.6
-30,Joseph Fauria,DET,9,,24,238,$1 ,67
-31,Marcedes Lewis,JAX,11,,30,201,$0 ,65.5
-32,Jermaine Gresham  Contract Year Player,CIN,4,,26,210,$0 ,65
-33,John Carlson,ARI,4,Pro,30,190,$0 ,64.5
-34,Jermichael Finley,GB,9,Que,27,260,$1 ,64
-35,Adrien Robinson,NYG,8,,25,243,$1 ,61.3
-36,Owen Daniels  Contract Year Player,BAL,11,,31,178,$1 ,59.5
-37,Zach Miller,SEA,4,,28,177,$1 ,57.5
-38,Brent Celek,PHI,7,,29,188,$1 ,53
-39,Brandon Bostick  Injury,GB,9,Que,25,220,$1 ,52.5
-40,Scott Chandler,BUF,9,,29,204,$1 ,50.8
-41,Gavin Escobar,DAL,11,,23,249,$1 ,50
-42,Ryan Griffin,HOU,10,,24,230,$0 ,49.5
-43,Jeff Cumberland,NYJ,11,,27,295,$0 ,49.4
-44,David Ausberry  Contract Year Player,OAK,5,Pro,26,201,$1 ,48
-45,Brandon Myers,TB,7,,28,206,$0 ,47
-46,Robert Housler  Contract Year Player,ARI,4,,26,200,$0 ,47
-47,Lance Kendricks  Contract Year Player,STL,4,,26,0,$0 ,43.7
-48,Brandon Pettigrew,DET,9,,29,203,$1 ,43
-49,Dion Sims,MIA,5,,23,195,$0 ,43
-50,Anthony Fasano,KC,6,,30,250,$1 ,40.4
-51,Craig Stevens,TEN,9,,29,0,$0 ,39.3
-52,Ed Dickson  Contract Year Player,CAR,12,,27,177,$0 ,38.9
-53,Dante Rosario  Contract Year Player,CHI,9,,29,182,$0 ,38.1
-54,Vance McDonald,SF,8,,24,238,$0 ,32.4
-55,Kellen Davis  Contract Year Player,NYG,8,,28,0,$0 ,32
-56,Michael Egnew,MIA,5,,24,0,$0 ,31.6
-57,Jacob Tamme  Contract Year Player,DEN,4,,29,122,$0 ,30
-58,Joel Dreessen  Contract Year Player,DEN,4,Que,32,0,$0 ,27.4
-59,Clay Harbor,JAX,11,Pro,27,0,$0 ,24.1
-60,Troy Niklas,ARI,4,,21,225,$0 ,21.6
-61,Niles Paul  Contract Year Player,WAS,10,,25,0,$0 ,21.4
-62,Ben Watson,NO,6,,33,195,$0 ,20
-63,Gary Barnidge,CLE,4,,28,0,$0 ,18.5
-64,Jake Ballard  Contract Year Player,ARI,4,,26,0,$0 ,15.7
-65,Mychal Rivera,OAK,5,,23,268,$1 ,12.5
-66,Michael Hoomanawanui,NE,10,,26,205,$0 ,11.4
-67,Rhett Ellison,MIN,10,,25,0,$0 ,9.2
-68,Andrew Quarless  News,GB,9,,25,198,$1 ,8
-69,Colt Lyerla,GB,9,,21,255,$1 ,7.7
-70,Bear Pascoe  Contract Year Player,NYG,8,,28,0,$0 ,7.2
+1,Rob Gronkowski,NE,4, ,26,10,$36,205.9
+2,Jimmy Graham,SEA,9, ,28,27,$25,169.6
+3,Travis Kelce,KC,9, ,25,45,$16,130.5
+4,Greg Olsen,CAR,5, ,30,64,$10,129.9
+5,Coby Fleener  Contract Year Player,IND,10, ,26,153,$3,119.3
+6,Zach Ertz,PHI,8, ,24,76,$9,110.0
+7,Jordan Cameron,MIA,5, ,26,99,$6,108.4
+8,Josh Hill  Contract Year Player,NO,11, , ,129,$5,102.4
+9,Martellus Bennett  News,CHI,7, ,28,80,$9,101.5
+10,Vernon Davis  Contract Year Player,SF,10, ,31,183,$2,101.0
+11,Jason Witten,DAL,6, ,33,135,$4,97.3
+12,Delanie Walker,TEN,4, ,30,130,$4,96.8
+13,Heath Miller,PIT,11, ,32,210,$1,95.8
+14,Kyle Rudolph,MIN,5, ,25,148,$4,95.1
+15,Julius Thomas BUST,JAX,8, ,27,78,$9,94.0
+16,Owen Daniels,DEN,7, ,32,160,$3,92.8
+17,Jared Cook,STL,6, ,28,231,$1,86.6
+18,Antonio Gates  News Contract Year Player,SD,10,Sus,35,154,$4,86.2
+19,Eric Ebron,DET,9, ,22,138,$4,83.5
+20,Maxx Williams  News,BAL,9, ,21,141,$5,82.5
+21,Austin Seferian-Jenkins,TB,6, ,22,121,$6,81.3
+22,Jace Amaro,NYJ,5,Pro,23,196,$2,80.9
+23,Jordan Reed  News,WAS,8,Pro,25,178,$2,78.6
+24,Charles Clay,BUF,8, ,26,182,$2,76.6
+25,Tyler Eifert,CIN,7,Pro,24,122,$5,75.1
+26,Larry Donnell  Contract Year Player,NYG,11,Pro, ,182,$2,73.7
+27,Dwayne Allen  Contract Year Player,IND,10, ,25,152,$4,71.0
+28,Mychal Rivera,OAK,6, ,24,245,$1,66.2
+29,Robert Housler  Contract Year Player,CLE,11, ,27,233,$1,59.2
+30,Garrett Graham,HOU,9, ,28,359,$1,55.6
+31,Richard Rodgers,GB,7, ,23,210,$1,51.7
+32,Jacob Tamme,ATL,10, ,30,261,0,51.3
+33,Ladarius Green  Contract Year Player,SD,10, ,25,150,$4,48.0
+34,Niles Paul,WAS,8, ,25,236,$1,42.0
+35,Gavin Escobar,DAL,6, ,24,250,$1,40.4
+36,Troy Niklas,ARI,9,Pro,22,308,$1,38.7
+37,Lance Kendricks,STL,6, ,27,220,0,36.3
+38,Brent Celek,PHI,8, ,30,296,$1,36.1
+39,Scott Chandler,NE,4,Pro,30,282,0,31.1
+40,Anthony Fasano,TEN,4, ,31,0,0,30.5
+41,Marcedes Lewis,JAX,8, ,31,0,0,28.3
+42,Ben Watson,NO,11, ,34,280,0,26.5
+43,Crockett Gillmore,BAL,9, ,23,287,0,26.0
+44,Gerald Christian,ARI,9, ,23,0,0,25.4
+45,Luke Willson,SEA,9, ,25,299,0,23.7
+46,Andrew Quarless  News Contract Year Player,GB,7, ,26,268,0,23.2
+47,Virgil Green,DEN,7, ,26,238,$1,22.6
+48,Levine Toilolo,ATL,10, ,23,246,0,22.1
+49,Tyler Kroft,CIN,7, ,22,273,$1,20.7
+50,Dion Sims,MIA,5, ,24,278,0,19.6
+51,Brandon Myers,TB,6, ,29,0,0,19.2
+52,C.J. Fiedorowicz,HOU,9, ,23,264,$1,17.9
+53,Ed Dickson,CAR,5, ,27,0,0,15.6
+54,Daniel Fells,NYG,11, ,31,0,0,15.5
+55,Rhett Ellison  Contract Year Player,MIN,5, ,26,0,0,15.5
+56,Dennis Pitta  News,BAL,9,Dou,30,274,0,15.4
+57,Jack Doyle  Contract Year Player,IND,10, , ,0,0,15.0
+58,Adrien Robinson  Contract Year Player,NYG,11, ,26,0,0,13.2
+59,Clive Walford,OAK,6, ,23,205,$2,12.8
+60,Zach Miller,CHI,7, ,30,210,0,12.7
+61,Jeff Cumberland,NYJ,5, ,28,344,0,12.5
+62,Jim Dray,CLE,11, ,28,0,0,11.8
+63,Gary Barnidge  Contract Year Player,CLE,11, ,29,0,0,11.7
+64,Michael Hoomanawanui  Contract Year Player,NE,4, ,27,0,0,11.4
+65,Tony Moeaki  Contract Year Player,ATL,10, ,28,0,0,11.0
+66,Vance McDonald,SF,10, ,25,0,0,11.0
+67,Clay Harbor,JAX,8, ,28,0,0,9.1
+68,Dante Rosario  Contract Year Player,CHI,7, ,30,0,0,9.1
+69,Brandon Pettigrew,DET,9, ,30,0,$1,8.3
+70,James O'Shaughnessy,KC,9, ,23,0,$1,7.1
+71,Chris Gragg,BUF,8, ,25,0,0,4.8
+72,Matt Spaeth,PIT,11, ,30,0,0,3.9

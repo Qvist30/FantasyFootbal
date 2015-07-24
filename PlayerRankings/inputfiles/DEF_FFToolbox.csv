@@ -1,33 +1,33 @@
-##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS,
-1,Seahawks,SEA,4,145,29,167,$1 ,145,
-2,Panthers,CAR,12,143,29,147,$2 ,143,
-3,Patriots,NE,10,141,30,143,$2 ,141,
-4,49ers,SF,8,139,39,175,$1 ,139,
-5,Broncos,DEN,4,137,24,165,$1 ,137,
-6,Chiefs,KC,6,136,29,150,$1 ,136,
-7,Rams,STL,4,136,32,192,$1 ,136,
-8,Bengals,CIN,4,125,26,173,$1 ,125,Dome
-9,Bears,CHI,9,124,31,191,$1 ,124,
-10,Packers,GB,9,121,29,176,$1 ,121,
-11,Cardinals,ARI,4,116,23,186,$1 ,116,Dome
-12,Steelers,PIT,12,116,36,189,$1 ,116,Dome
-13,Giants,NYG,8,114,26,195,$1 ,114,Dome
-14,Ravens,BAL,11,109,28,134,$1 ,109,
-15,Buccaneers,TB,7,108,24,183,$1 ,108,Dome
-16,Browns,CLE,4,107,27,0,$1 ,107,
-17,Dolphins,MIA,5,106,41,180,$1 ,106,Dome
-18,Vikings,MIN,10,102,26,154,$1 ,102,
-19,Falcons,ATL,9,100,32,252,$1 ,100,
-20,Bills,BUF,9,100,24,0,$1 ,100,
-21,Jets,NYJ,11,99,35,0,$2 ,99,
-22,Eagles,PHI,7,98,39,188,$1 ,98,Dome
-23,Chargers,SD,10,98,24,0,$1 ,98,
-24,Redskins,WAS,10,98,27,215,$1 ,98,
-25,Lions,DET,9,96,32,201,$1 ,96,
-26,Saints,NO,6,96,26,190,$1 ,96,
-27,Cowboys,DAL,11,91,22,0,$0 ,91,
-28,Colts,IND,10,91,36,172,$1 ,91,
-29,Titans,TEN,9,89,38,189,$1 ,89,
-30,Texans,HOU,10,88,23,0,$0 ,88,
-31,Jaguars,JAX,11,73,32,0,$1 ,73,
-32,Raiders,OAK,5,72,,0,$0 ,72,Dome
+##,PLAYER,NFL,BYE,PTS,
+1,Seahawks,SEA,9,147.0
+2,Rams,STL,6,140.0
+3,Bills,BUF,8,137.0
+4,Texans,HOU,9,136.0
+5,Patriots,NE,4,128.0
+6,Broncos,DEN,7,126.0
+7,Panthers,CAR,5,125.0
+8,Packers,GB,7,125.0
+9,Ravens,BAL,9,123.0
+10,Bengals,CIN,7,123.0
+11,Jets,NYJ,5,121.0
+12,Chiefs,KC,9,120.0
+13,Dolphins,MIA,5,119.0
+14,49ers,SF,10,118.0
+15,Browns,CLE,11,115.0
+16,Lions,DET,9,114.0
+17,Eagles,PHI,8,114.0
+18,Cardinals,ARI,9,112.0
+19,Steelers,PIT,11,112.0
+20,Cowboys,DAL,6,107.0
+21,Vikings,MIN,5,102.0
+22,Colts,IND,10,99.0
+23,Jaguars,JAX,8,98.0
+24,Buccaneers,TB,6,97.0
+25,Giatns,NYG,11,96.0
+26,Falcons,ATL,10,94.0
+27,Saints,NO,11,93.0
+28,Chargers,SD,10,93.0
+29,Bears,CHI,7,92.0
+30,Redskins,WAS,8,87.0
+31,Titans,TEN,4,86.0
+32,Raiders,OAK,6,72.0

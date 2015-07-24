@@ -1,42 +1,81 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Jimmy Graham, NO TE,COLE,,0/0,0,0,0,0,0,0,84,1115,13,189.5,
-2,Julius Thomas, Den TE,FA,,0/0,0,0,0,0,0,0,72,923,12,164.3,
-3,Rob Gronkowski, NE TE  Q,FA,,0/0,0,0,0,0,0,0,63,920,8,140,
-4,Vernon Davis, SF TE,FA,,0/0,0,0,0,0,0,0,56,835,11,131.5,
-5,Jordan Cameron, Cle TE  P,FA,,0/0,0,0,0,0,0,0,74,879,7,129.9,
-6,Dennis Pitta, Bal TE,FA,,0/0,0,0,0,0,0,0,73,800,8,128,
-7,Jason Witten, Dal TE,FA,,0/0,0,0,0,0,0,0,74,818,7,123.8,
-8,Greg Olsen, Car TE  P,FA,,0/0,0,0,0,0,0,0,70,842,5,114.2,
-9,Kyle Rudolph, Min TE,FA,,0/0,0,0,0,0,0,0,56,576,8,105.6,
-10,Martellus Bennett, Chi TE,FA,,0/0,0,0,0,0,0,0,63,735,5,103.5,
-11,Jordan Reed, Wsh TE  P,FA,,0/0,0,0,0,0,0,0,61,689,6,102.9,
-12,Zach Ertz, Phi TE,FA,,0/0,0,0,0,0,0,0,50,646,4,88.6,
-13,Delanie Walker, Ten TE,FA,,0/0,0,0,0,0,0,0,55,598,5,87.8,
-14,Charles Clay, Mia TE  P,FA,,0/0,0,0,0,0,0,0,61,673,5,85.3,
-15,Antonio Gates, SD TE,FA,,0/0,0,0,0,0,0,0,54,604,4,84.4,
-16,Ladarius Green, SD TE,FA,,0/0,0,0,0,0,0,0,38,584,4,82.4,
-17,Heath Miller, Pit TE,FA,,0/0,0,0,0,0,0,0,61,632,2,75.2,
-18,Coby Fleener, Ind TE,FA,,0/0,0,0,0,0,0,0,37,433,5,73.3,
-19,Jared Cook, StL TE,FA,,0/0,0,0,0,0,0,0,47,537,3,71.7,
-20,Eric Ebron, Det TE,FA,,0/0,0,0,0,0,0,0,33,476,4,71.6,
-21,Tyler Eifert, Cin TE  P,FA,,0/0,0,0,0,0,0,0,45,505,3,68.5,
-22,Tim Wright, NE TE,FA,,0/0,0,0,0,0,0,0,39,445,4,68.5,
-23,Garrett Graham, Hou TE,FA,,0/0,0,0,0,0,0,0,39,425,4,66.5,
-24,Travis Kelce, KC TE,FA,,0/0,0,0,0,0,0,0,33,446,3,62.6,
-25,Mychal Rivera, Oak TE,FA,,0/0,0,0,0,0,0,0,37,414,3,59.4,
-26,Dwayne Allen, Ind TE,FA,,0/0,0,0,0,0,0,0,35,411,3,57.1,
-27,Austin Seferian-Jenkins, TB TE,FA,,0/0,0,0,0,0,0,0,32,381,3,56.1,
-28,Scott Chandler, Buf TE  Q,FA,,0/0,0,0,0,0,0,0,42,439,2,55.9,
-29,Jace Amaro, NYJ TE,FA,,0/0,0,0,0,0,0,0,31,376,3,55.6,
-30,Owen Daniels, Bal TE  P,FA,,0/0,0,0,0,0,0,0,33,341,3,52.1,
-31,Andrew Quarless, GB TE,FA,,0/0,0,0,0,0,0,0,38,387,2,50.7,
-32,Jermaine Gresham, Cin TE,FA,,0/0,0,0,0,0,0,0,32,324,3,50.4,
-33,Marcedes Lewis, Jac TE,FA,,0/0,0,0,0,0,0,0,36,368,2,48.8,
-34,Brent Celek, Phi TE,FA,,0/0,0,0,0,0,0,0,30,355,2,47.5,
-35,C.J. Fiedorowicz, Hou TE,FA,,0/0,0,0,0,0,0,0,30,351,2,47.1,
-36,Zach Miller, Sea TE,FA,,0/0,0,0,0,0,0,0,34,390,1,45,
-37,Brandon Pettigrew, Det TE,FA,,0/0,0,0,0,0,0,0,24,257,3,43.7,
-38,Jermichael Finley, GB TE  Q,FA,,0/0,0,0,0,0,0,0,28,313,2,43.3,
-39,John Carlson, Ari TE,FA,,0/0,0,0,0,0,0,0,27,300,2,42,
-40,Brandon Bostick, GB TE  Q,FA,,0/0,0,0,0,0,0,0,23,295,2,41.5,
-41,Ryan Griffin, Hou TE,FA,,0/0,0,0,0,0,0,0,23,259,2,37.9,
+1,Rob Gronkowski, NE TE,JLF,,0/0,0,0,0,0,0,0,83,1022,9,156.2
+2,Jimmy Graham, Sea TE,COLE,,0/0,0,0,0,0,0,0,65,774,8,124.5
+3,Greg Olsen, Car TE,ALES,,0/0,0,0,0,0,0,0,68,830,5,112.3
+4,Travis Kelce, KC TE,WOO,,0/0,0,0,0,0,0,0,74,799,5,108.2
+5,Julius Thomas, Jac TE,Poo,,0/0,0,0,0,0,0,0,66,756,5,104.4
+6,Martellus Bennett, Chi TE,NIEV,,0/0,0,0,0,0,0,0,69,742,5,104.1
+7,Jason Witten, Dal TE,Bro,,0/0,0,0,0,0,0,0,58,671,6,103.1
+8,Zach Ertz, Phi TE,JAJ,,0/0,0,0,0,0,0,0,56,698,5,99.3
+9,Jordan Cameron, Mia TE,SB,,0/0,0,0,0,0,0,0,52,643,5,94
+10,Dwayne Allen, Ind TE,SENK,,0/0,0,0,0,0,0,0,53,585,6,93.9
+11,Delanie Walker, Ten TE,JAJ,,0/0,0,0,0,0,0,0,60,688,4,91.4
+12,Larry Donnell, NYG TE  P,SB,,0/0,0,0,0,0,0,0,50,590,5,87.9
+13,Owen Daniels, Den TE,FA,,0/0,0,0,0,0,0,0,49,556,5,85.5
+14,Josh Hill, NO TE,FA,,0/0,0,0,0,0,0,0,46,494,6,85.1
+15,Kyle Rudolph, Min TE,Poo,,0/0,0,0,0,0,0,0,54,600,4,83.9
+16,Austin Seferian-Jenkins, TB TE,FA,,0/0,0,0,0,0,0,0,49,598,4,83.3
+17,Heath Miller, Pit TE,Bro,,0/0,0,0,0,0,0,0,54,603,4,83.2
+18,Eric Ebron, Det TE,FA,,0/0,0,0,0,0,0,0,50,557,4,79.2
+19,Charles Clay, Buf TERecent News,JAC,,0/0,0,0,0,0,0,0,49,542,4,78.1
+20,Coby Fleener, Ind TE,ALES,,0/0,0,0,0,0,0,0,39,470,5,77
+21,Vernon Davis, SF TE,FA,,0/0,0,0,0,0,0,0,45,587,3,76.1
+22,Antonio Gates, SD TE  SSPD,WOO,,0/0,0,0,0,0,0,0,42,508,4,74.5
+23,Jordan Reed, Wsh TE  P,SENK,,0/0,0,0,0,0,0,0,49,506,4,73.9
+24,Tyler Eifert, Cin TE  P,FA,,0/0,0,0,0,0,0,0,47,552,3,72.7
+25,Jared Cook, StL TE,JTR,,0/0,0,0,0,0,0,0,42,492,3,67
+26,Jace Amaro, NYJ TE  P,FA,,0/0,0,0,0,0,0,0,44,488,3,66.4
+27,Rob Housler, Cle TE,FA,,0/0,0,0,0,0,0,0,41,480,3,65.4
+28,Jacob Tamme, Atl TE,FA,,0/0,0,0,0,0,0,0,43,470,3,64.7
+29,Richard Rodgers, GB TE,FA,,0/0,0,0,0,0,0,0,34,394,4,63.2
+30,Ladarius Green, SD TE,FA,,0/0,0,0,0,0,0,0,36,452,3,63
+31,David Johnson, SD TE,FA,,0/0,0,0,0,59,239,2,23,189,1,59
+32,Maxx Williams, Bal TE,FA,,0/0,0,0,0,0,0,0,35,407,3,58.4
+33,Mychal Rivera, Oak TE,JAC,,0/0,0,0,0,0,0,0,36,410,2,52.2
+34,Virgil Green, Den TE,FA,,0/0,0,0,0,0,0,0,37,342,3,51.9
+35,Troy Niklas, Ari TE  P,FA,,0/0,0,0,0,0,0,0,29,312,3,48.9
+36,Clive Walford, Oak TE,FA,,0/0,0,0,0,0,0,0,29,339,2,45.6
+37,Dion Sims, Mia TE,FA,,0/0,0,0,0,0,0,0,27,290,2,40.7
+38,Lance Kendricks, StL TE,FA,,0/0,0,0,0,0,0,0,26,278,2,39.6
+39,Dennis Pitta, Bal TE  DRecent News,FA,,0/0,0,0,0,0,0,0,23,264,2,38.3
+40,Benjamin Watson, NO TE,FA,,0/0,0,0,0,0,0,0,23,265,2,38.3
+41,Niles Paul, Wsh TE,JAC,,0/0,0,0,0,0,0,0,24,265,2,38.3
+42,Gavin Escobar, Dal TE,FA,,0/0,0,0,0,0,0,0,16,200,3,37.9
+43,Brent Celek, Phi TE,FA,,0/0,0,0,0,0,0,0,23,252,2,37
+44,Scott Chandler, NE TE  P,FA,,0/0,0,0,0,0,0,0,18,197,2,31.6
+45,James Casey, Den TE,FA,,0/0,0,0,0,0,0,0,15,178,2,29.7
+46,Andrew Quarless, GB TE,FA,,0/0,0,0,0,0,0,0,15,168,2,28.7
+47,Levine Toilolo, Atl TE,FA,,0/0,0,0,0,0,0,0,15,163,2,28.2
+48,Garrett Graham, Hou TE,FA,,0/0,0,0,0,0,0,0,20,219,1,27.6
+49,Marcedes Lewis, Jac TE,FA,,0/0,0,0,0,0,0,0,16,184,1,24.2
+50,Tim Wright, TB TE,FA,,0/0,0,0,0,0,0,0,15,181,1,24
+51,Ed Dickson, Car TE,FA,,0/0,0,0,0,0,0,0,15,179,1,23.8
+52,Daniel Fells, NYG TE,FA,,0/0,0,0,0,0,0,0,15,170,1,22.7
+53,Darren Fells, Ari TE,FA,,0/0,0,0,0,0,0,0,14,157,1,21.6
+54,Tyler Kroft, Cin TE,FA,,0/0,0,0,0,0,0,0,14,157,1,21.6
+55,Jack Doyle, Ind TE,FA,,0/0,0,0,0,0,0,0,12,132,1,19.1
+56,Luke Willson, Sea TE,FA,,0/0,0,0,0,0,0,0,11,125,1,18.4
+57,Joseph Fauria, Det TE  P,FA,,0/0,0,0,0,0,0,0,11,123,1,18.2
+58,Brandon Myers, TB TE,FA,,0/0,0,0,0,0,0,0,11,122,1,18.2
+59,Jeff Cumberland, NYJ TE,FA,,0/0,0,0,0,0,0,0,11,120,1,17.9
+60,Demetrius Harris, KC TE  P,FA,,0/0,0,0,0,0,0,0,10,119,1,17.8
+61,MyCole Pruitt, Min TE,FA,,0/0,0,0,0,0,0,0,10,118,1,17.7
+62,Ryan Griffin, Hou TE,FA,,0/0,0,0,0,0,0,0,10,114,1,17.3
+63,Anthony Fasano, Ten TE,FA,,0/0,0,0,0,0,0,0,10,111,1,17
+64,Vance McDonald, SF TE,FA,,0/0,0,0,0,0,0,0,10,110,1,16.9
+65,Crockett Gillmore, Bal TE,FA,,0/0,0,0,0,0,0,0,9,101,1,16
+66,Gary Barnidge, Cle TE,FA,,0/0,0,0,0,0,0,0,9,100,1,15.9
+67,MarQueis Gray, Buf TE,FA,,0/0,0,0,0,0,0,0,9,98,1,15.7
+68,C.J. Fiedorowicz, Hou TE,FA,,0/0,0,0,0,0,0,0,8,95,1,15.4
+69,Dante Rosario, Chi TE,FA,,0/0,0,0,0,0,0,0,8,87,1,14.6
+70,Brandon Pettigrew, Det TE,FA,,0/0,0,0,0,0,0,0,7,81,1,14
+71,Logan Paulsen, Wsh TE,FA,,0/0,0,0,0,0,0,0,7,75,1,13.4
+72,Kennard Backman, GB TE,FA,,0/0,0,0,0,0,0,0,5,59,1,11.9
+73,Lee Smith, Oak TE,FA,,0/0,0,0,0,0,0,0,7,81,0,8
+74,Cory Harkey, StL TE,FA,,0/0,0,0,0,0,0,0,8,65,0,6.5
+75,Chris Gragg, Buf TE,FA,,0/0,0,0,0,0,0,0,4,50,0,5
+76,Ryan Hewitt, Cin TE,FA,,0/0,0,0,0,0,0,0,6,47,0,4.7
+77,Matt Spaeth, Pit TE,FA,,0/0,0,0,0,0,0,0,4,47,0,4.7
+78,Jesse James, Pit TE,FA,,0/0,0,0,0,0,0,0,4,46,0,4.6
+79,Michael Hoomanawanui, NE TE,FA,,0/0,0,0,0,0,0,0,4,45,0,4.5
+80,Tony Moeaki, Atl TE,FA,,0/0,0,0,0,0,0,0,4,45,0,4.5

@@ -23,6 +23,7 @@ import glob
 import xlwt
 import os
 import operator
+import re
 
     
 def createPostionalRanking(position, starters):
@@ -38,7 +39,8 @@ def createPostionalRanking(position, starters):
                 ptsPerGame = float(row["PTS"])/16
                 player = row["PLAYER"]
                 team = row["NFL"]
-                player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','')
+                player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','').replace('?','').replace('STASH','')
+                player = re.sub('\W+',' ', player)
                 
                 with open('inputfiles/' + position + '_ESPN.csv') as espnfile:
                     espnReader = csv.DictReader(espnfile, delimiter=',')
@@ -46,8 +48,8 @@ def createPostionalRanking(position, starters):
                         espnPtsPerGame = float(espnRow["PTS"])/16
                         espnPlayer = espnRow["PLAYER"]
                         espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','')
-                        
-                        if(espnPlayer.replace(' ', '').lower().strip() == player.replace(' ', '').lower().strip()):
+                        espnPlayer = re.sub('\W+',' ', espnPlayer)
+                        if(espnPlayer.replace(' ', '').lower().strip().startswith(player.replace(' ', '').lower().strip()) | player.replace(' ', '').lower().strip().startswith(espnPlayer.replace(' ', '').lower().strip())):
                             rows_list.append([espnPlayer, row["NFL"], position, ptsPerGame*16, espnPtsPerGame *16,np.mean([espnPtsPerGame, ptsPerGame]), np.mean([espnPtsPerGame, ptsPerGame]) * 16, row["BYE"]])
                             found = True
                             break
@@ -79,7 +81,7 @@ if __name__ == '__main__':
     totalArray = np.concatenate((qbArray, rbArray, wrArray, teArray, defArray, kArray))
     totalArray.sort(order='PAB')
     numpArray= totalArray[::-1]
-    overallFile = 'outputfiles\overall_output.csv'
+    overallFile = 'outputfiles/overall_output.csv'
     with open(overallFile, 'w') as output:
         writer = csv.writer(output, delimiter = ',', lineterminator='\n')
         writer.writerow(['Player', 'Team', 'Position', 'FFtoolbox', 'ESPN', 'Pts. Per Game', 'Total Pts.', 'Bye Week', 'Points over Bench', 'Points over Waiver'])
