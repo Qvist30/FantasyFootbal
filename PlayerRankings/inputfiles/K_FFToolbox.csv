@@ -1,33 +1,33 @@
 ##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS,
-1,Stephen Gostkowski  Contract Year Player,NE,4, ,31,151,$3,162.0
-2,Steven Hauschka,SEA,9, ,30,187,$1,156.0
-3,Justin Tucker  Contract Year Player,BAL,9, ,25,179,$1,154.0
-4,Adam Vinatieri  Contract Year Player,IND,10, ,42,177,$3,153.0
-5,Mason Crosby  Contract Year Player,GB,7, ,30,197,$1,152.0
-6,Dan Bailey,DAL,6, ,27,188,$1,144.0
-7,Cody Parkey,PHI,8, ,23,178,$1,140.0
-8,Connor Barth,DEN,7, ,29,201,$1,139.0
-9,Matt Bryant,ATL,10, ,40,216,$1,131.0,Dome
-10,Nick Novak,SD,10, ,33,271,$1,130.0
-11,Matt Prater,DEN,7, ,30,218,$1,128.0
-12,Blair Walsh  Contract Year Player,MIN,5, ,25,246,$2,128.0
-13,Dan Carpenter,BUF,8, ,29,226,$1,127.0
-14,Phil Dawson  Contract Year Player,SF,10, ,40,237,0,127.0
-15,Shaun Suisham,PIT,11, ,33,227,$1,126.0
-16,Caleb Sturgis,MIA,5,Pro,25,258,$1,125.0
-17,Chandler Catanzaro,ARI,9, ,24,241,0,125.0,Dome
-18,Robbie Gould,CHI,7, ,32,266,0,121.0
-19,Greg Zuerlein  Contract Year Player,STL,6, ,27,266,$1,120.0,Dome
-20,Dustin Hopkins,FA,9, ,24,0,$1,119.0
-21,Graham Gano,CAR,5, ,28,235,0,119.0
-22,Josh Brown  Contract Year Player,NYG,11, ,36,243,0,118.0
-23,Randy Bullock  Contract Year Player,HOU,9, ,25,267,$1,117.0
-24,Nick Folk,NYJ,5, ,30,251,$1,114.0
-25,Sebastian Janikowski,OAK,6, ,37,246,$18,114.0
-26,Mike Nugent,CIN,7, ,33,311,$1,114.0
-27,Patrick Murray,TB,6, ,24,0,0,109.0
-28,Cairo Santos,KC,9, ,23,248,$1,108.0
-29,Kai Forbath  Contract Year Player,WAS,8, ,27,259,0,101.0
-30,Ryan Succop,TEN,6, ,28,290,0,96.0
-31,Josh Scobee,JAX,8, ,33,323,0,95.0
-32,Travis Coons,CLE,11, ,23,0,0,94.0
+1,Stephen Gostkowski  Recently Updated Outlook Contract Year Player,NE,4, ,31,153,$3,159.0, 
+2,Steven Hauschka,SEA,9, ,30,184,$1,151.0, 
+3,Adam Vinatieri  Contract Year Player,IND,10, ,42,179,$3,150.0, 
+4,Justin Tucker  Contract Year Player,BAL,9, ,25,183,$1,149.0, 
+5,Mason Crosby  Contract Year Player,GB,7, ,30,197,$1,145.5, 
+6,Dan Bailey,DAL,6, ,27,188,$1,139.0, 
+7,Cody Parkey,PHI,8, ,23,183,$1,135.0, 
+8,Connor Barth,DEN,7, ,29,197,$1,135.0, 
+9,Matt Bryant,ATL,10, ,40,212,$1,128.0,Dome
+10,Dan Carpenter,BUF,8, ,29,212,$1,124.0, 
+11,Nick Novak,SD,10, ,33,249,$1,124.0, 
+12,Blair Walsh  Contract Year Player,MIN,5, ,25,231,$1,124.0, 
+13,Matt Prater,DEN,7, ,30,214,0,123.0, 
+14,Shaun Suisham,PIT,11, ,33,223,$1,123.0, 
+15,Phil Dawson  Contract Year Player,SF,10, ,40,251,0,122.0, 
+16,Chandler Catanzaro,ARI,9, ,24,231,0,120.0,Dome
+17,Caleb Sturgis,MIA,5,Pro,25,233,$1,118.0, 
+18,Graham Gano,CAR,5, ,28,260,0,115.0, 
+19,Josh Brown  Contract Year Player,NYG,11, ,36,265,$1,115.0, 
+20,Robbie Gould,CHI,7, ,32,246,0,115.0, 
+21,Greg Zuerlein  Contract Year Player,STL,6, ,27,255,$1,115.0,Dome
+22,Dustin Hopkins,FA,9, ,24,206,$1,112.0, 
+23,Randy Bullock  Contract Year Player,HOU,9, ,25,294,$1,112.0, 
+24,Nick Folk,NYJ,5, ,30,236,$1,109.0, 
+25,Sebastian Janikowski,OAK,6, ,37,231,$18,109.0, 
+26,Mike Nugent,CIN,7, ,33,265,$1,107.0, 
+27,Patrick Murray,TB,6, ,24,232,0,105.0, 
+28,Cairo Santos,KC,9, ,23,204,$1,104.0, 
+29,Kai Forbath  Contract Year Player,WAS,8, ,27,260,0,96.0, 
+30,Ryan Succop,TEN,6, ,28,261,0,93.0, 
+31,Travis Coons,CLE,11, ,23,0,0,90.0, 
+32,Josh Scobee,JAX,8, ,33,254,0,89.0
