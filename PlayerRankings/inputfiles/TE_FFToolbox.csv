@@ -1,73 +1,73 @@
-##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS
-1,Rob Gronkowski  Recently Updated Outlook,NE,4, ,26,10,$37,303.9
-2,Jimmy Graham  Recently Updated Outlook,SEA,9, ,28,27,$25,256.6
-3,Travis Kelce,KC,9, ,25,45,$17,210.5
-4,Greg Olsen,CAR,5, ,30,62,$11,208.9
-5,Coby Fleener  Contract Year Player,IND,10, ,26,163,$3,179.3
-6,Jordan Cameron,MIA,5, ,26,97,$6,175.4
-7,Zach Ertz,PHI,8, ,24,78,$8,175.0
-8,Martellus Bennett  News,CHI,7, ,28,80,$9,171.5
-9,Jason Witten,DAL,6, ,33,129,$5,164.3
-10,Josh Hill  Contract Year Player,NO,11, , ,123,$5,162.4
-11,Heath Miller,PIT,11, ,32,207,$1,161.8
-12,Julius Thomas BUST  News,JAX,8, ,27,77,$10,157.0
-13,Delanie Walker,TEN,4, ,30,131,$4,155.8
-14,Kyle Rudolph  News,MIN,5, ,25,150,$3,153.1
-15,Vernon Davis  Recently Updated Outlook Contract Year Player,SF,10, ,31,182,$2,151.0
-16,Owen Daniels,DEN,7, ,32,160,$3,150.8
-17,Antonio Gates  News Contract Year Player,SD,10,Sus,35,160,$4,141.2
-18,Jared Cook  Recently Updated Outlook,STL,6, ,28,240,$1,139.6
-19,Jordan Reed  News,WAS,8, ,25,179,$2,136.6
-20,Austin Seferian-Jenkins,TB,6, ,22,118,$6,134.3
-21,Eric Ebron,DET,9, ,22,144,$4,132.5
-22,Maxx Williams  News,BAL,9, ,21,146,$5,130.5
-23,Jace Amaro,NYJ,5,Pro,23,199,$2,129.9
-24,Larry Donnell  News Contract Year Player,NYG,11,Pro, ,183,$2,125.7
-25,Charles Clay,BUF,8, ,26,177,$2,118.6
-26,Mychal Rivera,OAK,6, ,24,236,$1,117.2
-27,Tyler Eifert  News,CIN,7,Pro,24,123,$5,117.1
-28,Robert Housler  Contract Year Player,CLE,11, ,27,229,$1,104.2
-29,Dwayne Allen  Contract Year Player,IND,10, ,25,149,$3,103.0
-30,Jacob Tamme,ATL,10, ,30,258,0,92.3
-31,Garrett Graham,HOU,9, ,28,333,$1,89.6
-32,Richard Rodgers,GB,7, ,23,212,$1,80.7
-33,Ladarius Green  News Contract Year Player,SD,10, ,25,150,$4,74.0
-34,Niles Paul  News,WAS,8, ,25,234,$1,73.0
-35,Troy Niklas,ARI,9,Out,22,296,0,65.7
-36,Lance Kendricks,STL,6, ,27,294,0,61.3
-37,Brent Celek,PHI,8, ,30,262,0,58.1
-38,Gavin Escobar,DAL,6, ,24,259,$1,57.4
-39,Anthony Fasano,TEN,4, ,31,36,0,50.5
-40,Marcedes Lewis  News,JAX,8, ,31,415,0,49.3
-41,Scott Chandler,NE,4,Pro,30,282,0,48.1
-42,Gerald Christian,ARI,9, ,23,0,0,47.4
-43,Ben Watson,NO,11, ,34,286,0,46.5
-44,Crockett Gillmore,BAL,9, ,23,273,0,45.0
-45,Levine Toilolo,ATL,10, ,24,341,0,40.1
-46,Andrew Quarless  News Contract Year Player,GB,7, ,26,273,0,39.2
-47,Brandon Myers,TB,6, ,29,0,0,39.2
-48,Luke Willson,SEA,9, ,25,300,0,38.7
-49,Virgil Green,DEN,7, ,26,234,$1,37.6
-50,Tyler Kroft,CIN,7, ,22,277,0,34.7
-51,Dion Sims  News,MIA,5, ,24,275,0,31.6
-52,Dennis Pitta  News,BAL,9,Out,30,273,0,31.4
-53,Jack Doyle  Contract Year Player,IND,10, , ,0,0,30.0
-54,Ed Dickson,CAR,5, ,28,0,0,29.6
-55,Rhett Ellison  Contract Year Player,MIN,5, ,26,0,0,29.5
-56,C.J. Fiedorowicz,HOU,9, ,23,263,$1,28.9
-57,Daniel Fells,NYG,11, ,31,438,0,27.5
-58,Adrien Robinson  Contract Year Player,NYG,11, ,26,0,0,26.2
-59,Zach Miller,CHI,7, ,30,210,0,24.7
-60,Jeff Cumberland,NYJ,5, ,28,344,0,24.5
-61,Jim Dray,CLE,11, ,28,0,0,22.8
-62,Gary Barnidge  Contract Year Player,CLE,11, ,29,0,0,22.7
-63,Clive Walford,OAK,6, ,23,216,$2,21.8
-64,Michael Hoomanawanui  Contract Year Player,NE,4, ,27,0,0,21.4
-65,Tony Moeaki  Contract Year Player,ATL,10, ,28,336,0,21.0
-66,Vance McDonald,SF,10, ,25,402,0,20.0
-67,Dante Rosario  Contract Year Player,CHI,7, ,30,0,0,18.1
-68,Brandon Pettigrew,DET,9, ,30,0,$1,17.3
-69,Clay Harbor,JAX,8, ,28,0,0,17.1
-70,James O'Shaughnessy,KC,9, ,23,400,$1,14.1
-71,Matt Spaeth,PIT,11, ,30,0,0,9.9
-72,Chris Gragg,BUF,8, ,25,0,0,9.8,
+##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
+1,Rob Gronkowski,TE,,4,,26,11.71,$36,300.6
+2,Jimmy Graham,TE,,9,,28,29.4,$24,244.6
+3,Travis Kelce,TE,,9,,25,50.9,$16,210.5
+4,Greg Olsen,TE,,5,,30,58.23,$11,208.9
+5,Jordan Cameron,TE,,5,,27,97.09,$6,175.4
+6,Zach Ertz,TE,,8,Que,24,91.43,$8,175.0
+7,Martellus Bennett,TE,,7,,28,73.1,$9,171.5
+8,Jason Witten,TE,,6,,33,103.92,$5,164.3
+9,Josh Hill,TE,,11,,,134.53,$4,162.4
+10,Julius Thomas,TE,,8,Que,27,75.75,$9,157.0
+11,Delanie Walker,TE,,4,Pro,31,114.63,$4,155.8
+12,Heath Miller,TE,,11,,32,161.26,$2,155.8
+13,Coby Fleener,TE,,10,,26,157.18,$2,153.3
+14,Kyle Rudolph,TE,,5,,25,137.79,$3,153.1
+15,Vernon Davis,TE,,10,,31,157.57,$2,151.0
+16,Owen Daniels,TE,,7,,32,141.43,$3,150.8
+17,Antonio Gates,TE,,10,Sus,35,132.1,$3,141.2
+18,Jared Cook,TE,,6,,28,186.33,$1,139.6
+19,Jordan Reed,TE,,8,Que,25,165.28,$2,136.6
+20,Austin Seferian-Jenkins,TE,,6,,22,120.76,$5,134.3
+21,Eric Ebron,TE,,9,,22,144.62,$3,132.5
+22,Jace Amaro,TE,,5,Que,23,205.11,$1,129.9
+23,Jermaine Gresham,TE,,9,Que,27,226.5,$1,129.3
+24,Larry Donnell,TE,,11,Pro,,167.4,$2,125.7
+25,Tyler Eifert,TE,,7,,24,107.66,$4,121.1
+26,Charles Clay,TE,,8,,26,168.35,$2,118.6
+27,Dwayne Allen,TE,,10,,25,127.71,$3,118.0
+28,Mychal Rivera,TE,,6,,24,203.75,$1,117.2
+29,Rob Housler,TE,,11,,27,242,$1,104.2
+30,Maxx Williams,TE,,9,,21,148.33,$4,102.8
+31,Jacob Tamme,TE,,10,,30,241.8,$0,92.3
+32,Garrett Graham,TE,,9,,29,176,$1,89.6
+33,Richard Rodgers,TE,,7,,23,188.75,$1,80.7
+34,Ladarius Green,TE,,10,,25,156.36,$3,74.0
+35,Crockett Gillmore,TE,,9,,23,0,$0,70.8
+36,Lance Kendricks,TE,,6,,27,0,$0,61.3
+37,Brent Celek,TE,,8,,30,0,$1,58.1
+38,Gavin Escobar,TE,,6,,24,250.5,$1,57.4
+39,Anthony Fasano,TE,,4,,31,0,$0,50.5
+40,Marcedes Lewis,TE,,8,,31,0,$0,49.3
+41,Scott Chandler,TE,,4,Pro,30,166.6,$0,48.1
+42,Benjamin Watson,TE,,11,,34,221,$0,46.5
+43,Levine Toilolo,TE,,10,,24,0,$0,40.1
+44,Andrew Quarless,TE,,7,,26,0,$0,39.2
+45,Brandon Myers,TE,,6,,29,0,$0,39.2
+46,Luke Willson,TE,,9,,25,113,$0,38.7
+47,Virgil Green,TE,,7,,27,208.57,$1,37.6
+48,Tyler Kroft,TE,,7,,22,178,$0,36.5
+49,Dion Sims,TE,,5,,24,0,$0,31.6
+50,Dennis Pitta,TE,,9,Out,30,336,$0,31.4
+51,Jack Doyle,TE,,10,,,0,$0,30.0
+52,Ed Dickson,TE,,5,,28,0,$0,29.6
+53,Rhett Ellison,TE,,5,,26,0,$0,29.5
+54,C.J. Fiedorowicz,TE,,9,,23,0,$1,28.9
+55,Daniel Fells,TE,,11,,31,0,$0,27.5
+56,Adrien Robinson,TE,,11,,26,0,$0,26.2
+57,Zachary Miller,TE,,7,,30,0,$0,24.7
+58,Jeff Cumberland,TE,,5,,28,0,$0,24.5
+59,Gary Barnidge,TE,,11,,29,0,$0,22.7
+60,Clive Walford,TE,,6,Pro,23,204.8,$1,21.8
+61,Michael Hoomanawanui,TE,,4,,27,0,$0,21.4
+62,Tony Moeaki,TE,,10,,28,0,$0,21.0
+63,Vance McDonald,TE,,10,,25,0,$0,20.0
+64,Dante Rosario,TE,,7,,30,0,$0,18.1
+65,Brandon Pettigrew,TE,,9,,30,0,$1,17.3
+66,Clay Harbor,TE,,8,,28,0,$0,17.1
+67,Jim Dray,TE,,11,,28,0,$0,16.2
+68,James O'Shaugnessy,TE,,9,,23,0,$1,14.1
+69,Troy Niklas,TE,,9,,22,0,$0,13.0
+70,Gerald Christian,TE,,9,,23,0,$0,12.5
+71,Matt Spaeth,TE,,11,,30,0,$0,9.9
+72,Chris Gragg,TE,,8,,25,0,$0,9.8

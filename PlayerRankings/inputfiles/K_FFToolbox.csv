@@ -1,33 +1,33 @@
-##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS,
-1,Stephen Gostkowski  Recently Updated Outlook Contract Year Player,NE,4, ,31,153,$3,159.0, 
-2,Steven Hauschka,SEA,9, ,30,184,$1,151.0, 
-3,Adam Vinatieri  Contract Year Player,IND,10, ,42,179,$3,150.0, 
-4,Justin Tucker  Contract Year Player,BAL,9, ,25,183,$1,149.0, 
-5,Mason Crosby  Contract Year Player,GB,7, ,30,197,$1,145.5, 
-6,Dan Bailey,DAL,6, ,27,188,$1,139.0, 
-7,Cody Parkey,PHI,8, ,23,183,$1,135.0, 
-8,Connor Barth,DEN,7, ,29,197,$1,135.0, 
-9,Matt Bryant,ATL,10, ,40,212,$1,128.0,Dome
-10,Dan Carpenter,BUF,8, ,29,212,$1,124.0, 
-11,Nick Novak,SD,10, ,33,249,$1,124.0, 
-12,Blair Walsh  Contract Year Player,MIN,5, ,25,231,$1,124.0, 
-13,Matt Prater,DEN,7, ,30,214,0,123.0, 
-14,Shaun Suisham,PIT,11, ,33,223,$1,123.0, 
-15,Phil Dawson  Contract Year Player,SF,10, ,40,251,0,122.0, 
-16,Chandler Catanzaro,ARI,9, ,24,231,0,120.0,Dome
-17,Caleb Sturgis,MIA,5,Pro,25,233,$1,118.0, 
-18,Graham Gano,CAR,5, ,28,260,0,115.0, 
-19,Josh Brown  Contract Year Player,NYG,11, ,36,265,$1,115.0, 
-20,Robbie Gould,CHI,7, ,32,246,0,115.0, 
-21,Greg Zuerlein  Contract Year Player,STL,6, ,27,255,$1,115.0,Dome
-22,Dustin Hopkins,FA,9, ,24,206,$1,112.0, 
-23,Randy Bullock  Contract Year Player,HOU,9, ,25,294,$1,112.0, 
-24,Nick Folk,NYJ,5, ,30,236,$1,109.0, 
-25,Sebastian Janikowski,OAK,6, ,37,231,$18,109.0, 
-26,Mike Nugent,CIN,7, ,33,265,$1,107.0, 
-27,Patrick Murray,TB,6, ,24,232,0,105.0, 
-28,Cairo Santos,KC,9, ,23,204,$1,104.0, 
-29,Kai Forbath  Contract Year Player,WAS,8, ,27,260,0,96.0, 
-30,Ryan Succop,TEN,6, ,28,261,0,93.0, 
-31,Travis Coons,CLE,11, ,23,0,0,90.0, 
-32,Josh Scobee,JAX,8, ,33,254,0,89.0
+##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
+1,Stephen Gostkowski,K,,4,,31,130.13,$3,159.0
+2,Justin Tucker,K,,9,,25,158.09,$1,151.0
+3,Steven Hauschka,K,,9,,30,163.97,$1,150.0
+4,Adam Vinatieri,K,,10,,42,151.17,$2,150.0
+5,Mason Crosby,K,,7,,30,168.85,$1,145.5
+6,Dan Bailey,K,,6,,27,166.06,$1,139.0
+7,Connor Barth,K,,7,,29,174.98,$1,137.0
+8,Cody Parkey,K,,8,,23,167.2,$1,135.0
+9,Matt Bryant,K,,10,,40,180.31,$1,128.0
+10,Dan Carpenter,K,,8,Out,29,190.06,$1,124.0
+11,Blair Walsh,K,,5,,25,190.48,$1,124.0
+12,Nick Novak,K,,10,,33,197.12,$1,124.0
+13,Shaun Suisham,K,,11,Out,33,175.82,$1,123.0
+14,Matt Prater,K,,7,,31,188.09,$1,123.0
+15,Phil Dawson,K,,10,,40,177.5,$0,122.0
+16,Chandler Catanzaro,K,,9,,24,215.22,$0,120.0
+17,Caleb Sturgis,K,,5,,26,246.8,$1,118.0
+18,Graham Gano,K,,5,,28,202.38,$0,115.0
+19,Greg Zuerlein,K,,6,,27,204.11,$1,115.0
+20,Robbie Gould,K,,7,,32,206.33,$0,115.0
+21,Josh Brown,K,,11,,36,172.56,$0,115.0
+22,Randy Bullock,K,,9,,25,168,$1,112.0
+23,Dustin Hopkins,K,,9,,24,241,$0,112.0
+24,Nick Folk,K,,5,,30,199.6,$0,109.0
+25,Sebastian Janikowski,K,,6,,37,216.14,$7,109.0
+26,Mike Nugent,K,,7,,33,188.67,$1,107.0
+27,Patrick Murray,K,,6,,24,256,$0,105.0
+28,Cairo Santos,K,,9,,23,250.67,$1,104.0
+29,Kai Forbath,K,,8,,27,147.5,$0,96.0
+30,Ryan Succop,K,,6,,28,0,$0,93.0
+31,Travis Coons,K,,11,,23,0,$0,90.0
+32,Josh Scobee,K,,8,,33,0,$0,89.0

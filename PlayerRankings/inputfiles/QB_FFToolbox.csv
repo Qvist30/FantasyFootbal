@@ -1,65 +1,65 @@
-##,PLAYER,NFL,BYE,INJ.,AGE,ADP,AAV,PTS
-1,Andrew Luck  News,IND,10, ,25,10,$40,411.6
-2,Aaron Rodgers  News,GB,7, ,31,16,$36,401.0
-3,Ben Roethlisberger  News,PIT,11, ,33,72,$13,387.8
-4,Russell Wilson  Recently Updated Outlook News Contract Year Player,SEA,9, ,26,42,$22,349.6
-5,Matthew Stafford,DET,9, ,27,83,$12,338.6
-6,Ryan Tannehill  News,MIA,5, ,27,82,$12,332.6
-7,Drew Brees  News,NO,11, ,36,65,$17,330.7
-8,Cam Newton  News,CAR,5, ,26,58,$17,328.6
-9,Tony Romo,DAL,6, ,35,96,$10,328.6
-10,Peyton Manning,DEN,7, ,39,67,$16,328.4
-11,Colin Kaepernick  Recently Updated Outlook,SF,10, ,27,138,$6,310.8
-12,Tom Brady  Recently Updated Outlook News,NE,4,Sus,37,96,$12,308.2
-13,Matt Ryan,ATL,10, ,30,63,$16,301.1
-14,Teddy Bridgewater  News,MIN,5, ,22,109,$11,293.4
-15,Eli Manning COMEBACK  News Contract Year Player,NYG,11, ,34,113,$8,292.1
-16,Andy Dalton  News,CIN,7, ,27,169,$4,291.4
-17,Philip Rivers  Contract Year Player,SD,10, ,33,116,$7,287.3
-18,Alex Smith,KC,9, ,31,186,$2,281.4
-19,Sam Bradford  News Contract Year Player,PHI,8,Pro,27,141,$6,278.8
-20,Joe Flacco  News,BAL,9, ,30,147,$6,276.7
-21,Jameis Winston,TB,6, ,25,125,$9,274.7
-22,Marcus Mariota,TEN,4, ,24,136,$9,266.4
-23,Carson Palmer  News,ARI,9,Que,35,167,$3,265.6
-24,Robert Griffin III,WAS,8, ,25,174,$3,259.9
-25,Geno Smith,NYJ,5, ,24,209,$1,255.7
-26,Derek Carr,OAK,6,Pro,24,144,$7,253.4
-27,Jay Cutler  News,CHI,7, ,32,162,$4,251.1
-28,Nick Foles  Recently Updated Outlook Contract Year Player,STL,6, ,26,182,$4,249.2
-29,Blake Bortles  News,JAX,8, ,23,165,$4,241.8
-30,E.J. Manuel,BUF,8, ,25,237,0,240.5
-31,Johnny Manziel  News,CLE,11, ,22,253,$3,183.8
-32,Ryan Mallett,HOU,9, ,27,245,$1,159.2
-33,Brian Hoyer,HOU,9, ,29,235,0,51.7
-34,Mark Sanchez,PHI,8, ,28,222,$1,46.1
-35,Josh McCown  News,CLE,11, ,36,214,$1,42.3
-36,Kirk Cousins  Contract Year Player,WAS,8, ,26,254,0,39.8
-37,Zach Mettenberger,TEN,4, ,24,280,$1,20.8
-38,Jimmy Clausen,CHI,7, ,26,355,0,20.7
-39,Jimmy Garoppolo  News,NE,4, ,23,236,$2,18.3
-40,Brandon Weeden  Contract Year Player,DAL,6, ,31,316,0,18.0
-41,Chad Henne,JAX,8, ,30,279,0,12.0
-42,Shaun Hill,MIN,5, ,35,414,0,12.0
-43,Mike Glennon,TB,6, ,25,262,0,11.3
-44,Ryan Fitzpatrick  Contract Year Player,NYJ,5, ,32,226,$1,11.1
-45,Chase Daniel  Contract Year Player,KC,9, ,28,0,0,11.0
-46,Matt Cassel  Contract Year Player,BUF,8, ,33,246,$1,11.0
-47,Austin Davis,STL,6, ,26,244,0,10.9
-48,Luke McCown  Contract Year Player,NO,11, ,34,342,0,9.9
-49,Bruce Gradkowski  Contract Year Player,PIT,11,Out,32,0,0,9.6
-50,Kellen Moore,DET,9, ,26,442,0,9.5
-51,Matt Moore  Contract Year Player,MIA,5, ,30,333,0,9.5
-52,T.J. Yates,ATL,10, ,28,292,0,9.4
-53,Scott Tolzien  Contract Year Player,GB,7, ,27,410,0,9.3
-54,Brock Osweiler  Contract Year Player,DEN,7, ,24,236,$1,9.0
-55,Kellen Clemens  Contract Year Player,SD,10, ,32,0,0,9.0
-56,Matt Hasselbeck  Contract Year Player,IND,10, ,39,240,0,9.0
-57,Ryan Nassib,NYG,11, ,25,282,0,8.9
-58,A.J. McCarron,CIN,7, ,24,320,0,8.7
-59,Tarvaris Jackson  Contract Year Player,SEA,9, ,32,0,0,8.5
-60,Drew Stanton  Contract Year Player,ARI,9, ,31,301,0,3.2
-61,Matt Schaub  Contract Year Player,BAL,9, ,34,0,0,3.2
-62,Christian Ponder  Contract Year Player,OAK,6, ,27,408,0,3.1
-63,Derek Anderson  Contract Year Player,CAR,5, ,32,331,$1,2.9
-64,Blaine Gabbert,SF,10, ,25,393,0,2.8
+##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
+1,Andrew Luck,QB,,10,,25,11.57,$41,411.6
+2,Aaron Rodgers,QB,,7,,31,16.72,$36,407.7
+3,Ben Roethlisberger,QB,,11,,33,59.94,$14,388.7
+4,Russell Wilson,QB,,9,,26,43.96,$22,349.6
+5,Tom Brady,QB,,4,Sus,38,86.25,$11,339.4
+6,Matthew Stafford,QB,,9,,27,82.92,$12,338.6
+7,Ryan Tannehill,QB,,5,,27,84.6,$11,332.6
+8,Drew Brees,QB,,11,,36,60.2,$17,330.7
+9,Cam Newton,QB,,5,,26,64.01,$15,328.6
+10,Tony Romo,QB,,6,,35,80.28,$11,328.6
+11,Peyton Manning,QB,,7,,39,51.36,$17,328.4
+12,Colin Kaepernick,QB,,10,,27,130.62,$5,310.8
+13,Matt Ryan,QB,,10,,30,64.77,$15,301.1
+14,Teddy Bridgewater,QB,,5,,22,115.35,$9,293.4
+15,Eli Manning,QB,,11,,34,97.47,$8,292.1
+16,Andy Dalton,QB,,7,,27,146.46,$3,291.4
+17,Philip Rivers,QB,,10,,33,104.46,$7,287.3
+18,Alex Smith,QB,,9,,31,144.6,$2,281.4
+19,Sam Bradford,QB,,8,Pro,27,122.09,$6,278.8
+20,Joe Flacco,QB,,9,,30,141.39,$5,276.7
+21,Jameis Winston,QB,,6,,25,136.75,$8,274.7
+22,Marcus Mariota,QB,,4,,24,138.24,$7,266.4
+23,Carson Palmer,QB,,9,Pro,35,156.75,$3,265.6
+24,Robert Griffin III,QB,,8,,25,170.16,$3,259.9
+25,Geno Smith,QB,,5,Out,24,176,$1,255.7
+26,Derek Carr,QB,,6,Pro,24,148.07,$5,253.4
+27,Jay Cutler,QB,,7,,32,150.57,$3,251.1
+28,Nick Foles,QB,,6,,26,158.69,$3,249.2
+29,Blake Bortles,QB,,8,,23,157.26,$4,241.8
+30,E.J. Manuel,QB,,8,,25,272,$0,240.5
+31,Johnny Manziel,QB,,11,,22,190.5,$3,183.8
+32,Ryan Mallett,QB,,9,,27,183,$1,159.2
+33,Brian Hoyer,QB,,9,,29,199.5,$0,51.7
+34,Mark Sanchez,QB,,8,,28,225.6,$1,46.1
+35,Josh McCown,QB,,11,,36,214.25,$1,42.3
+36,Kirk Cousins,QB,,8,,26,213,$0,39.8
+37,Zach Mettenberger,QB,,4,,24,225.5,$0,20.8
+38,Jimmy Clausen,QB,,7,,26,0,$0,20.7
+39,Jimmy Garoppolo,QB,,4,,23,198.33,$1,18.3
+40,Brandon Weeden,QB,,6,,31,223,$0,18
+41,Chad Henne,QB,,8,,30,0,$0,12
+42,Shaun Hill,QB,,5,,35,0,$0,12
+43,Mike Glennon,QB,,6,,25,0,$0,11.3
+44,Ryan Fitzpatrick,QB,,5,,32,185.67,$1,11.1
+45,Chase Daniel,QB,,9,,28,0,$0,11
+46,Matt Cassel,QB,,8,,33,214,$1,11
+47,Austin Davis,QB,,6,,26,0,$0,10.9
+48,Luke McCown,QB,,11,,34,0,$0,9.9
+49,Bruce Gradkowski,QB,,11,Out,32,0,$0,9.6
+50,Matt Moore,QB,,5,,31,0,$0,9.5
+51,Kellen Moore,QB,,9,,26,0,$0,9.5
+52,T.J. Yates,QB,,10,,28,0,$0,9.4
+53,Scott Tolzien,QB,,7,,27,0,$0,9.3
+54,Brock Osweiler,QB,,7,,24,197.4,$1,9
+55,Kellen Clemens,QB,,10,,32,0,$0,9
+56,Matt Hasselbeck,QB,,10,,39,0,$0,9
+57,Ryan Nassib,QB,,11,,25,0,$0,8.9
+58,A.J. McCarron,QB,,7,Que,24,238,$0,8.7
+59,Tarvaris Jackson,QB,,9,Que,32,0,$0,8.5
+60,Drew Stanton,QB,,9,,31,250,$1,3.2
+61,Matt Schaub,QB,,9,,34,0,$0,3.2
+62,Christian Ponder,QB,,6,,27,273,$0,3.1
+63,Derek Anderson,QB,,5,,32,0,$1,2.9
+64,Blaine Gabbert,QB,,10,,25,0,$0,2.8
