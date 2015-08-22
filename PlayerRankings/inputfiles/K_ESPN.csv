@@ -1,35 +1,37 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
 1,Stephen Gostkowski, NE K,COLE,,0/0,0,0,0,0,0,0,0,0,0,130
-2,Steven Hauschka, Sea K,JLF,,0/0,0,0,0,0,0,0,0,0,0,126
-3,Cody Parkey, Phi K,WOO,,0/0,0,0,0,0,0,0,0,0,0,126
+2,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,126
+3,Cody Parkey, Phi KRecent News,WOO,,0/0,0,0,0,0,0,0,0,0,0,126
 4,Adam Vinatieri, Ind K,JAC,,0/0,0,0,0,0,0,0,0,0,0,125
 5,Connor Barth, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
 6,Shayne Graham, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-7,Shaun Suisham, Pit K,ALES,,0/0,0,0,0,0,0,0,0,0,0,122
-8,Dustin Hopkins, NO KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-9,Mason Crosby, GB K,NIEV,,0/0,0,0,0,0,0,0,0,0,0,121
-10,Dan Carpenter*, Buf K  O,SENK,,0/0,0,0,0,0,0,0,0,0,0,121
-11,Justin Tucker, Bal K,JTR,,0/0,0,0,0,0,0,0,0,0,0,121
-12,Matt Bryant, Atl K,Bro,,0/0,0,0,0,0,0,0,0,0,0,120
-13,Matt Prater, Det K,RMO,,0/0,0,0,0,0,0,0,0,0,0,120
-14,Caleb Sturgis, Mia K,Poo,,0/0,0,0,0,0,0,0,0,0,0,120
-15,Josh Brown, NYG K,FA,,0/0,0,0,0,0,0,0,0,0,0,119
-16,Nick Novak, SD K,NIEV,,0/0,0,0,0,0,0,0,0,0,0,119
-17,Dan Bailey, Dal KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,119
-18,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-19,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-20,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-21,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-22,Blair Walsh, Min K,JAJ,,0/0,0,0,0,0,0,0,0,0,0,116
-23,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-24,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-25,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-26,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-27,Kai Forbath, Wsh K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-28,Randy Bullock, Hou K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-29,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,112
-30,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,107
-31,Josh Scobee, Jac K,FA,,0/0,0,0,0,0,0,0,0,0,0,106
-32,Patrick Murray, TB K,FA,,0/0,0,0,0,0,0,0,0,0,0,103
-33,Carey Spear, Cle K,FA,,0/0,0,0,0,0,0,0,0,0,0,95
-34,Travis Coons, Cle K,FA,,0/0,0,0,0,0,0,0,0,0,0,95
+7,Shaun Suisham*, Pit K  IR,ALES,,0/0,0,0,0,0,0,0,0,0,0,122
+8,Garrett Hartley, Pit K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
+9,Dustin Hopkins, NO K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
+10,Mason Crosby, GB K,NIEV,,0/0,0,0,0,0,0,0,0,0,0,121
+11,Dan Carpenter, Buf K,SENK,,0/0,0,0,0,0,0,0,0,0,0,121
+12,Justin Tucker, Bal K,JTR,,0/0,0,0,0,0,0,0,0,0,0,121
+13,Matt Bryant, Atl K,Bro,,0/0,0,0,0,0,0,0,0,0,0,120
+14,Matt Prater, Det K,RMO,,0/0,0,0,0,0,0,0,0,0,0,120
+15,Caleb Sturgis, Mia K,Poo,,0/0,0,0,0,0,0,0,0,0,0,120
+16,Josh Brown, NYG K,FA,,0/0,0,0,0,0,0,0,0,0,0,119
+17,Nick Novak, SD K,NIEV,,0/0,0,0,0,0,0,0,0,0,0,119
+18,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,119
+19,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
+20,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
+21,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
+22,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
+23,Blair Walsh, Min K,JAJ,,0/0,0,0,0,0,0,0,0,0,0,116
+24,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+25,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+26,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+27,Robbie Gould, Chi K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+28,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+29,Kai Forbath, Wsh K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+30,Randy Bullock, Hou K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
+31,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,112
+32,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,107
+33,Josh Scobee, Jac K,FA,,0/0,0,0,0,0,0,0,0,0,0,106
+34,Patrick Murray, TB K,FA,,0/0,0,0,0,0,0,0,0,0,0,103
+35,Carey Spear, Cle K,FA,,0/0,0,0,0,0,0,0,0,0,0,95
+36,Travis Coons, Cle K,FA,,0/0,0,0,0,0,0,0,0,0,0,95

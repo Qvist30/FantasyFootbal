@@ -1,127 +1,253 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
-1,Jamaal Charles,RB,,9,,28,8.08,$34,257.3
-2,Le'Veon Bell,RB,,11,Sus,22,2.63,$40,243.0
-3,Eddie Lacy,RB,,7,,24,6.9,$35,242.3
-4,Adrian Peterson,RB,,5,,30,7.73,$32,235.2
-5,C.J. Anderson,RB,,7,,24,19.47,$27,226.5
-6,Marshawn Lynch,RB,,9,,29,16.57,$29,226.2
-7,Matt Forte,RB,,7,,29,18.46,$29,216.0
-8,Jeremy Hill,RB,,7,,22,22.15,$27,210.1
-9,DeMarco Murray,RB,,8,,27,20.62,$28,193.5
-10,LeSean McCoy,RB,,8,Pro,27,20.17,$27,189.4
-11,Joseph Randle,RB,,6,,23,51.54,$12,183.6
-12,Justin Forsett,RB,,9,,29,33.12,$19,172.1
-13,Lamar Miller,RB,,5,,24,40.22,$16,169.2
-14,Melvin Gordon,RB,,10,,23,32.83,$24,164.1
-15,Jonathan Stewart,RB,,5,,28,66.15,$10,162.6
-16,Carlos Hyde,RB,,10,,23,44.11,$18,157.8
-17,Ameer Abdullah,RB,,9,,23,63.31,$14,156.0
-18,Giovani Bernard,RB,,7,,23,66.48,$12,151.1
-19,Chris Ivory,RB,,5,,27,115.29,$5,148.1
-20,David Johnson,RB,,9,Pro,22,117.86,$6,147.4
-21,Andre Ellington,RB,,9,Pro,26,54.97,$13,147.2
-22,Alfred Morris,RB,,8,,26,49.69,$16,146.0
-23,Frank Gore,RB,,10,,32,46.43,$16,145.2
-24,C.J. Spiller,RB,,11,,27,50.66,$15,144.7
-25,LeGarrette Blount,RB,,4,Sus,28,95.28,$6,140.9
-26,Mark Ingram,RB,,11,Pro,25,45.33,$15,140.7
-27,Tevin Coleman,RB,,10,Que,23,76.81,$12,138.8
-28,Alfred Blue,RB,,9,,24,126.73,$2,138.3
-29,Doug Martin,RB,,6,,26,82.83,$8,137.0
-30,Isaiah Crowell,RB,,11,,22,85.43,$7,135.4
-31,Latavius Murray,RB,,6,,24,50.47,$14,134.7
-32,T.J. Yeldon,RB,,8,,23,54.43,$17,131.0
-33,Joique Bell,RB,,9,Out,29,91.77,$7,129.8
-34,Tre Mason,RB,,6,Que,22,100.68,$7,125.1
-35,James White,RB,,4,,23,189.53,$2,114.7
-36,Jay Ajayi,RB,,5,,23,132.92,$5,113.6
-37,David Cobb,RB,,4,Pro,23,136.71,$5,111.1
-38,Arian Foster,RB,,9,Out,28,44.23,$27,107.0
-39,Rashad Jennings,RB,,11,,30,97.66,$6,106.8
-40,Knile Davis,RB,,9,,23,125.41,$4,103.9
-41,Reggie Bush,RB,,10,,30,150,$3,99.0
-42,Andre Williams,RB,,11,,22,176.15,$2,96.0
-43,Darren McFadden,RB,,6,Out,27,127.31,$6,95.4
-44,Dan Herron,RB,,10,,26,197.56,$1,93.6
-45,Bishop Sankey,RB,,4,,22,116.58,$5,92.8
-46,Terrance West,RB,,11,Pro,24,209.58,$1,92.1
-47,Ryan Mathews,RB,,10,,27,125,$5,91.1
-48,Todd Gurley,RB,,6,Pro,23,40.4,$24,91.0
-49,Devonta Freeman,RB,,10,Que,23,109.21,$5,90.3
-50,Charles Sims,RB,,6,,24,137.55,$4,89.8
-51,Darren Sproles,RB,,8,,32,170.98,$2,88.0
-52,Danny Woodhead,RB,,10,,30,151.94,$3,84.7
-53,Lorenzo Taliaferro,RB,,9,,23,244.57,$1,82.2
-54,Fred Jackson,RB,,8,,34,184.1,$1,80.9
-55,Duke Johnson,RB,,11,Que,23,108.63,$7,78.8
-56,Chris Polk,RB,,8,,25,184.19,$1,78.2
-57,Montee Ball,RB,,7,,24,149.32,$2,77.8
-58,Shane Vereen,RB,,11,,26,89.87,$6,73.0
-59,Christine Michael,RB,,9,,24,180.38,$2,68.6
-60,Matt Jones,RB,,8,Que,22,179.76,$3,67.9
-61,Jonas Gray,RB,,4,,25,258.75,$1,67.8
-62,Stevan Ridley,RB,,5,Out,26,225.5,$1,67.4
-63,Benny Cunningham,RB,,6,,25,0,$0,66.4
-64,Toby Gerhart,RB,,8,,28,203,$0,63.9
-65,Theo Riddick,RB,,9,,24,240,$1,63.3
-66,Branden Oliver,RB,,10,,24,243,$1,61.1
-67,Trent Richardson,RB,,10,,24,302.33,$1,60.7
-68,Roy Helu,RB,,6,Que,26,160.96,$3,55.8
-69,James Starks,RB,,7,,29,229.47,$1,55.4
-70,Kendall Hunter,RB,,10,,26,412,$0,48.1
-71,Javorius Allen,RB,,9,,23,168.27,$3,47.6
-72,Zac Stacy,RB,,6,,24,303,$1,42.7
-73,Jerick McKinnon,RB,,5,,23,164.64,$3,40.5
-74,Jordan Todman,RB,,8,,25,0,$0,40.4
-75,Lance Dunbar,RB,,6,Que,25,208.94,$1,39.9
-76,Marcel Reece,RB,,6,,30,0,$1,39.2
-77,Travaris Cadet,RB,,4,,26,245.75,$1,38.9
-78,Dexter McCluster,RB,,4,,26,0,$1,38.4
-79,Jeremy Langford,RB,,7,,23,200.71,$2,38.4
-80,DeAngelo Williams,RB,,11,,32,172.33,$1,38.0
-81,Antone Smith,RB,,10,,29,0,$1,37.5
-82,Bilal Powell,RB,,5,,26,343.33,$0,37.4
-83,Robert Turbin,RB,,9,,25,222.29,$0,35.2
-84,Denard Robinson,RB,,8,,24,220.53,$1,35.1
-85,Mike Tolbert,RB,,5,,29,0,$1,35.0
-86,Dri Archer,RB,,11,,24,247,$0,34.8
-87,Darrel Young,RB,,8,,28,0,$0,33.2
-88,Khiry Robinson,RB,,11,,,227.33,$1,33.1
-89,Bobby Rainey,RB,,6,,27,0,$1,31.9
-90,Ronnie Hillman,RB,,7,,23,300,$1,30.7
-91,Matt Asiata,RB,,5,,28,241.33,$1,28.8
-92,Jacquizz Rodgers,RB,,10,,25,0,$0,28.6
-93,Karlos Williams,RB,,8,,23,278.33,$0,28.0
-94,Bryce Brown,RB,,8,,24,289,$1,27.8
-95,Cameron Artis-Payne,RB,,5,,23,180.79,$2,27.1
-96,Brandon Bolden,RB,,4,,25,0,$0,25.3
-97,Donald Brown,RB,,10,,28,0,$0,23.0
-98,Damien Williams,RB,,5,,23,369,$0,22.1
-99,Ka'Deem Carey,RB,,7,Que,22,295,$1,20.7
-100,Anthony Dixon,RB,,9,Que,27,0,$0,20.5
-101,Bernard Pierce,RB,,5,,24,415,$0,20.2
-102,Fozzy Whittaker,RB,,5,,26,186,$0,19.3
-103,John Kuhn,RB,,7,,32,0,$0,18.3
-104,Kyle Juszczyk,RB,,9,,24,0,$0,18.3
-105,Jonathan Grimes,RB,,9,,25,441.5,$0,17.7
-106,Mike James,RB,,6,,24,0,$0,16.5
-107,Zurlon Tipton,RB,,10,,25,0,$0,14.7
-108,Fitzgerald Toussaint,RB,,9,,25,0,$0,14.5
-109,Mike Davis,RB,,10,,22,249.92,$2,13.7
-110,LaMichael James,RB,,10,,25,148,$1,13.6
-111,Erik Lorig,RB,,11,,28,0,$0,13.5
-112,Anthony Sherman,RB,,9,,26,0,$0,12.4
-113,Silas Redd,RB,,8,Pro,23,0,$0,12.0
-114,Charcandrick West,RB,,9,,24,0,$0,12.0
-115,Rex Burkhead,RB,,7,,25,0,$0,11.4
-116,Rajion Neal,RB,,7,,23,0,$0,11.1
-117,Stepfan Taylor,RB,,9,Pro,24,0,$1,11.0
-118,Will Johnson,RB,,11,,25,0,$0,10.5
-119,Kerwynn Williams,RB,,9,,24,245,$1,9.7
-120,Josh Robinson,RB,,10,Que,22,224.14,$3,9.3
-121,Daryl Richardson,RB,,11,,25,0,$0,8.9
-122,Storm Johnson,RB,,8,,23,0,$0,6.5
-123,George Winn,RB,,9,,24,0,$0,4.3
-124,Ryan Williams,RB,,6,Pro,25,287.75,$1,4.2
-125,Cedric Peerman,RB,,7,,28,0,$0,3.9
-126,DuJuan Harris,RB,,5,,26,0,$0,1.2
+1,"Le'Veon Bell
+",RB,,11,Sus,23,2.49,$41,256.3
+2,"Eddie Lacy
+",RB,,7,,24,6.21,$37,247.8
+3,"Adrian Peterson
+",RB,,5,Pro,30,5.1,$36,246.0
+4,"Jamaal Charles
+",RB,,9,,28,6.86,$36,237.3
+5,"Marshawn Lynch
+",RB,,9,,29,13.71,$32,232.2
+6,"C.J. Anderson
+",RB,,7,,24,15.56,$30,227.8
+7,"Jeremy Hill
+",RB,,7,,22,20.8,$28,211.1
+8,"Joseph Randle
+",RB,,6,Que,23,46.04,$15,201.3
+9,"Matt Forte
+",RB,,7,,29,16.89,$32,200.8
+10,"DeMarco Murray
+",RB,,8,Pro,27,19.22,$29,198.3
+11,"LeSean McCoy
+",RB,,8,Que,27,22.22,$29,193.9
+12,"Justin Forsett
+",RB,,9,,29,29.23,$21,185.4
+13,"Alfred Morris
+",RB,,8,,26,44.57,$17,177.7
+14,"Lamar Miller
+",RB,,5,,24,34.9,$18,177.0
+15,"Melvin Gordon
+",RB,,10,Pro,23,37.51,$25,163.5
+16,"Jonathan Stewart
+",RB,,5,,28,59.83,$11,159.3
+17,"Andre Ellington
+",RB,,9,,26,50.03,$14,156.5
+18,"Chris Ivory
+",RB,,5,,27,91.46,$5,153.9
+19,"Ameer Abdullah
+",RB,,9,,23,46.38,$15,153.9
+20,"Latavius Murray
+",RB,,6,,24,45.58,$15,150.3
+21,"Mark Ingram
+",RB,,11,,25,39.98,$16,146.7
+22,"Carlos Hyde
+",RB,,10,,23,46.96,$18,146.4
+23,"C.J. Spiller
+",RB,,11,Que,28,58.38,$15,146.1
+24,"Frank Gore
+",RB,,10,,32,38.57,$18,145.2
+25,"T.J. Yeldon
+",RB,,8,Pro,23,58.73,$17,143.0
+26,"Doug Martin
+",RB,,6,,26,71.2,$9,137.0
+27,"LeGarrette Blount
+",RB,,4,Sus,28,84.13,$6,136.0
+28,"Isaiah Crowell
+",RB,,11,,22,94.99,$7,135.9
+29,"Giovani Bernard
+",RB,,7,,23,69.58,$12,131.6
+30,"Tre Mason
+",RB,,6,,22,101.67,$6,125.1
+31,"David Johnson
+",RB,,9,Pro,22,146.37,$5,123.4
+32,"Chris Polk
+",RB,,8,,25,193.06,$1,122.2
+33,"Alfred Blue
+",RB,,9,,24,92.53,$4,122.2
+34,"Tevin Coleman
+",RB,,10,Pro,23,86.05,$10,117.6
+35,"Arian Foster
+",RB,,9,Out,28,80.93,$22,113.1
+36,"Devonta Freeman
+",RB,,10,Pro,23,107.78,$5,111.2
+37,"David Cobb
+",RB,,4,,23,125.8,$5,111.1
+38,"Joique Bell
+",RB,,9,Out,29,89.72,$8,110.7
+39,"Terrance West
+",RB,,11,,24,198.72,$1,108.5
+40,"James White
+",RB,,4,,23,180.4,$1,106.9
+41,"Rashad Jennings
+",RB,,11,,30,89.24,$6,106.8
+42,"Reggie Bush
+",RB,,10,,30,139.87,$3,104.3
+43,"Knile Davis
+",RB,,9,,23,126.61,$3,103.9
+44,"Andre Williams
+",RB,,11,,22,165.78,$2,96.0
+45,"Darren McFadden
+",RB,,6,,27,120.12,$5,93.7
+46,"Dan Herron
+",RB,,10,,26,169.79,$1,93.6
+47,"Bishop Sankey
+",RB,,4,,22,116.72,$6,92.8
+48,"Ryan Mathews
+",RB,,10,,27,111.6,$6,92.5
+49,"Todd Gurley
+",RB,,6,Que,23,50.2,$23,91.0
+50,"Charles Sims
+",RB,,6,,24,148.01,$4,89.8
+51,"Darren Sproles
+",RB,,8,,32,140.12,$2,89.7
+52,"Theo Riddick
+",RB,,9,,24,202.12,$1,84.3
+53,"Duke Johnson
+",RB,,11,Que,23,117.34,$6,82.5
+54,"Danny Woodhead
+",RB,,10,,30,117.9,$3,82.5
+55,"Lorenzo Taliaferro
+",RB,,9,,23,192.97,$1,82.2
+56,"Montee Ball
+",RB,,7,,24,146.2,$3,78.3
+57,"Fred Jackson
+",RB,,8,Pro,34,163.16,$1,74.9
+58,"Shane Vereen
+",RB,,11,,26,86.8,$6,73.0
+59,"Roy Helu
+",RB,,6,Que,26,160.89,$2,70.3
+60,"Damien Williams
+",RB,,5,,23,220.42,$0,70.0
+61,"Christine Michael
+",RB,,9,,24,194,$2,68.6
+62,"Matt Jones
+",RB,,8,,23,160.61,$2,67.9
+63,"Benny Cunningham
+",RB,,6,,25,191,$0,66.4
+64,"DeAngelo Williams
+",RB,,11,,32,158.27,$1,61.4
+65,"Branden Oliver
+",RB,,10,,24,200.67,$1,60.3
+66,"Chris Johnson
+",RB,,5,,29,176.69,$1,59.6
+67,"Zac Stacy
+",RB,,6,,24,229,$1,55.8
+68,"Toby Gerhart
+",RB,,8,,28,0,$1,52.6
+69,"James Starks
+",RB,,7,,29,181.91,$1,51.0
+70,"Stevan Ridley
+",RB,,5,Out,26,211.14,$1,48.4
+71,"Kendall Hunter
+",RB,,10,,26,213,$0,48.1
+72,"Denard Robinson
+",RB,,8,,24,206.06,$1,47.3
+73,"Khiry Robinson
+",RB,,11,,,186.12,$1,46.7
+74,"Javorius Allen
+",RB,,9,,23,182.05,$3,46.7
+75,"Jay Ajayi
+",RB,,5,,23,156.38,$3,43.9
+76,"Jordan Todman
+",RB,,8,,25,0,$0,39.8
+77,"Marcel Reece
+",RB,,6,,30,133,$1,39.2
+78,"Dexter McCluster
+",RB,,4,,26,230,$1,38.4
+79,"Lance Dunbar
+",RB,,6,Pro,25,213.81,$1,38.4
+80,"Jeremy Langford
+",RB,,7,,23,203.29,$2,38.4
+81,"Antone Smith
+",RB,,10,Pro,29,218.5,$1,37.5
+82,"Bilal Powell
+",RB,,5,,26,219.5,$0,37.4
+83,"Jonathan Grimes
+",RB,,9,,25,271.5,$0,36.7
+84,"Mike Tolbert
+",RB,,5,,29,0,$1,35.9
+85,"Jerick McKinnon
+",RB,,5,,23,164.29,$3,35.5
+86,"Robert Turbin
+",RB,,9,,25,222.06,$1,35.2
+87,"Dri Archer
+",RB,,11,,24,282,$0,34.8
+88,"Darrel Young
+",RB,,8,,28,0,$0,33.2
+89,"Bobby Rainey
+",RB,,6,,27,204,$1,31.9
+90,"Ronnie Hillman
+",RB,,7,,23,203.85,$1,30.8
+91,"Jacquizz Rodgers
+",RB,,10,,25,188.6,$0,28.6
+92,"Trent Richardson
+",RB,,10,,24,214.67,$1,28.3
+93,"Cameron Artis-Payne
+",RB,,5,,23,178.35,$2,26.9
+94,"Travaris Cadet
+",RB,,4,Pro,26,207.5,$1,26.7
+95,"Jonas Gray
+",RB,,4,,25,156.2,$1,26.3
+96,"Brandon Bolden
+",RB,,4,,25,203.33,$0,25.3
+97,"Donald Brown
+",RB,,10,Pro,28,191,$0,23.0
+98,"Ka'Deem Carey
+",RB,,7,,22,160,$1,20.7
+99,"Bernard Pierce
+",RB,,5,,24,0,$0,20.2
+100,"Fozzy Whittaker
+",RB,,5,,26,194,$0,19.3
+101,"Matt Asiata
+",RB,,5,,28,218.3,$1,19.0
+102,"John Kuhn
+",RB,,7,,32,0,$0,18.3
+103,"Kyle Juszczyk
+",RB,,9,,24,0,$0,18.3
+104,"Mike James
+",RB,,6,,24,0,$0,16.5
+105,"Bryce Brown
+",RB,,8,Pro,24,237,$1,16.4
+106,"Zurlon Tipton
+",RB,,10,,25,0,$0,14.7
+107,"Fitzgerald Toussaint
+",RB,,9,,25,0,$0,14.5
+108,"Mike Davis
+",RB,,10,,22,246,$1,13.7
+109,"LaMichael James
+",RB,,10,,25,0,$1,13.6
+110,"Erik Lorig
+",RB,,11,,28,0,$0,13.5
+111,"Anthony Sherman
+",RB,,9,,26,0,$0,12.4
+112,"Charcandrick West
+",RB,,9,,24,0,$1,12.0
+113,"Rex Burkhead
+",RB,,7,,25,0,$0,11.5
+114,"Stepfan Taylor
+",RB,,9,,24,0,$1,11.0
+115,"Will Johnson
+",RB,,11,,25,0,$0,10.5
+116,"Kerwynn Williams
+",RB,,9,,24,0,$1,9.7
+117,"Karlos Williams
+",RB,,8,Que,23,211.5,$1,9.6
+118,"Rajion Neal
+",RB,,7,,23,0,$0,9.6
+119,"Josh Robinson
+",RB,,10,,22,199.93,$2,9.3
+120,"Daryl Richardson
+",RB,,11,Que,25,0,$0,8.9
+121,"Anthony Dixon
+",RB,,9,Pro,27,0,$0,8.5
+122,"Storm Johnson
+",RB,,8,,23,0,$0,6.5
+123,"George Winn
+",RB,,9,,24,0,$0,4.3
+124,"Ryan Williams
+",RB,,6,Pro,25,287.75,$1,4.2
+125,"Cedric Peerman
+",RB,,7,,28,188,$0,3.9
+126,"DuJuan Harris
+",RB,,5,,26,0,$0,1.2
