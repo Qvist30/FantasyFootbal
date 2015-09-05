@@ -1,81 +1,109 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Rob Gronkowski, NE TERecent News,FA,,0/0,0,0,0,0,0,0,83,1022,9,239.2
-2,Jimmy Graham, Sea TEBreaking News and Video,FA,,0/0,0,0,0,0,0,0,65,773,8,189.4
-3,Travis Kelce, KC TEBreaking Video,FA,,0/0,0,0,0,0,0,0,74,799,5,182.2
-4,Greg Olsen, Car TEBreaking News,FA,,0/0,0,0,0,0,0,0,68,828,5,180.1
-5,Julius Thomas, Jac TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,70,791,5,177.8
-6,Martellus Bennett, Chi TEBreaking News,FA,,0/0,0,0,0,0,0,0,69,741,5,173
-7,Jason Witten, Dal TE,FA,,0/0,0,0,0,0,0,0,58,670,6,161
-8,Zach Ertz, Phi TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,56,698,5,155.3
-9,Delanie Walker, Ten TE  PRecent News,FA,,0/0,0,0,0,0,0,0,60,686,4,151.2
-10,Jordan Cameron, Mia TERecent News,FA,,0/0,0,0,0,0,0,0,52,641,5,145.8
-11,Dwayne Allen, Ind TERecent News,FA,,0/0,0,0,0,0,0,0,50,543,6,139.8
-12,Larry Donnell, NYG TE  P,FA,,0/0,0,0,0,0,0,0,50,589,5,137.8
-13,Tyler Eifert, Cin TERecent News,FA,,0/0,0,0,0,0,0,0,52,606,4,136.1
-14,Heath Miller, Pit TEBreaking News,FA,,0/0,0,0,0,0,0,0,53,599,4,135.8
-15,Kyle Rudolph, Min TEBreaking News,FA,,0/0,0,0,0,0,0,0,53,588,4,135.7
-16,Eric Ebron, Det TERecent News,FA,,0/0,0,0,0,0,0,0,53,590,4,135.5
-17,Owen Daniels, Den TEBreaking News,FA,,0/0,0,0,0,0,0,0,49,556,5,134.5
-18,Austin Seferian-Jenkins, TB TE,FA,,0/0,0,0,0,0,0,0,49,596,4,132.1
-19,Josh Hill, NO TERecent News,FA,,0/0,0,0,0,0,0,0,46,500,6,131.6
-20,Charles Clay, Buf TE,FA,,0/0,0,0,0,0,0,0,49,542,4,127.1
-21,Jordan Reed, Wsh TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,50,515,4,124.8
-22,Vernon Davis, SF TEBreaking News,FA,,0/0,0,0,0,0,0,0,45,587,3,121.1
-23,Antonio Gates, SD TE  SSPD,FA,,0/0,0,0,0,0,0,0,42,508,4,116.5
-24,Coby Fleener, Ind TERecent News,FA,,0/0,0,0,0,0,0,0,39,469,5,115.9
-25,Richard Rodgers, GB TE,FA,,0/0,0,0,0,0,0,0,39,446,5,113.3
-26,Jace Amaro, NYJ TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,44,485,3,110.1
-27,Jared Cook, StL TEBreaking News,FA,,0/0,0,0,0,0,0,0,42,492,3,109
-28,Jacob Tamme, Atl TEBreaking News,FA,,0/0,0,0,0,0,0,0,43,469,3,107.6
-29,Rob Housler, Cle TERecent News,FA,,0/0,0,0,0,0,0,0,41,475,2,99.9
-30,Ladarius Green, SD TE,FA,,0/0,0,0,0,0,0,0,35,435,3,96.3
-31,Maxx Williams, Bal TERecent News,FA,,0/0,0,0,0,0,0,0,35,411,3,93.8
-32,Mychal Rivera, Oak TEBreaking News,FA,,0/0,0,0,0,0,0,0,36,410,2,88.2
+1,Rob Gronkowski, NE TEBreaking News and Video,FA,,0/0,0,0,0,0,0,0,88,1089,10,256.9
+2,Jimmy Graham, Sea TE,FA,,0/0,0,0,0,0,0,0,65,774,9,195.5
+3,Travis Kelce, KC TE  PRecent News,FA,,0/0,0,0,0,0,0,0,77,838,6,195.1
+4,Greg Olsen, Car TE,FA,,0/0,0,0,0,0,0,0,71,866,5,186.9
+5,Martellus Bennett, Chi TE,FA,,0/0,0,0,0,0,0,0,72,777,5,179.6
+6,Jason Witten, Dal TERecent News,FA,,0/0,0,0,0,0,0,0,58,670,6,161
+7,Delanie Walker, Ten TE,FA,,0/0,0,0,0,0,0,0,64,727,4,159.3
+8,Zach Ertz, Phi TE  Q,FA,,0/0,0,0,0,0,0,0,52,652,6,152.7
+9,Jordan Reed, Wsh TE,FA,,0/0,0,0,0,0,0,0,60,624,4,145.5
+10,Jordan Cameron, Mia TE,FA,,0/0,0,0,0,0,0,0,51,624,5,143.1
+11,Dwayne Allen, Ind TE,FA,,0/0,0,0,0,0,0,0,50,544,6,139.9
+12,Larry Donnell, NYG TE,FA,,0/0,0,0,0,0,0,0,50,594,5,138.3
+13,Tyler Eifert, Cin TE,FA,,0/0,0,0,0,0,0,0,53,615,4,138
+14,Heath Miller, Pit TE,FA,,0/0,0,0,0,0,0,0,54,609,4,137.8
+15,Owen Daniels, Den TE,FA,,0/0,0,0,0,0,0,0,50,557,5,135.6
+16,Eric Ebron, Det TE  PRecent News,FA,,0/0,0,0,0,0,0,0,53,590,4,135.5
+17,Kyle Rudolph, Min TE,FA,,0/0,0,0,0,0,0,0,52,578,4,133.7
+18,Julius Thomas*, Jac TE  ORecent News,FA,,0/0,0,0,0,0,0,0,51,570,4,131.1
+19,Austin Seferian-Jenkins, TB TE,FA,,0/0,0,0,0,0,0,0,48,584,4,129.9
+20,Jared Cook, StL TE,FA,,0/0,0,0,0,0,0,0,50,591,3,126.9
+21,Charles Clay, Buf TE,FA,,0/0,0,0,0,0,0,0,49,531,4,126
+22,Antonio Gates, SD TE  SSPD,FA,,0/0,0,0,0,0,0,0,42,509,5,122.6
+23,Vernon Davis, SF TE,FA,,0/0,0,0,0,0,0,0,44,577,3,119.1
+24,Richard Rodgers, GB TERecent News,FA,,0/0,0,0,0,0,0,0,41,469,5,117.6
+25,Coby Fleener, Ind TERecent News,FA,,0/0,0,0,0,0,0,0,39,470,5,116
+26,Jacob Tamme, Atl TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,45,487,3,111.4
+27,Benjamin Watson, NO TE,FA,,0/0,0,0,0,0,0,0,41,463,4,111
+28,Jeff Cumberland, NYJ TE,FA,,0/0,0,0,0,0,0,0,37,443,3,99.1
+29,Maxx Williams, Bal TE  PRecent News,FA,,0/0,0,0,0,0,0,0,35,412,3,93.9
+30,Ladarius Green, SD TE,FA,,0/0,0,0,0,0,0,0,33,413,3,92.1
+31,Josh Hill, NO TERecent News,FA,,0/0,0,0,0,0,0,0,32,338,4,89.6
+32,Mychal Rivera, Oak TE,FA,,0/0,0,0,0,0,0,0,36,410,2,88.2
 33,David Johnson, SD TE,FA,,0/0,0,0,0,59,239,2,23,189,1,82
-34,Virgil Green, Den TEBreaking News,FA,,0/0,0,0,0,0,0,0,32,296,3,79.3
-35,Clive Walford, Oak TE  PBreaking News,FA,,0/0,0,0,0,0,0,0,29,339,2,74.6
-36,Dion Sims, Mia TERecent News,FA,,0/0,0,0,0,0,0,0,27,290,2,67.7
-37,Lance Kendricks, StL TE,FA,,0/0,0,0,0,0,0,0,26,284,2,66.2
-38,Benjamin Watson, NO TERecent News,FA,,0/0,0,0,0,0,0,0,24,270,2,62.8
-39,Darren Fells, Ari TE,FA,,0/0,0,0,0,0,0,0,24,268,2,62.6
-40,Crockett Gillmore, Bal TERecent News,FA,,0/0,0,0,0,0,0,0,23,267,2,61.5
-41,Dennis Pitta*, Bal TE  O,FA,,0/0,0,0,0,0,0,0,23,264,2,61.3
-42,Brent Celek, Phi TEBreaking News,FA,,0/0,0,0,0,0,0,0,23,252,2,60
-43,Gavin Escobar, Dal TERecent News,FA,,0/0,0,0,0,0,0,0,16,200,3,53.9
-44,Marcedes Lewis, Jac TEBreaking News,FA,,0/0,0,0,0,0,0,0,19,221,2,52.9
-45,Troy Niklas, Ari TERecent News,FA,,0/0,0,0,0,0,0,0,20,210,2,52.8
-46,Scott Chandler, NE TE  PRecent News,FA,,0/0,0,0,0,0,0,0,18,197,2,49.6
-47,Garrett Graham, Hou TEBreaking News,FA,,0/0,0,0,0,0,0,0,19,204,1,45.1
-48,Tim Wright, TB TE,FA,,0/0,0,0,0,0,0,0,15,181,1,39
-49,Ed Dickson, Car TE,FA,,0/0,0,0,0,0,0,0,15,179,1,38.8
-50,Jermaine Gresham, Ari TE  QRecent News,FA,,0/0,0,0,0,0,0,0,16,166,1,38.2
-51,Daniel Fells, NYG TE,FA,,0/0,0,0,0,0,0,0,15,170,1,37.7
-52,Tyler Kroft, Cin TE,FA,,0/0,0,0,0,0,0,0,14,156,1,35.5
-53,C.J. Fiedorowicz, Hou TERecent News,FA,,0/0,0,0,0,0,0,0,14,155,1,35.3
-54,MyCole Pruitt, Min TE  PBreaking News,FA,,0/0,0,0,0,0,0,0,12,139,1,31.8
-55,Levine Toilolo, Atl TEBreaking News,FA,,0/0,0,0,0,0,0,0,12,133,1,31.2
-56,Jack Doyle, Ind TE,FA,,0/0,0,0,0,0,0,0,12,132,1,31.1
-57,James Casey, Den TE,FA,,0/0,0,0,0,0,0,0,13,115,1,30.4
-58,Luke Willson, Sea TE,FA,,0/0,0,0,0,0,0,0,11,125,1,29.5
-59,Joseph Fauria, Det TE  P,FA,,0/0,0,0,0,0,0,0,11,123,1,29.2
-60,Brandon Myers, TB TE,FA,,0/0,0,0,0,0,0,0,11,122,1,29.2
-61,Andrew Quarless, GB TE,FA,,0/0,0,0,0,0,0,0,11,120,1,28.9
-62,James O'Shaughnessy, KC TE,FA,,0/0,0,0,0,0,0,0,10,120,1,27.9
-63,Jeff Cumberland, NYJ TERecent News,FA,,0/0,0,0,0,0,0,0,10,119,1,27.8
-64,Ryan Griffin, Hou TE  QRecent News,FA,,0/0,0,0,0,0,0,0,10,113,1,27.2
-65,MarQueis Gray, Buf TE,FA,,0/0,0,0,0,0,0,0,9,98,1,24.7
-66,Dante Rosario, Chi TE,FA,,0/0,0,0,0,0,0,0,8,87,1,22.6
-67,Logan Paulsen*, Wsh TE  OBreaking News,FA,,0/0,0,0,0,0,0,0,7,75,1,20.4
-68,Anthony Fasano, Ten TEBreaking News,FA,,0/0,0,0,0,0,0,0,7,74,1,20.3
-69,Craig Stevens, Ten TE,FA,,0/0,0,0,0,0,0,0,7,74,1,20.3
-70,Kennard Backman, GB TE,FA,,0/0,0,0,0,0,0,0,5,59,1,16.9
-71,Lee Smith, Oak TERecent News,FA,,0/0,0,0,0,0,0,0,7,81,0,15
-72,Cory Harkey, StL TE,FA,,0/0,0,0,0,0,0,0,8,65,0,14.5
-73,Vance McDonald, SF TE,FA,,0/0,0,0,0,0,0,0,6,73,0,13.2
-74,Blake Bell, SF TE,FA,,0/0,0,0,0,0,0,0,6,71,0,13
-75,Gary Barnidge, Cle TERecent News,FA,,0/0,0,0,0,0,0,0,6,67,0,12.6
-76,Brandon Pettigrew, Det TE,FA,,0/0,0,0,0,0,0,0,5,61,0,11
-77,Ryan Hewitt, Cin TE,FA,,0/0,0,0,0,0,0,0,6,47,0,10.7
-78,Chris Gragg, Buf TE,FA,,0/0,0,0,0,0,0,0,4,50,0,9
-79,Matt Spaeth, Pit TE,FA,,0/0,0,0,0,0,0,0,4,47,0,8.7
-80,Jesse James, Pit TE,FA,,0/0,0,0,0,0,0,0,4,46,0,8.6
+34,Brent Celek, Phi TE,FA,,0/0,0,0,0,0,0,0,24,268,3,68.6
+35,Rob Housler, Cle TE,FA,,0/0,0,0,0,0,0,0,26,305,2,68.1
+36,Clive Walford, Oak TE  Q,FA,,0/0,0,0,0,0,0,0,26,300,2,67.7
+37,Garrett Graham, Hou TE,FA,,0/0,0,0,0,0,0,0,26,287,2,66.4
+38,Crockett Gillmore, Bal TE,FA,,0/0,0,0,0,0,0,0,25,281,2,64.9
+39,Lance Kendricks, StL TE,FA,,0/0,0,0,0,0,0,0,25,270,2,63.8
+40,Dennis Pitta*, Bal TE  ORecent News,FA,,0/0,0,0,0,0,0,0,23,264,2,61.3
+41,Marcedes Lewis, Jac TE,FA,,0/0,0,0,0,0,0,0,22,249,2,58.7
+42,Gavin Escobar, Dal TE  P,FA,,0/0,0,0,0,0,0,0,17,206,3,55.5
+43,Dion Sims, Mia TE,FA,,0/0,0,0,0,0,0,0,20,223,2,54.1
+44,Jermaine Gresham, Ari TE  PRecent News,FA,,0/0,0,0,0,0,0,0,21,214,2,53.9
+45,Darren Fells, Ari TE,FA,,0/0,0,0,0,0,0,0,19,222,2,53
+46,Virgil Green, Den TE,FA,,0/0,0,0,0,0,0,0,21,194,2,52.2
+47,Andrew Quarless, GB TERecent News,FA,,0/0,0,0,0,0,0,0,17,190,2,47.9
+48,Ed Dickson, Car TE,FA,,0/0,0,0,0,0,0,0,15,180,1,38.9
+49,Derek Carrier, Wsh TE,FA,,0/0,0,0,0,0,0,0,15,172,1,38
+50,Daniel Fells, NYG TE,FA,,0/0,0,0,0,0,0,0,15,168,1,37.5
+51,Scott Chandler, NE TE,FA,,0/0,0,0,0,0,0,0,13,153,1,34.2
+52,C.J. Fiedorowicz, Hou TE,FA,,0/0,0,0,0,0,0,0,13,152,1,34.1
+53,Gary Barnidge, Cle TE,FA,,0/0,0,0,0,0,0,0,12,147,1,32.6
+54,MyCole Pruitt, Min TEBreaking News,FA,,0/0,0,0,0,0,0,0,12,143,1,32.2
+55,James Casey, Den TE,FA,,0/0,0,0,0,0,0,0,14,119,1,31.8
+56,Jack Doyle, Ind TE,FA,,0/0,0,0,0,0,0,0,11,129,1,29.8
+57,Levine Toilolo, Atl TE,FA,,0/0,0,0,0,0,0,0,11,129,1,29.8
+58,Joseph Fauria, Det TE  PRecent News,FA,,0/0,0,0,0,0,0,0,11,124,1,29.3
+59,James O'Shaughnessy, KC TE,FA,,0/0,0,0,0,0,0,0,11,123,1,29.2
+60,Luke Willson, Sea TE,FA,,0/0,0,0,0,0,0,0,11,122,1,29.2
+61,Brandon Myers, TB TE,FA,,0/0,0,0,0,0,0,0,10,119,1,27.9
+62,Ryan Griffin, Hou TE,FA,,0/0,0,0,0,0,0,0,10,110,1,26.9
+63,Jim Dray, Cle TE,FA,,0/0,0,0,0,0,0,0,10,107,1,26.6
+64,MarQueis Gray, Buf TE,FA,,0/0,0,0,0,0,0,0,9,99,1,24.8
+65,Tony Moeaki, Atl TE,FA,,0/0,0,0,0,0,0,0,8,92,1,23.2
+66,Michael Hoomanawanui, NE TE,FA,,0/0,0,0,0,0,0,0,8,90,1,23
+67,Troy Niklas, Ari TE  Q,FA,,0/0,0,0,0,0,0,0,8,87,1,22.6
+68,Dante Rosario, Chi TEBreaking News,FA,,0/0,0,0,0,0,0,0,8,87,1,22.6
+69,Tyler Kroft, Cin TE,FA,,0/0,0,0,0,0,0,0,7,80,1,20.9
+70,Anthony Fasano, Ten TE,FA,,0/0,0,0,0,0,0,0,7,77,1,20.7
+71,Kellen Davis, NYJ TE,FA,,0/0,0,0,0,0,0,0,7,77,1,20.6
+72,Logan Paulsen*, Wsh TE  IR,FA,,0/0,0,0,0,0,0,0,7,75,1,20.4
+73,Craig Stevens, Ten TE,FA,,0/0,0,0,0,0,0,0,6,74,1,19.3
+74,Brandon Pettigrew, Det TE,FA,,0/0,0,0,0,0,0,0,5,60,1,16.9
+75,Lee Smith, Oak TE,FA,,0/0,0,0,0,0,0,0,7,84,0,15.3
+76,Clay Harbor, Jac TE  P,FA,,0/0,0,0,0,0,0,0,7,77,0,14.6
+77,Cory Harkey, StL TE,FA,,0/0,0,0,0,0,0,0,8,64,0,14.4
+78,Vance McDonald, SF TE  P,FA,,0/0,0,0,0,0,0,0,7,74,0,14.3
+79,Blake Bell, SF TE,FA,,0/0,0,0,0,0,0,0,6,71,0,13
+80,John Phillips, SD TE,FA,,0/0,0,0,0,0,0,0,5,59,0,10.8
+81,Ryan Hewitt, Cin TE,FA,,0/0,0,0,0,0,0,0,6,47,0,10.7
+82,Chris Gragg, Buf TE,FA,,0/0,0,0,0,0,0,0,4,50,0,9
+83,Jesse James, Pit TE,FA,,0/0,0,0,0,0,0,0,4,47,0,8.7
+84,Gerald Christian, Ari TE,FA,,0/0,0,0,0,0,0,0,4,45,0,8.5
+85,Matt Spaeth, Pit TE,FA,,0/0,0,0,0,0,0,0,4,45,0,8.5
+86,Jeff Heuerman*, Den TE  IR,FA,,0/0,0,0,0,0,0,0,4,44,0,8.4
+87,Zach Sudfeld*, NYJ TE  IR,FA,,0/0,0,0,0,0,0,0,4,40,0,8
+88,James Hanna, Dal TE  P,FA,,0/0,0,0,0,0,0,0,3,40,0,7
+89,Luke Stocker, TB TE,FA,,0/0,0,0,0,0,0,0,3,39,0,6.9
+90,Rhett Ellison, Min TE,FA,,0/0,0,0,0,0,0,0,3,39,0,6.9
+91,Malcolm Johnson, Cle TE,FA,,0/0,0,0,0,0,0,0,3,30,0,6
+92,Adrien Robinson, NYG TERecent News,FA,,0/0,0,0,0,0,0,0,2,22,0,4.2
+93,Nick Boyle, Bal TEBreaking News,FA,,0/0,0,0,0,0,0,0,2,22,0,4.2
+94,Arthur Lynch, NYJ TE,FA,,0/0,0,0,0,0,0,0,2,22,0,4.2
+95,Jake Stoneburner, Mia TE,FA,,0/0,0,0,0,0,0,0,2,21,0,4.1
+96,Bear Pascoe, Chi TE,FA,,0/0,0,0,0,0,0,0,2,21,0,4.1
+97,Kennard Backman, GB TE,FA,,0/0,0,0,0,0,0,0,2,20,0,4
+98,Trey Burton, Phi TE,FA,,0/0,0,0,0,0,0,0,2,20,0,4
+99,Chase Ford, Min TE  PBreaking News,FA,,0/0,0,0,0,0,0,0,2,20,0,4
+100,C.J. Uzomah, Cin TE,FA,,0/0,0,0,0,0,0,0,2,19,0,3.9
+101,Brandon Williams, Car TE,FA,,0/0,0,0,0,0,0,0,2,18,0,3.8
+102,Taylor Thompson, Ten TE  P,FA,,0/0,0,0,0,0,0,0,2,18,0,3.8
+103,Anthony McCoy, Sea TE,FA,,0/0,0,0,0,0,0,0,1,16,0,2.6
+104,Matthew Mulligan, Buf TE,FA,,0/0,0,0,0,0,0,0,1,16,0,2.6
+105,Richard Gordon, KC TE  QBreaking News,FA,,0/0,0,0,0,0,0,0,1,10,0,2
+106,Demetrius Harris, KC TEBreaking News,FA,,0/0,0,0,0,0,0,0,1,10,0,2
+107,Justin Perillo, GB TE,FA,,0/0,0,0,0,0,0,0,1,8,0,1.8
+108,Nic Jacobs, Jac TE,FA,,0/0,0,0,0,0,0,0,1,8,0,1.8

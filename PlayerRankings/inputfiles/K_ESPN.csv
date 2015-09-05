@@ -1,37 +1,38 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Stephen Gostkowski, NE KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,141
-2,Adam Vinatieri, Ind K,FA,,0/0,0,0,0,0,0,0,0,0,0,138
-3,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,137
-4,Matt Prater, Det K,FA,,0/0,0,0,0,0,0,0,0,0,0,136
-5,Connor Barth, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,136
-6,Cody Parkey, Phi K,FA,,0/0,0,0,0,0,0,0,0,0,0,136
-7,Justin Tucker, Bal K,FA,,0/0,0,0,0,0,0,0,0,0,0,135
-8,Matt Bryant, Atl K,FA,,0/0,0,0,0,0,0,0,0,0,0,134
-9,Mason Crosby, GB K,FA,,0/0,0,0,0,0,0,0,0,0,0,134
-10,Dan Carpenter, Buf KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,133
-11,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,133
-12,Caleb Sturgis, Mia K,FA,,0/0,0,0,0,0,0,0,0,0,0,133
-13,Shaun Suisham*, Pit K  IRRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-14,Garrett Hartley, Pit KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-15,Shayne Graham, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,131
-16,Blair Walsh, Min K,FA,,0/0,0,0,0,0,0,0,0,0,0,131
-17,Dustin Hopkins, NO KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,131
-18,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,130
-19,Nick Novak, SD K,FA,,0/0,0,0,0,0,0,0,0,0,0,130
-20,Randy Bullock, Hou KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,130
-21,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,129
-22,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,129
-23,Josh Brown, NYG K,FA,,0/0,0,0,0,0,0,0,0,0,0,128
-24,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,128
-25,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,127
-26,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,127
-27,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,127
-28,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,127
-29,Kai Forbath, Wsh KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-30,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-31,Robbie Gould, Chi KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-32,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
-33,Josh Scobee, Jac K,FA,,0/0,0,0,0,0,0,0,0,0,0,120
-34,Patrick Murray, TB K,FA,,0/0,0,0,0,0,0,0,0,0,0,118
-35,Carey Spear, Cle KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,105
-36,Travis Coons, Cle K,FA,,0/0,0,0,0,0,0,0,0,0,0,105
+1,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,147
+2,Stephen Gostkowski, NE K,FA,,0/0,0,0,0,0,0,0,0,0,0,142
+3,Justin Tucker, Bal K,FA,,0/0,0,0,0,0,0,0,0,0,0,141
+4,Adam Vinatieri, Ind K,FA,,0/0,0,0,0,0,0,0,0,0,0,140
+5,Matt Bryant, Atl K,FA,,0/0,0,0,0,0,0,0,0,0,0,138
+6,Matt Prater, Det K,FA,,0/0,0,0,0,0,0,0,0,0,0,138
+7,Caleb Sturgis, Mia KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,138
+8,Mason Crosby, GB K,FA,,0/0,0,0,0,0,0,0,0,0,0,137
+9,Dan Carpenter, Buf KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,137
+10,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,137
+11,Blair Walsh, Min KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,135
+12,Cody Parkey, Phi K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,134
+13,Shaun Suisham*, Pit K  IR,FA,,0/0,0,0,0,0,0,0,0,0,0,132
+14,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,132
+15,Brandon McManus, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,132
+16,Shayne Graham, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,131
+17,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,130
+18,Nick Novak, SD K,FA,,0/0,0,0,0,0,0,0,0,0,0,129
+19,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,128
+20,Garrett Hartley*, Pit K  IRRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,128
+21,Josh Brown, NYG K  QRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126
+22,Josh Scobee, Pit KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126
+23,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,126
+24,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
+25,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
+26,Robbie Gould, Chi K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
+27,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
+28,Randy Bullock, Hou K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
+29,Dustin Hopkins, NO KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,124
+30,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,123
+31,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
+32,Connor Barth, TB KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,121
+33,Jason Myers, Jac KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,120
+34,Kai Forbath, Wsh K  PRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,118
+35,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
+36,Travis Coons, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,113
+37,Carey Spear, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,105

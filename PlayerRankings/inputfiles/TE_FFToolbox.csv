@@ -1,73 +1,149 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
-1,Rob Gronkowski,TE,,4,,26,11.71,$36,300.6
-2,Jimmy Graham,TE,,9,,28,29.4,$24,244.6
-3,Travis Kelce,TE,,9,,25,50.9,$16,210.5
-4,Greg Olsen,TE,,5,,30,58.23,$11,208.9
-5,Jordan Cameron,TE,,5,,27,97.09,$6,175.4
-6,Zach Ertz,TE,,8,Que,24,91.43,$8,175.0
-7,Martellus Bennett,TE,,7,,28,73.1,$9,171.5
-8,Jason Witten,TE,,6,,33,103.92,$5,164.3
-9,Josh Hill,TE,,11,,,134.53,$4,162.4
-10,Julius Thomas,TE,,8,Que,27,75.75,$9,157.0
-11,Delanie Walker,TE,,4,Pro,31,114.63,$4,155.8
-12,Heath Miller,TE,,11,,32,161.26,$2,155.8
-13,Coby Fleener,TE,,10,,26,157.18,$2,153.3
-14,Kyle Rudolph,TE,,5,,25,137.79,$3,153.1
-15,Vernon Davis,TE,,10,,31,157.57,$2,151.0
-16,Owen Daniels,TE,,7,,32,141.43,$3,150.8
-17,Antonio Gates,TE,,10,Sus,35,132.1,$3,141.2
-18,Jared Cook,TE,,6,,28,186.33,$1,139.6
-19,Jordan Reed,TE,,8,Que,25,165.28,$2,136.6
-20,Austin Seferian-Jenkins,TE,,6,,22,120.76,$5,134.3
-21,Eric Ebron,TE,,9,,22,144.62,$3,132.5
-22,Jace Amaro,TE,,5,Que,23,205.11,$1,129.9
-23,Jermaine Gresham,TE,,9,Que,27,226.5,$1,129.3
-24,Larry Donnell,TE,,11,Pro,,167.4,$2,125.7
-25,Tyler Eifert,TE,,7,,24,107.66,$4,121.1
-26,Charles Clay,TE,,8,,26,168.35,$2,118.6
-27,Dwayne Allen,TE,,10,,25,127.71,$3,118.0
-28,Mychal Rivera,TE,,6,,24,203.75,$1,117.2
-29,Rob Housler,TE,,11,,27,242,$1,104.2
-30,Maxx Williams,TE,,9,,21,148.33,$4,102.8
-31,Jacob Tamme,TE,,10,,30,241.8,$0,92.3
-32,Garrett Graham,TE,,9,,29,176,$1,89.6
-33,Richard Rodgers,TE,,7,,23,188.75,$1,80.7
-34,Ladarius Green,TE,,10,,25,156.36,$3,74.0
-35,Crockett Gillmore,TE,,9,,23,0,$0,70.8
-36,Lance Kendricks,TE,,6,,27,0,$0,61.3
-37,Brent Celek,TE,,8,,30,0,$1,58.1
-38,Gavin Escobar,TE,,6,,24,250.5,$1,57.4
-39,Anthony Fasano,TE,,4,,31,0,$0,50.5
-40,Marcedes Lewis,TE,,8,,31,0,$0,49.3
-41,Scott Chandler,TE,,4,Pro,30,166.6,$0,48.1
-42,Benjamin Watson,TE,,11,,34,221,$0,46.5
-43,Levine Toilolo,TE,,10,,24,0,$0,40.1
-44,Andrew Quarless,TE,,7,,26,0,$0,39.2
-45,Brandon Myers,TE,,6,,29,0,$0,39.2
-46,Luke Willson,TE,,9,,25,113,$0,38.7
-47,Virgil Green,TE,,7,,27,208.57,$1,37.6
-48,Tyler Kroft,TE,,7,,22,178,$0,36.5
-49,Dion Sims,TE,,5,,24,0,$0,31.6
-50,Dennis Pitta,TE,,9,Out,30,336,$0,31.4
-51,Jack Doyle,TE,,10,,,0,$0,30.0
-52,Ed Dickson,TE,,5,,28,0,$0,29.6
-53,Rhett Ellison,TE,,5,,26,0,$0,29.5
-54,C.J. Fiedorowicz,TE,,9,,23,0,$1,28.9
-55,Daniel Fells,TE,,11,,31,0,$0,27.5
-56,Adrien Robinson,TE,,11,,26,0,$0,26.2
-57,Zachary Miller,TE,,7,,30,0,$0,24.7
-58,Jeff Cumberland,TE,,5,,28,0,$0,24.5
-59,Gary Barnidge,TE,,11,,29,0,$0,22.7
-60,Clive Walford,TE,,6,Pro,23,204.8,$1,21.8
-61,Michael Hoomanawanui,TE,,4,,27,0,$0,21.4
-62,Tony Moeaki,TE,,10,,28,0,$0,21.0
-63,Vance McDonald,TE,,10,,25,0,$0,20.0
-64,Dante Rosario,TE,,7,,30,0,$0,18.1
-65,Brandon Pettigrew,TE,,9,,30,0,$1,17.3
-66,Clay Harbor,TE,,8,,28,0,$0,17.1
-67,Jim Dray,TE,,11,,28,0,$0,16.2
-68,James O'Shaugnessy,TE,,9,,23,0,$1,14.1
-69,Troy Niklas,TE,,9,,22,0,$0,13.0
-70,Gerald Christian,TE,,9,,23,0,$0,12.5
-71,Matt Spaeth,TE,,11,,30,0,$0,9.9
-72,Chris Gragg,TE,,8,,25,0,$0,9.8
+1,"Rob Gronkowski
+",TE,,4,,26,13.08,$37,300.6
+2,"Jimmy Graham
+",TE,,9,,28,29.53,$25,239.5
+3,"Travis Kelce
+",TE,,9,Pro,25,54.62,$16,210.5
+4,"Greg Olsen
+",TE,,5,,30,49.9,$14,204.3
+5,"Martellus Bennett
+",TE,,7,,28,67.35,$10,182.5
+6,"Jordan Cameron
+",TE,,5,,27,90.43,$6,175.4
+7,"Jason Witten
+",TE,,6,,33,80.97,$7,164.3
+8,"Delanie Walker
+",TE,,4,,31,110.9,$4,155.8
+9,"Kyle Rudolph
+",TE,,5,,25,124.07,$4,153.1
+10,"Jordan Reed
+",TE,,8,,25,170.43,$2,152.6
+11,"Coby Fleener
+",TE,,10,,26,152.76,$2,151.4
+12,"Tyler Eifert
+",TE,,7,,24,112.03,$5,151.1
+13,"Vernon Davis
+",TE,,10,,31,154.29,$2,149.0
+14,"Heath Miller
+",TE,,11,,32,160.04,$2,148.4
+15,"Josh Hill
+",TE,,11,,,147.35,$3,144.4
+16,"Jared Cook
+",TE,,6,,28,189.94,$1,143.9
+17,"Antonio Gates
+",TE,,10,Sus,35,129.86,$3,134.6
+18,"Austin Seferian-Jenkins
+",TE,,6,,22,155.29,$3,134.3
+19,"Zach Ertz
+",TE,,8,Que,24,105.98,$6,133.3
+20,"Eric Ebron
+",TE,,9,Pro,22,166.11,$3,132.5
+21,"Jace Amaro
+",TE,,5,Que,23,208.93,$1,130.3
+22,"Dwayne Allen
+",TE,,10,,25,128.96,$3,129.0
+23,"Julius Thomas
+",TE,,8,Out,27,92.6,$8,129.0
+24,"Owen Daniels
+",TE,,7,,32,121.04,$3,127.5
+25,"Larry Donnell
+",TE,,11,,,161.77,$2,125.7
+26,"Jeff Cumberland
+",TE,,5,,28,135,$0,125.1
+27,"Jermaine Gresham
+",TE,,9,Pro,27,208,$1,123.1
+28,"Mychal Rivera
+",TE,,6,,24,215.06,$1,117.2
+29,"Richard Rodgers
+",TE,,7,,23,163.56,$2,116.9
+30,"Charles Clay
+",TE,,8,,26,162.34,$2,116.6
+31,"Garrett Graham
+",TE,,9,,29,187.25,$1,92.6
+32,"Jacob Tamme
+",TE,,10,Que,30,192.42,$0,92.3
+33,"Crockett Gillmore
+",TE,,9,,23,193.67,$0,86.2
+34,"Maxx Williams
+",TE,,9,Pro,21,178.29,$3,83.0
+35,"Ladarius Green
+",TE,,10,,25,175.81,$2,74.0
+36,"Rob Housler
+",TE,,11,,27,129,$1,73.3
+37,"Brent Celek
+",TE,,8,,30,202.56,$1,66.6
+38,"Marcedes Lewis
+",TE,,8,,31,143.67,$0,63.5
+39,"Lance Kendricks
+",TE,,6,,27,0,$0,61.3
+40,"Gavin Escobar
+",TE,,6,Pro,24,216.78,$1,57.4
+41,"Scott Chandler
+",TE,,4,,30,192.15,$0,52.0
+42,"Gary Barnidge
+",TE,,11,,29,186.5,$0,50.6
+43,"Anthony Fasano
+",TE,,4,,31,0,$0,50.5
+44,"Andrew Quarless
+",TE,,7,,26,234.67,$0,48.3
+45,"Benjamin Watson
+",TE,,11,,34,181.2,$0,46.5
+46,"Levine Toilolo
+",TE,,10,,24,0,$0,40.1
+47,"Virgil Green
+",TE,,7,,27,201.11,$1,39.8
+48,"Brandon Myers
+",TE,,6,,30,0,$0,39.2
+49,"Luke Willson
+",TE,,9,,25,0,$0,38.7
+50,"Clay Harbor
+",TE,,8,Pro,28,0,$1,36.8
+51,"Tyler Kroft
+",TE,,7,,22,259.75,$0,36.5
+52,"Dion Sims
+",TE,,5,,24,214.67,$0,31.6
+53,"Dennis Pitta
+",TE,,9,Out,30,177.67,$0,31.4
+54,"C.J. Fiedorowicz
+",TE,,9,,23,270,$1,30.5
+55,"Jack Doyle
+",TE,,10,,,0,$0,30.0
+56,"Rhett Ellison
+",TE,,5,,26,0,$0,29.5
+57,"Ed Dickson
+",TE,,5,,28,0,$0,29.2
+58,"Daniel Fells
+",TE,,11,,31,292,$0,27.5
+59,"Zachary Miller
+",TE,,7,,30,0,$0,24.7
+60,"Derek Carrier
+",TE,,8,,25,161,$0,24.5
+61,"Clive Walford
+",TE,,6,Que,23,245.2,$1,21.8
+62,"Michael Hoomanawanui
+",TE,,4,,27,223,$0,21.4
+63,"Tony Moeaki
+",TE,,10,,28,176,$0,21.0
+64,"Vance McDonald
+",TE,,10,Pro,25,311,$0,20.0
+65,"Troy Niklas
+",TE,,9,Que,22,0,$0,19.4
+66,"Adrien Robinson
+",TE,,11,,26,0,$0,18.3
+67,"Dante Rosario
+",TE,,7,,30,304,$0,18.1
+68,"Brandon Pettigrew
+",TE,,9,,30,0,$1,17.3
+69,"Jim Dray
+",TE,,11,,28,0,$0,16.2
+70,"Kellen Davis
+",TE,,8,,29,0,$0,16.1
+71,"James O'Shaugnessy
+",TE,,9,,23,0,$0,14.1
+72,"Gerald Christian
+",TE,,9,,24,0,$0,12.5
+73,"Matt Spaeth
+",TE,,11,,30,0,$0,9.9
+74,"Chris Gragg
+",TE,,8,,25,0,$0,9.7

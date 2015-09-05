@@ -1,70 +1,69 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Aaron Rodgers, GB QBRecent News,FA,,347/538,4319,35,8,50,256,2,0,0,0,396.5
-2,Andrew Luck, Ind QB,FA,,383/621,4484,36,16,57,268,2,0,0,0,394.4
-3,Peyton Manning, Den QBBreaking Video,FA,,394/607,4617,34,14,24,-6,1,0,0,0,364.1
-4,Drew Brees, NO QBRecent News,FA,,405/617,4902,31,13,26,42,1,0,0,0,360.1
-5,Russell Wilson, Sea QBBreaking News,FA,,278/455,3461,26,9,101,623,4,0,0,0,354.5
-6,Ben Roethlisberger, Pit QB,FA,,388/597,4622,29,13,34,101,1,0,0,0,340.7
-7,Tony Romo, Dal QB,FA,,322/496,4098,32,11,27,71,1,0,0,0,339
-8,Eli Manning, NYG QB,FA,,394/635,4837,30,17,17,31,0,0,0,0,332.4
-9,Matt Ryan, Atl QB,FA,,390/598,4610,27,13,28,88,1,0,0,0,330.8
-10,Cam Newton, Car QBBreaking News,FA,,295/494,3522,23,14,102,548,4,0,0,0,321.3
-11,Ryan Tannehill, Mia QB,FA,,370/581,4368,24,14,51,251,2,0,0,0,319.5
-12,Philip Rivers, SD QBBreaking News,FA,,355/561,4448,28,16,32,72,1,0,0,0,318.9
-13,Matthew Stafford, Det QBRecent News,FA,,383/616,4454,26,14,37,117,1,0,0,0,315.5
-14,Sam Bradford, Phi QB  PBreaking News,FA,,334/556,3888,26,12,42,119,2,0,0,0,303.1
-15,Carson Palmer, Ari QB  PBreaking News and Video,FA,,358/564,4229,25,16,23,38,1,0,0,0,294.4
-16,Joe Flacco, Bal QBRecent News,FA,,338/535,3886,25,13,36,77,1,0,0,0,288.7
-17,Teddy Bridgewater, Min QBBreaking News,FA,,308/505,3676,21,13,55,301,2,0,0,0,284.5
-18,Jay Cutler, Chi QBRecent News,FA,,341/548,3997,24,18,42,191,1,0,0,0,282.6
-19,Colin Kaepernick, SF QBBreaking News,FA,,287/463,3527,15,9,97,600,3,0,0,0,282.3
-20,Jameis Winston, TB QBBreaking News and Video,FA,,333/564,4241,22,18,39,138,1,0,0,0,276.8
-21,Alex Smith, KC QB,FA,,328/525,3515,20,9,54,275,2,0,0,0,275.4
-22,Andy Dalton, Cin QBRecent News,FA,,335/538,3774,22,19,54,172,2,0,0,0,271.5
-23,Marcus Mariota, Ten QBBreaking News and Video,FA,,287/469,3254,18,14,83,500,3,0,0,0,271.4
-24,Tom Brady, NE QB  SSPDRecent News,FA,,303/460,3367,24,8,26,32,1,0,0,0,269.3
-25,Robert Griffin, Wsh QBRecent News,FA,,275/432,3252,17,10,71,435,3,0,0,0,261
-26,Nick Foles, StL QBBreaking News,FA,,324/537,3732,20,13,35,158,1,0,0,0,258.3
-27,Derek Carr, Oak QB  P,FA,,359/590,4150,18,14,33,110,1,0,0,0,254.3
-28,Blake Bortles, Jac QBBreaking News,FA,,307/495,3461,17,14,57,343,1,0,0,0,245.9
-29,Josh McCown, Cle QBBreaking News,FA,,268/461,3007,13,14,41,198,2,0,0,0,189.2
-30,Ryan Fitzpatrick, NYJ QBRecent News,FA,,210/337,2403,14,11,38,157,1,0,0,0,174.7
-31,Brian Hoyer, Hou QBBreaking News,FA,,196/330,2409,11,10,22,33,1,0,0,0,148.3
-32,Matt Cassel, Buf QBBreaking News,FA,,173/290,2005,11,10,28,119,1,0,0,0,136.9
-33,Geno Smith*, NYJ QB  ORecent News,FA,,121/206,1452,8,7,21,107,1,0,0,0,105.3
-34,Ryan Mallett, Hou QBBreaking News,FA,,123/205,1483,7,6,11,34,0,0,0,0,91.1
-35,Jimmy Garoppolo, NE QBRecent News,FA,,90/148,1001,6,4,13,38,0,0,0,0,70.2
-36,Tyrod Taylor, Buf QBBreaking News,FA,,49/85,542,4,3,14,42,0,0,0,0,42.1
-37,EJ Manuel, Buf QBBreaking News,FA,,54/91,605,3,3,11,34,0,0,0,0,37.8
-38,Kirk Cousins, Wsh QBRecent News,FA,,21/34,249,1,1,4,13,0,0,0,0,15.3
-39,Drew Stanton, Ari QB,FA,,20/34,241,1,1,2,5,0,0,0,0,14.2
-40,Johnny Manziel, Cle QBRecent News,FA,,17/31,190,1,1,7,21,0,0,0,0,13.8
-41,Jimmy Clausen, Chi QBRecent News,FA,,20/35,234,1,1,3,9,0,0,0,0,12.3
-42,Blaine Gabbert, SF QB,FA,,10/16,117,1,0,3,8,0,0,0,0,11.5
-43,Derek Anderson, Car QB,FA,,13/22,156,1,1,3,8,0,0,0,0,11.1
-44,Brandon Weeden, Dal QBRecent News,FA,,9/15,118,1,0,0,1,0,0,0,0,10.9
-45,Chase Daniel, KC QB,FA,,10/16,107,1,0,1,4,0,0,0,0,10.7
-46,Austin Davis, StL QB,FA,,10/16,112,1,0,0,1,0,0,0,0,10.6
-47,Mark Sanchez, Phi QBBreaking News,FA,,10/17,121,1,1,3,9,0,0,0,0,9.8
-48,Bruce Gradkowski*, Pit QB  O,FA,,11/18,127,1,1,1,2,0,0,0,0,9.3
-49,Brock Osweiler, Den QB,FA,,2/3,20,0,0,2,7,0,0,0,0,1.5
-50,Luke McCown, NO QB,FA,,2/3,22,0,0,0,1,0,0,0,0,1
-51,Matt Hasselbeck, Ind QB,FA,,2/3,23,0,0,0,0,0,0,0,0,0.9
-52,Christian Ponder, Oak QB,FA,,2/3,20,0,0,0,1,0,0,0,0,0.9
-53,Dan Orlovsky, Det QB,FA,,2/3,22,0,0,0,0,0,0,0,0,0.9
-54,Mike Glennon, TB QB,FA,,2/3,22,0,0,0,0,0,0,0,0,0.9
-55,Kellen Clemens, SD QB,FA,,2/3,21,0,0,0,0,0,0,0,0,0.8
-56,Matt Moore, Mia QB,FA,,2/3,21,0,0,0,0,0,0,0,0,0.8
-57,Shaun Hill, Min QBBreaking News,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
-58,Matt Schaub, Bal QBRecent News,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
-59,T.J. Yates, Atl QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
-60,Scott Tolzien, GB QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
-61,Ryan Nassib, NYG QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
-62,Chad Henne, Jac QB,FA,,2/3,19,0,0,0,0,0,0,0,0,0.8
-63,Zach Mettenberger, Ten QBBreaking News,FA,,2/3,19,0,0,0,0,0,0,0,0,0.8
-64,Tarvaris Jackson, Sea QB  QBreaking News,FA,,1/2,17,0,0,0,0,0,0,0,0,0.7
-65,B.J. Daniels, Sea QB,FA,,1/2,17,0,0,0,0,0,0,0,0,0.7
-66,AJ McCarron, Cin QB  QRecent News,FA,,1/2,16,0,0,0,0,0,0,0,0,0.6
-67,Matt Flynn, NE QB  PBreaking News,FA,,0/1,5,0,0,0,0,0,0,0,0,0.2
-68,Ryan Lindley, NE QB,FA,,0/1,5,0,0,0,0,0,0,0,0,0.2
-69,Bryce Petty, NYJ QBBreaking News,FA,,0/1,5,0,0,0,0,0,0,0,0,0.2
+1,Andrew Luck, Ind QB,FA,,383/622,4504,37,17,56,265,2,0,0,0,398.9
+2,Aaron Rodgers, GB QB,FA,,349/541,4308,33,8,50,255,2,0,0,0,383.8
+3,Drew Brees, NO QB,FA,,405/618,4911,32,13,26,42,1,0,0,0,366.5
+4,Peyton Manning, Den QB,FA,,395/609,4650,34,14,24,-6,1,0,0,0,365.4
+5,Tom Brady, NE QBBreaking News and Video,FA,,403/612,4416,32,11,35,43,2,0,0,0,358.9
+6,Russell Wilson, Sea QB,FA,,279/456,3469,27,9,101,623,3,0,0,0,354.9
+7,Tony Romo, Dal QB,FA,,323/497,4111,33,11,27,71,1,0,0,0,345.5
+8,Matt Ryan, Atl QB,FA,,390/598,4612,28,12,28,88,1,0,0,0,338.9
+9,Ben Roethlisberger, Pit QB,FA,,382/589,4546,29,13,34,102,1,0,0,0,337.8
+10,Eli Manning, NYG QB,FA,,389/628,4788,30,17,17,30,0,0,0,0,330.4
+11,Ryan Tannehill, Mia QB,FA,,364/571,4265,26,13,52,257,2,0,0,0,330
+12,Philip Rivers, SD QB  P,FA,,356/563,4462,29,16,32,72,1,0,0,0,325.4
+13,Matthew Stafford, Det QB,FA,,384/616,4442,27,14,37,117,1,0,0,0,321.1
+14,Cam Newton, Car QBBreaking Video,FA,,296/495,3525,22,14,104,560,4,0,0,0,316.6
+15,Sam Bradford, Phi QBBreaking Video,FA,,328/547,3817,28,12,41,117,2,0,0,0,312.1
+16,Carson Palmer, Ari QB,FA,,359/567,4251,26,16,23,38,1,0,0,0,301.3
+17,Jay Cutler, Chi QB,FA,,349/560,4076,25,18,44,197,1,0,0,0,292.4
+18,Colin Kaepernick, SF QB,FA,,287/464,3543,16,9,97,604,3,0,0,0,289.3
+19,Joe Flacco, Bal QB,FA,,341/537,3903,25,13,40,85,1,0,0,0,288.2
+20,Teddy Bridgewater, Min QB,FA,,308/504,3658,21,13,55,301,2,0,0,0,283.8
+21,Alex Smith, KC QB,FA,,328/526,3523,21,9,54,278,2,0,0,0,282.1
+22,Andy Dalton, Cin QB  P,FA,,336/540,3791,23,19,53,171,2,0,0,0,278.1
+23,Marcus Mariota, Ten QBBreaking News,FA,,289/473,3280,18,14,80,483,3,0,0,0,270.8
+24,Jameis Winston, TB QB  PRecent News,FA,,328/556,4165,21,19,49,185,1,0,0,0,270.5
+25,Derek Carr, Oak QB,FA,,360/590,4135,19,14,33,109,1,0,0,0,259.6
+26,Nick Foles, StL QB,FA,,319/528,3669,19,12,35,159,1,0,0,0,251.9
+27,Blake Bortles, Jac QB,FA,,313/506,3536,18,15,59,350,1,0,0,0,251.6
+28,Tyrod Taylor, Buf QBRecent News,FA,,240/412,2686,16,15,69,347,2,0,0,0,215.2
+29,Josh McCown, Cle QB,FA,,267/459,2998,13,14,42,204,2,0,0,0,189.4
+30,Ryan Fitzpatrick, NYJ QB,FA,,210/337,2409,14,11,38,159,1,0,0,0,175.2
+31,Kirk Cousins, Wsh QBRecent News,FA,,227/371,2640,13,12,13,51,0,0,0,0,161.5
+32,Brian Hoyer, Hou QB,FA,,202/339,2464,12,10,23,34,1,0,0,0,156.7
+33,Geno Smith*, NYJ QB  ORecent News,FA,,121/206,1465,8,7,21,107,1,0,0,0,105.8
+34,Robert Griffin, Wsh QB  QBreaking News,FA,,107/171,1260,7,4,25,154,1,0,0,0,100.3
+35,Ryan Mallett, Hou QB,FA,,121/202,1464,7,6,11,34,0,0,0,0,90.4
+36,EJ Manuel, Buf QBRecent News,FA,,34/58,385,2,2,7,22,0,0,0,0,25.7
+37,Colt McCoy, Wsh QB,FA,,22/34,256,1,1,4,12,0,0,0,0,15.5
+38,Jimmy Clausen, Chi QB  QRecent News,FA,,19/33,219,1,1,3,9,0,0,0,0,13.7
+39,Drew Stanton, Ari QB,FA,,19/32,227,1,1,2,5,0,0,0,0,13.6
+40,Johnny Manziel, Cle QB  QRecent News,FA,,17/31,186,1,1,7,20,0,0,0,0,13.5
+41,Michael Vick, Pit QB,FA,,9/16,111,1,0,4,12,0,0,0,0,11.7
+42,Derek Anderson, Car QBBreaking News,FA,,12/21,148,1,1,3,8,0,0,0,0,10.8
+43,Brandon Weeden, Dal QB  P,FA,,9/15,112,1,0,0,1,0,0,0,0,10.6
+44,Chase Daniel, KC QB,FA,,9/16,101,1,0,1,4,0,0,0,0,10.5
+45,Case Keenum, StL QBRecent News,FA,,9/15,101,1,0,0,1,0,0,0,0,10.2
+46,Mark Sanchez, Phi QB,FA,,10/16,115,1,1,3,8,0,0,0,0,9.4
+47,Blaine Gabbert, SF QB,FA,,9/15,112,0,0,3,8,0,0,0,0,5.3
+48,Brock Osweiler, Den QB,FA,,2/3,20,0,0,2,7,0,0,0,0,1.5
+49,Luke McCown, NO QBRecent News,FA,,2/3,22,0,0,0,1,0,0,0,0,1
+50,Matt Hasselbeck, Ind QB,FA,,2/3,23,0,0,0,0,0,0,0,0,0.9
+51,Dan Orlovsky, Det QB,FA,,2/3,22,0,0,0,0,0,0,0,0,0.9
+52,Mike Glennon, TB QB,FA,,2/3,22,0,0,0,0,0,0,0,0,0.9
+53,Christian Ponder, Oak QBBreaking News,FA,,2/3,19,0,0,0,1,0,0,0,0,0.9
+54,Kellen Clemens, SD QB,FA,,2/3,21,0,0,0,0,0,0,0,0,0.8
+55,Matt Moore, Mia QB,FA,,2/3,21,0,0,0,0,0,0,0,0,0.8
+56,Shaun Hill, Min QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
+57,Matt Schaub, Bal QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
+58,T.J. Yates, Atl QBBreaking News,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
+59,Scott Tolzien, GB QBBreaking News,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
+60,Ryan Nassib, NYG QB,FA,,2/3,20,0,0,0,0,0,0,0,0,0.8
+61,Chad Henne, Jac QB,FA,,2/3,19,0,0,0,0,0,0,0,0,0.8
+62,Jimmy Garoppolo, NE QBBreaking News,FA,,2/3,19,0,0,0,0,0,0,0,0,0.8
+63,Zach Mettenberger, Ten QB,FA,,2/3,19,0,0,0,0,0,0,0,0,0.8
+64,Tarvaris Jackson, Sea QB  Q,FA,,1/2,17,0,0,0,0,0,0,0,0,0.7
+65,B.J. Daniels, Sea QBRecent News,FA,,1/2,17,0,0,0,0,0,0,0,0,0.7
+66,AJ McCarron, Cin QB,FA,,1/2,16,0,0,0,0,0,0,0,0,0.6
+67,Matt Flynn, NYJ QB  PBreaking News,FA,,0/1,5,0,0,0,0,0,0,0,0,0.2
+68,Bryce Petty, NYJ QB,FA,,0/1,5,0,0,0,0,0,0,0,0,0.2
