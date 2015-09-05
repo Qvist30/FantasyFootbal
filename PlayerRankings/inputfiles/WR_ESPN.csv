@@ -1,179 +1,181 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Antonio Brown, Pit WR,RMO,,0/0,0,0,0,4,26,0,116,1522,9,209.5
-2,Demaryius Thomas, Den WR,ALES,,0/0,0,0,0,0,0,0,102,1298,11,195.8
-3,Dez Bryant, Dal WR  P,JAC,,0/0,0,0,0,0,0,0,90,1361,10,194.1
-4,Calvin Johnson, Det WRBreaking News,JLF,,0/0,0,0,0,0,0,0,87,1283,10,188.3
-5,Odell Beckham Jr., NYG WR  PBreaking News,Poo,,0/0,0,0,0,8,54,0,102,1363,8,187.7
-6,Julio Jones, Atl WR,Bro,,0/0,0,0,0,2,13,0,105,1403,8,187.7
-7,Jordy Nelson, GB WR,JLF,,0/0,0,0,0,0,0,0,84,1263,10,186.3
-8,A.J. Green, Cin WR,SENK,,0/0,0,0,0,5,30,0,90,1266,8,175.7
-9,Alshon Jeffery, Chi WR  QRecent News,JAJ,,0/0,0,0,0,8,51,0,88,1223,8,173.4
-10,Randall Cobb, GB WR,Bro,,0/0,0,0,0,16,119,0,86,1132,8,173.1
-11,T.Y. Hilton, Ind WR  P,JAJ,,0/0,0,0,0,4,26,0,86,1194,8,168.6
-12,Mike Evans, TB WR,COLE,,0/0,0,0,0,0,0,0,81,1205,7,160.5
-13,Emmanuel Sanders, Den WR  PRecent News,Poo,,0/0,0,0,0,9,60,0,78,1086,7,154.6
-14,Brandin Cooks, NO WR,FA,,0/0,0,0,0,12,82,0,79,1072,6,152.2
-15,DeAndre Hopkins, Hou WR,WOO,,0/0,0,0,0,0,0,0,84,1198,5,147.9
-16,Jordan Matthews, Phi WR,RMO,,0/0,0,0,0,0,0,0,81,995,7,141.5
-17,Sammy Watkins, Buf WRBreaking News,JTR,,0/0,0,0,0,5,31,0,74,1035,6,140.6
-18,Keenan Allen, SD WRBreaking News,ALES,,0/0,0,0,0,0,0,0,78,1052,6,139.8
-19,Julian Edelman, NE WR  PBreaking News,JTR,,0/0,0,0,0,9,58,0,90,963,6,139.1
-20,Brandon Marshall, NYJ WR,JTR,,0/0,0,0,0,0,0,0,76,955,7,135.5
-21,Andre Johnson, Ind WR,SENK,,0/0,0,0,0,0,0,0,71,890,8,135.1
-22,Jeremy Maclin, KC WR,WOO,,0/0,0,0,0,0,0,0,80,1033,5,134
-23,Amari Cooper, Oak WR,FA,,0/0,0,0,0,4,25,0,77,1027,5,133.2
-24,DeSean Jackson, Wsh WR  Q,SENK,,0/0,0,0,0,4,27,0,69,1062,4,133.2
-25,Jarvis Landry, Mia WR,SENK,,0/0,0,0,0,4,26,0,93,978,5,132.6
-26,Allen Robinson, Jac WR,FA,,0/0,0,0,0,0,0,0,79,1039,5,131.9
-27,Golden Tate, Det WRBreaking News,JTR,,0/0,0,0,0,4,26,0,86,1065,4,131.2
-28,Vincent Jackson, TB WR,JAC,,0/0,0,0,0,0,0,0,64,999,5,129.9
-29,Eric Decker, NYJ WR,COLE,,0/0,0,0,0,0,0,0,71,933,5,123.3
-30,Mike Wallace, Min WR,JLF,,0/0,0,0,0,0,0,0,63,949,5,122.9
-31,Brandon LaFell*, NE WR  ORecent News,ALES,,0/0,0,0,0,0,0,0,66,861,6,122.5
-32,Charles Johnson, Min WR,RMO,,0/0,0,0,0,0,0,0,61,893,5,119.3
-33,Torrey Smith, SF WR,NIEV,,0/0,0,0,0,0,0,0,57,943,4,118.3
-34,Davante Adams, GB WRRecent News,JAJ,,0/0,0,0,0,0,0,0,59,818,6,117.8
-35,Cody Latimer, Den WR,FA,,0/0,0,0,0,0,0,0,61,807,6,116.7
-36,Devin Funchess, Car WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,63,793,6,115.3
-37,Breshad Perriman, Bal WR  QBreaking News,FA,,0/0,0,0,0,0,0,0,57,789,6,114.9
-38,Martavis Bryant, Pit WR,SENK,,0/0,0,0,0,4,26,0,51,763,6,114.9
-39,Nelson Agholor, Phi WR,FA,,0/0,0,0,0,0,0,0,62,837,5,114.8
-40,Victor Cruz, NYG WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,63,844,5,114.4
-41,Michael Floyd, Ari WR  QRecent News,WOO,,0/0,0,0,0,0,0,0,60,858,5,113.9
-42,Larry Fitzgerald, Ari WR,NIEV,,0/0,0,0,0,0,0,0,66,830,5,113
-43,DeVante Parker, Mia WR  QRecent News,FA,,0/0,0,0,0,0,0,0,59,824,5,112.4
-44,Kendall Wright, Ten WR,RMO,,0/0,0,0,0,4,25,0,79,867,4,111.2
-45,Roddy White, Atl WR  PBreaking News,NIEV,,0/0,0,0,0,0,0,0,65,823,5,110.4
-46,Marques Colston, NO WR,JAC,,0/0,0,0,0,0,0,0,54,797,5,109.7
-47,John Brown, Ari WR,JAJ,,0/0,0,0,0,4,25,0,55,782,4,104.7
-48,Terrance Williams, Dal WR,FA,,0/0,0,0,0,0,0,0,41,683,6,104.3
-49,Malcom Floyd, SD WR,Poo,,0/0,0,0,0,0,0,0,42,727,5,102.7
-50,Anquan Boldin, SF WR,Bro,,0/0,0,0,0,0,0,0,69,841,3,102.1
-51,Eddie Royal, Chi WRRecent News,FA,,0/0,0,0,0,0,0,0,66,783,4,101.6
-52,Pierre Garcon, Wsh WR,JAJ,,0/0,0,0,0,0,0,0,59,756,4,99.6
-53,Percy Harvin, Buf WR  PRecent News,COLE,,0/0,0,0,0,23,147,1,54,605,3,99
-54,Steve Smith Sr., Bal WR,Bro,,0/0,0,0,0,0,0,0,58,767,4,98.8
-55,Doug Baldwin, Sea WR,FA,,0/0,0,0,0,2,15,0,53,717,4,98.6
-56,Brandon Coleman, NO WRRecent News,FA,,0/0,0,0,0,0,0,0,41,666,5,96.6
-57,Brian Quick, StL WR  P,FA,,0/0,0,0,0,0,0,0,50,708,4,94.8
-58,Michael Crabtree, Oak WR,ALES,,0/0,0,0,0,0,0,0,64,758,3,93.8
-59,Nate Washington, Hou WR,FA,,0/0,0,0,0,0,0,0,50,756,3,93.6
-60,Rueben Randle, NYG WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,48,693,4,93.3
-61,Kenny Stills, Mia WRRecent News,Poo,,0/0,0,0,0,4,25,0,50,721,3,92.6
-62,Stevie Johnson, SD WR,RMO,,0/0,0,0,0,0,0,0,51,674,4,91.4
-63,Kenny Britt, StL WR,JTR,,0/0,0,0,0,0,0,0,43,638,4,87.8
-64,Tyler Lockett, Sea WRBreaking News,FA,,0/0,0,0,0,0,0,0,41,588,4,87.5
-65,Allen Hurns, Jac WR,FA,,0/0,0,0,0,4,24,0,47,621,3,82.5
-66,Markus Wheaton, Pit WR,FA,,0/0,0,0,0,4,25,0,44,606,3,82.1
-67,Dorial Green-Beckham, Ten WR,FA,,0/0,0,0,0,0,0,0,41,576,4,81.6
-68,Dwayne Bowe, Cle WR  Q,FA,,0/0,0,0,0,0,0,0,50,629,3,78.9
-69,Donte Moncrief, Ind WR  P,JLF,,0/0,0,0,0,6,39,0,37,510,4,78.9
-70,Jermaine Kearse, Sea WR,FA,,0/0,0,0,0,0,0,0,37,541,4,78.1
-71,Marvin Jones, Cin WR,FA,,0/0,0,0,0,2,15,0,44,577,3,77.2
-72,Tavon Austin, StL WR,FA,,0/0,0,0,0,24,176,1,33,344,2,75.2
-73,Leonard Hankerson, Atl WRBreaking News,FA,,0/0,0,0,0,0,0,0,41,527,3,70.7
-74,Danny Amendola, NE WR,FA,,0/0,0,0,0,0,0,0,48,493,3,69.7
-75,Phillip Dorsett, Ind WR,FA,,0/0,0,0,0,4,26,0,36,442,3,68.6
-76,Andrew Hawkins, Cle WR,FA,,0/0,0,0,0,7,45,0,50,513,2,67.8
-77,Kamar Aiken, Bal WR,FA,,0/0,0,0,0,0,0,0,37,488,3,66.8
-78,Cole Beasley, Dal WRBreaking News,FA,,0/0,0,0,0,0,0,0,40,472,3,66.4
-79,Robert Woods, Buf WRBreaking News,FA,,0/0,0,0,0,0,0,0,35,472,3,66
-80,Cecil Shorts III, Hou WR,NIEV,,0/0,0,0,0,0,0,0,36,453,3,63.3
-81,Greg Jennings, Mia WR  PBreaking News,JTR,,0/0,0,0,0,0,0,0,32,448,3,62.8
-82,Jeremy Kerley, NYJ WR  QBreaking News,FA,,0/0,0,0,0,0,0,0,41,483,2,62.8
-83,Andre Roberts, Wsh WR,FA,,0/0,0,0,0,2,13,0,34,421,2,61.8
-84,Marqise Lee, Jac WR  QRecent News,FA,,0/0,0,0,0,0,0,0,38,438,3,61.8
-85,Dexter McCluster, Ten WR, FA,,0/0,0,0,0,37,153,1,31,283,1,59.5
-86,Brian Hartline, Cle WRBreaking News,FA,,0/0,0,0,0,0,0,0,34,466,2,58.6
-87,Kevin White*, Chi WR  O,FA,,0/0,0,0,0,0,0,0,28,387,3,56.7
-88,Taylor Gabriel, Cle WR,FA,,0/0,0,0,0,2,15,0,28,387,2,52.2
-89,Devin Smith, NYJ WR  QRecent News,FA,,0/0,0,0,0,4,26,0,26,375,2,52.1
-90,Rod Streater, Oak WRRecent News,FA,,0/0,0,0,0,0,0,0,29,399,2,51.9
-91,Ted Ginn Jr., Car WR,FA,,0/0,0,0,0,4,30,0,24,351,2,50.1
-92,Jerricho Cotchery, Car WR,FA,,0/0,0,0,0,0,0,0,29,378,2,49.8
-93,Jarius Wright, Min WR,FA,,0/0,0,0,0,4,26,0,27,352,2,49.8
-94,Jaelen Strong, Hou WR,FA,,0/0,0,0,0,0,0,0,29,370,2,49
-95,Harry Douglas, Ten WR,WOO,,0/0,0,0,0,0,0,0,28,351,2,47.1
-96,De'Anthony Thomas, KC  WR  P,FA,,0/0,0,0,0,15,91,0,27,201,2,46.5
-97,Mohamed Sanu, Cin WR,Poo,,0/0,0,0,0,9,61,0,26,283,2,46.4
-98,Nick Toon, NO WR,FA,,0/0,0,0,0,0,0,0,21,342,2,46.2
-99,Chris Conley, KC WRBreaking News,FA,,0/0,0,0,0,0,0,0,26,321,2,45.1
-100,Albert Wilson, KC WRRecent News,FA,,0/0,0,0,0,0,0,0,29,331,2,45.1
-101,Riley Cooper, Phi WR,FA,,0/0,0,0,0,0,0,0,21,303,2,42.3
-102,Justin Hunter, Ten WRRecent News,JAC,,0/0,0,0,0,0,0,0,20,303,2,42.3
-103,Quinton Patton, SF WRBreaking News,FA,,0/0,0,0,0,2,14,0,24,324,1,39.8
-104,Louis Murphy, TB WR,FA,,0/0,0,0,0,0,0,0,19,277,2,39.7
-105,Andre Holmes, Oak WR  DRecent News,NIEV,,0/0,0,0,0,0,0,0,22,328,1,38.8
-106,Cordarrelle Patterson, Min WR,JAJ,,0/0,0,0,0,8,56,0,20,244,1,38.4
-107,Marquess Wilson, Chi WR,FA,,0/0,0,0,0,0,0,0,20,249,2,36.9
-108,Stedman Bailey, StL WR,ALES,,0/0,0,0,0,0,0,0,23,297,1,35.7
-109,Marlon Brown, Bal WR,FA,,0/0,0,0,0,0,0,0,18,222,2,34.2
-110,Jamison Crowder, Wsh WR  PRecent News,FA,,0/0,0,0,0,0,0,0,23,273,1,33.9
-111,Chris Matthews, Sea WR  QRecent News,FA,,0/0,0,0,0,2,15,0,13,196,2,33.1
-112,Corey Brown, Car WR,FA,,0/0,0,0,0,0,0,0,17,246,1,30.6
-113,Devin Hester, Atl WRBreaking News,FA,,0/0,0,0,0,8,51,0,11,144,1,30.2
-114,Justin Hardy, Atl WR,FA,,0/0,0,0,0,0,0,0,19,228,1,28.8
-115,Josh Huff, Phi WR,FA,,0/0,0,0,0,0,0,0,16,194,1,28.4
-116,Corey Fuller, Det WR,FA,,0/0,0,0,0,4,27,0,13,197,1,28.4
-117,Hakeem Nicks, Ten WR,FA,,0/0,0,0,0,0,0,0,16,221,1,28.1
-118,Sammie Coates, Pit WR,FA,,0/0,0,0,0,0,0,0,15,201,1,26.1
-119,Rashad Greene, Jac WRRecent News,FA,,0/0,0,0,0,0,0,0,15,189,1,25.8
-120,Jaron Brown, Ari WR,FA,,0/0,0,0,0,0,0,0,13,169,1,22.9
-121,Miles Austin, Phi WR,FA,,0/0,0,0,0,0,0,0,13,160,1,22
-122,Kenny Bell, TB WR,FA,,0/0,0,0,0,0,0,0,13,159,1,21.9
-123,Michael Campanaro, Bal WR,FA,,0/0,0,0,0,4,28,0,7,92,1,20.8
-124,Brandon Gibson, NE WR,FA,,0/0,0,0,0,0,0,0,11,147,1,20.7
-125,Bruce Ellington, SF WR  QBreaking News,FA,,0/0,0,0,0,6,41,0,11,131,0,18.2
-126,Joseph Morgan, NO WRRecent News,FA,,0/0,0,0,0,0,0,0,8,118,1,17.8
-127,Travis Benjamin, Cle WR,FA,,0/0,0,0,0,5,30,0,7,99,0,17.7
-128,Jason Avant, KC WR,FA,,0/0,0,0,0,0,0,0,8,97,1,15.7
-129,James Jones, NYG WRRecent News,Bro,,0/0,0,0,0,0,0,0,7,96,1,15.6
-130,Devin Street, Dal WR,FA,,0/0,0,0,0,0,0,0,6,91,1,15.1
-131,Dontrelle Inman, SD WR,FA,,0/0,0,0,0,0,0,0,6,88,1,14.8
-132,Jacoby Jones, SD WR,FA,,0/0,0,0,0,0,0,0,3,48,0,10.7
-133,Ty Montgomery, GB WRRecent News,FA,,0/0,0,0,0,2,13,0,3,49,0,10.5
-134,Marquise Goodwin, Buf WRRecent News,FA,,0/0,0,0,0,0,0,0,6,89,0,8.9
-135,DeAndre Smelter*, SF WR  O,FA,,0/0,0,0,0,0,0,0,6,86,0,8.6
-136,Stefon Diggs, Min WR,FA,,0/0,0,0,0,0,0,0,6,79,0,7.9
-137,Terrelle Pryor, Cle WR  PRecent News,FA,,0/0,0,0,0,5,30,0,4,48,0,7.8
-138,Brenton Bersin, Car WR,FA,,0/0,0,0,0,0,0,0,6,75,0,7.7
-139,Jeremy Ross, Det WRBreaking News,FA,,0/0,0,0,0,0,0,0,2,22,0,7.3
-140,Damaris Johnson, Hou WR,FA,,0/0,0,0,0,2,15,0,3,42,0,7.1
-141,Rishard Matthews, Mia WR,FA,,0/0,0,0,0,0,0,0,4,60,0,6.9
-142,Dwayne Harris, NYG WR,FA,,0/0,0,0,0,0,0,0,2,25,0,6.7
+1,Antonio Brown, Pit WRRecent News,RMO,,0/0,0,0,0,5,30,0,115,1513,9,209.4
+2,Demaryius Thomas, Den WR,ALES,,0/0,0,0,0,0,0,0,102,1302,11,196.2
+3,Dez Bryant, Dal WR  PRecent News,JAC,,0/0,0,0,0,0,0,0,90,1367,10,194.7
+4,Odell Beckham Jr., NYG WR,Poo,,0/0,0,0,0,8,55,0,103,1381,8,189.6
+5,Calvin Johnson, Det WR,COLE,,0/0,0,0,0,0,0,0,87,1283,10,188.3
+6,Julio Jones, Atl WR,LB,,0/0,0,0,0,2,13,0,105,1403,8,187.7
+7,A.J. Green, Cin WR,SENK,,0/0,0,0,0,5,30,0,90,1274,9,182.5
+8,Randall Cobb, GB WR  QRecent News,Bro,,0/0,0,0,0,14,106,0,89,1208,8,179.4
+9,Alshon Jeffery, Chi WR  QBreaking News,FA,,0/0,0,0,0,8,51,0,88,1222,8,173.3
+10,T.Y. Hilton, Ind WR  QRecent News,JAJ,,0/0,0,0,0,4,26,0,86,1195,8,168.3
+11,Mike Evans, TB WR  QRecent News,COLE,,0/0,0,0,0,0,0,0,81,1207,7,160.7
+12,Brandin Cooks, NO WRRecent News,FA,,0/0,0,0,0,12,82,0,83,1146,6,159.6
+13,Emmanuel Sanders, Den WR  PRecent News,FA,,0/0,0,0,0,9,60,0,78,1090,7,155
+14,Julian Edelman, NE WR  PBreaking Video,FA,,0/0,0,0,0,9,59,0,98,1000,7,147.3
+15,Jordan Matthews, Phi WR,FA,,0/0,0,0,0,0,0,0,80,990,8,147
+16,DeAndre Hopkins, Hou WR,FA,,0/0,0,0,0,0,0,0,83,1175,5,145.6
+17,DeSean Jackson, Wsh WR  PRecent News,FA,,0/0,0,0,0,4,26,0,72,1098,5,142.4
+18,Brandon Marshall, NYJ WR,FA,,0/0,0,0,0,0,0,0,80,1002,7,140.2
+19,Keenan Allen, SD WR,FA,,0/0,0,0,0,0,0,0,78,1054,6,139.9
+20,Golden Tate, Det WR,FA,,0/0,0,0,0,4,26,0,85,1065,5,138.2
+21,Andre Johnson, Ind WR,FA,,0/0,0,0,0,0,0,0,71,895,8,135.6
+22,Sammy Watkins, Buf WRRecent News,FA,,0/0,0,0,0,5,31,0,72,969,6,134
+23,Allen Robinson, Jac WR,FA,,0/0,0,0,0,0,0,0,79,1039,5,133.9
+24,Amari Cooper, Oak WRBreaking Video,FA,,0/0,0,0,0,4,25,0,77,1027,5,133.2
+25,Jarvis Landry, Mia WR,FA,,0/0,0,0,0,4,26,0,91,962,5,130.4
+26,Jeremy Maclin, KC WR,FA,,0/0,0,0,0,0,0,0,77,997,5,130.1
+27,Vincent Jackson, TB WR,FA,,0/0,0,0,0,0,0,0,65,1001,5,130.1
+28,Davante Adams, GB WR,FA,,0/0,0,0,0,0,0,0,63,916,6,127.6
+29,Rueben Randle, NYG WR,FA,,0/0,0,0,0,0,0,0,63,915,5,122.3
+30,Nelson Agholor, Phi WR,FA,,0/0,0,0,0,0,0,0,64,860,6,122.2
+31,Michael Floyd, Ari WR  QBreaking News,FA,,0/0,0,0,0,0,0,0,61,859,6,120
+32,John Brown, Ari WR,FA,,0/0,0,0,0,4,25,0,62,870,5,119.5
+33,Larry Fitzgerald, Ari WR,FA,,0/0,0,0,0,0,0,0,66,830,6,119
+34,Torrey Smith, SF WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,57,945,4,118.5
+35,Charles Johnson, Min WR,FA,,0/0,0,0,0,0,0,0,60,881,5,118.1
+36,Mike Wallace, Min WR,FA,,0/0,0,0,0,0,0,0,59,894,5,117.4
+37,Devin Funchess, Car WRBreaking News,FA,,0/0,0,0,0,0,0,0,63,801,6,116.1
+38,Eric Decker, NYJ WRRecent News,FA,,0/0,0,0,0,0,0,0,70,918,4,115.8
+39,Doug Baldwin, Sea WR,FA,,0/0,0,0,0,2,14,0,61,814,5,113.5
+40,Pierre Garcon, Wsh WRBreaking News,FA,,0/0,0,0,0,0,0,0,70,888,4,112.8
+41,Steve Smith Sr., Bal WRBreaking Video,FA,,0/0,0,0,0,0,0,0,63,837,5,111.8
+42,Marques Colston, NO WR,FA,,0/0,0,0,0,0,0,0,53,795,5,109.5
+43,DeVante Parker, Mia WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,57,787,5,108.7
+44,Kendall Wright, Ten WR,FA,,0/0,0,0,0,4,25,0,76,836,4,108.1
+45,Roddy White, Atl WR  QRecent News,FA,,0/0,0,0,0,0,0,0,63,793,5,107.4
+46,Anquan Boldin, SF WR,FA,,0/0,0,0,0,0,0,0,72,890,3,107
+47,Terrance Williams, Dal WR,FA,,0/0,0,0,0,0,0,0,42,697,6,105.7
+48,Stevie Johnson, SD WR,FA,,0/0,0,0,0,0,0,0,56,749,5,104.9
+49,Malcom Floyd, SD WR,FA,,0/0,0,0,0,0,0,0,42,729,5,102.9
+50,Eddie Royal, Chi WR  PRecent News,FA,,0/0,0,0,0,0,0,0,67,795,4,102.9
+51,Cody Latimer, Den WR,FA,,0/0,0,0,0,0,0,0,54,721,5,102.1
+52,Michael Crabtree, Oak WRRecent News,FA,,0/0,0,0,0,0,0,0,64,749,4,98.9
+53,Brian Quick, StL WR  P,FA,,0/0,0,0,0,0,0,0,52,745,4,98.5
+54,Breshad Perriman, Bal WR  Q,FA,,0/0,0,0,0,0,0,0,49,679,5,97.9
+55,Brandon Coleman, NO WRBreaking News,FA,,0/0,0,0,0,0,0,0,40,657,5,95.7
+56,Percy Harvin, Buf WR  PRecent News,FA,,0/0,0,0,0,23,147,1,49,536,3,95.1
+57,Martavis Bryant, Pit WR  SSPDRecent News,FA,,0/0,0,0,0,3,20,0,41,617,5,93.7
+58,Victor Cruz, NYG WR  QRecent News,FA,,0/0,0,0,0,0,0,0,50,675,4,91.5
+59,Markus Wheaton, Pit WR,FA,,0/0,0,0,0,5,30,0,50,682,3,90.6
+60,Nate Washington, Hou WR,FA,,0/0,0,0,0,0,0,0,47,717,3,89.7
+61,Kenny Britt, StL WR,FA,,0/0,0,0,0,0,0,0,43,645,4,88.5
+62,Ty Montgomery, GB WR  QBreaking News,FA,,0/0,0,0,0,6,40,0,41,553,4,86.9
+63,Brandon LaFell*, NE WR  ORecent News,FA,,0/0,0,0,0,0,0,0,49,620,4,86
+64,Allen Hurns, Jac WR  P,FA,,0/0,0,0,0,4,24,0,48,644,3,84.8
+65,Cole Beasley, Dal WR,FA,,0/0,0,0,0,0,0,0,48,577,4,83.6
+66,Leonard Hankerson, Atl WR,FA,,0/0,0,0,0,0,0,0,45,580,4,82
+67,Kenny Stills, Mia WRRecent News,FA,,0/0,0,0,0,4,26,0,42,612,3,81.8
+68,Corey Brown, Car WR,FA,,0/0,0,0,0,9,61,0,38,563,3,80.4
+69,Jermaine Kearse, Sea WR,FA,,0/0,0,0,0,0,0,0,38,560,4,80
+70,Dwayne Bowe, Cle WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,50,632,3,79.2
+71,Kamar Aiken, Bal WR,FA,,0/0,0,0,0,0,0,0,41,533,4,77.3
+72,Marvin Jones, Cin WR,FA,,0/0,0,0,0,2,15,0,44,573,3,76.8
+73,Tyler Lockett, Sea WRBreaking News,FA,,0/0,0,0,0,2,15,0,35,503,3,73.8
+74,Reggie Wayne, NE WRBreaking News,FA,,0/0,0,0,0,0,0,0,46,557,3,73.7
+75,Greg Jennings, Mia WR  P,FA,,0/0,0,0,0,0,0,0,40,555,3,73.5
+76,Andre Roberts, Wsh WR,FA,,0/0,0,0,0,2,12,0,40,492,3,70.7
+77,Dexter McCluster, Ten WR, RB,FA,,0/0,0,0,0,45,184,1,40,362,1,69.9
+78,Phillip Dorsett, Ind WR  P,FA,,0/0,0,0,0,4,26,0,36,440,3,67.9
+79,Robert Woods, Buf WR  PRecent News,FA,,0/0,0,0,0,0,0,0,37,488,3,67.8
+80,Tavon Austin, StL WR,FA,,0/0,0,0,0,21,157,0,33,347,2,67.7
+81,Andrew Hawkins, Cle WR,FA,,0/0,0,0,0,7,46,0,49,507,2,67.3
+82,Cecil Shorts III, Hou WR,FA,,0/0,0,0,0,0,0,0,34,438,3,63.2
+83,Brian Hartline, Cle WR  PRecent News,FA,,0/0,0,0,0,0,0,0,35,478,2,59.8
+84,Dorial Green-Beckham, Ten WR  P,FA,,0/0,0,0,0,0,0,0,29,406,3,58.6
+85,Donte Moncrief, Ind WR,FA,,0/0,0,0,0,4,28,0,27,375,3,58.3
+86,Devin Smith, NYJ WR  QRecent News,FA,,0/0,0,0,0,1,10,0,31,446,2,57.6
+87,Marqise Lee, Jac WR  QBreaking News,FA,,0/0,0,0,0,0,0,0,35,414,2,53.4
+88,Rod Streater, Oak WR,FA,,0/0,0,0,0,0,0,0,30,406,2,52.6
+89,Ted Ginn Jr., Car WR,FA,,0/0,0,0,0,5,30,0,24,340,2,52.5
+90,Taylor Gabriel, Cle WR,FA,,0/0,0,0,0,2,15,0,28,389,2,52.4
+91,Harry Douglas, Ten WRBreaking News,FA,,0/0,0,0,0,0,0,0,33,402,2,52.2
+92,Jarius Wright, Min WR,FA,,0/0,0,0,0,4,25,0,27,358,2,51
+93,Jerricho Cotchery, Car WR  Q,FA,,0/0,0,0,0,0,0,0,30,390,2,51
+94,Hakeem Nicks, Ten WR  P,FA,,0/0,0,0,0,0,0,0,28,386,2,50.6
+95,Chris Conley, KC WRBreaking News,FA,,0/0,0,0,0,0,0,0,32,385,2,50.5
+96,Mohamed Sanu, Cin WR,FA,,0/0,0,0,0,9,62,0,28,308,2,49
+97,Jaelen Strong, Hou WR,FA,,0/0,0,0,0,0,0,0,27,356,2,47.6
+98,De'Anthony Thomas, KC RB, WR  PBreaking News,FA,,0/0,0,0,0,15,92,0,28,213,2,46.9
+99,Danny Amendola, NE WR,FA,,0/0,0,0,0,0,0,0,34,341,2,46.1
+100,Albert Wilson, KC WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,28,323,2,44.3
+101,Riley Cooper, Phi WR  PBreaking News,FA,,0/0,0,0,0,0,0,0,22,318,2,43.8
+102,Andre Holmes, Oak WR  D,FA,,0/0,0,0,0,0,0,0,22,318,2,43.8
+103,Kevin White*, Chi WR  O,FA,,0/0,0,0,0,0,0,0,22,308,2,42.8
+104,Jeff Janis, GB WRBreaking News,FA,,0/0,0,0,0,0,0,0,19,304,2,42.4
+105,Louis Murphy, TB WR,FA,,0/0,0,0,0,0,0,0,20,294,2,41.4
+106,Marquess Wilson, Chi WR  QRecent News,FA,,0/0,0,0,0,0,0,0,21,262,2,38.2
+107,Marlon Brown, Bal WRBreaking News,FA,,0/0,0,0,0,0,0,0,19,241,2,36.1
+108,Quinton Patton, SF WRBreaking News,FA,,0/0,0,0,0,2,14,0,21,284,1,35.8
+109,Cordarrelle Patterson, Min WR,FA,,0/0,0,0,0,8,53,0,17,208,1,35.3
+110,Stedman Bailey, StL WR,FA,,0/0,0,0,0,0,0,0,22,282,1,34.2
+111,Jamison Crowder, Wsh WR,FA,,0/0,0,0,0,0,0,0,23,276,1,34.1
+112,Chris Matthews, Sea WR,FA,,0/0,0,0,0,0,0,0,14,203,2,32.3
+113,Rashad Greene, Jac WR,FA,,0/0,0,0,0,0,0,0,18,225,1,31.9
+114,Devin Hester, Atl WR,FA,,0/0,0,0,0,8,52,0,11,143,1,30.4
+115,Corey Fuller, Det WR,FA,,0/0,0,0,0,4,26,0,13,203,1,28.9
+116,Josh Morgan, NO WRBreaking News,FA,,0/0,0,0,0,0,0,0,16,224,1,28.4
+117,Justin Hardy, Atl WR,FA,,0/0,0,0,0,0,0,0,18,221,1,28.1
+118,Jerome Simpson, SF WR  SSPD,FA,,0/0,0,0,0,0,0,0,15,215,1,27.5
+119,Jeremy Kerley, NYJ WR  QBreaking News,FA,,0/0,0,0,0,2,16,0,14,159,1,26
+120,Kenny Bell*, TB WR  IRBreaking News,FA,,0/0,0,0,0,0,0,0,15,192,1,25.2
+121,Josh Huff, Phi WR,FA,,0/0,0,0,0,0,0,0,13,153,1,24.5
+122,Preston Parker, NYG WR,FA,,0/0,0,0,0,0,0,0,15,175,1,23.8
+123,Seantavius Jones, NO WRRecent News,FA,,0/0,0,0,0,0,0,0,11,176,1,23.6
+124,Sammie Coates, Pit WRBreaking News,FA,,0/0,0,0,0,0,0,0,12,175,1,23.5
+125,Jaron Brown, Ari WR,FA,,0/0,0,0,0,0,0,0,14,174,1,23.4
+126,Justin Hunter, Ten WR,FA,,0/0,0,0,0,0,0,0,11,167,1,22.7
+127,Michael Campanaro, Bal WR,FA,,0/0,0,0,0,4,28,0,9,113,1,21.2
+128,Rishard Matthews, Mia WRRecent News,FA,,0/0,0,0,0,0,0,0,9,122,1,18.2
+129,Joseph Morgan, NO WRBreaking News,FA,,0/0,0,0,0,0,0,0,8,118,1,17.8
+130,Travis Benjamin, Cle WR,FA,,0/0,0,0,0,5,30,0,7,99,0,17.7
+131,Bruce Ellington, SF WRBreaking News,FA,,0/0,0,0,0,6,41,0,8,106,0,15.8
+132,Devin Street, Dal WR,FA,,0/0,0,0,0,0,0,0,6,94,1,15.4
+133,Dontrelle Inman, SD WR  Q,FA,,0/0,0,0,0,0,0,0,6,88,1,14.8
+134,Miles Austin, Phi WR,FA,,0/0,0,0,0,0,0,0,6,81,1,14.1
+135,Ifeanyi Momah, Ari WR,FA,,0/0,0,0,0,0,0,0,6,68,1,12.7
+136,Jacoby Jones, SD WR,FA,,0/0,0,0,0,0,0,0,3,47,0,10.8
+137,Chris Hogan, Buf WR  Q,FA,,0/0,0,0,0,0,0,0,6,82,0,8.2
+138,Stefon Diggs, Min WRBreaking News,FA,,0/0,0,0,0,0,0,0,6,81,0,8.1
+139,Terrelle Pryor, Cle WR  PRecent News,FA,,0/0,0,0,0,5,31,0,4,48,0,7.9
+140,Jason Avant, KC WR  PRecent News,FA,,0/0,0,0,0,0,0,0,6,78,0,7.8
+141,Jeremy Ross, Det WR,FA,,0/0,0,0,0,0,0,0,2,22,0,7.2
+142,Brenton Bersin, Car WR,FA,,0/0,0,0,0,0,0,0,4,55,0,6.6
 143,Ace Sanders, Jac WR  SSPD,FA,,0/0,0,0,0,0,0,0,3,43,0,6.5
-144,Josh Morgan, NO WRBreaking News,FA,,0/0,0,0,0,0,0,0,4,60,0,6
-145,Seantavius Jones, NO WR,FA,,0/0,0,0,0,0,0,0,4,59,0,5.9
-146,Andre Caldwell, Den WR,FA,,0/0,0,0,0,0,0,0,4,49,0,5.8
-147,Paul Richardson*, Sea WR  O,FA,,0/0,0,0,0,0,0,0,4,55,0,5.5
-148,Aaron Dobson, NE WR  PRecent News,FA,,0/0,0,0,0,0,0,0,4,48,0,4.8
-149,Corey Washington, NYG WR,FA,,0/0,0,0,0,0,0,0,4,48,0,4.8
-150,Ricardo Lockette, Sea WR,FA,,0/0,0,0,0,0,0,0,3,46,0,4.6
-151,Joshua Bellamy, Chi WR,FA,,0/0,0,0,0,0,0,0,4,46,0,4.6
-152,Lance Moore, Det WR,FA,,0/0,0,0,0,0,0,0,3,45,0,4.5
-153,Kenbrell Thompkins, Oak WR,FA,,0/0,0,0,0,0,0,0,3,44,0,4.4
-154,Chris Givens, StL WR,FA,,0/0,0,0,0,0,0,0,3,39,0,4.4
-155,JJ Nelson, Ari WR,FA,,0/0,0,0,0,0,0,0,3,43,0,4.3
-156,Ryan Grant, Wsh WR,FA,,0/0,0,0,0,0,0,0,3,42,0,4.2
-157,Neal Sterling, Jac WR,FA,,0/0,0,0,0,0,0,0,3,40,0,4
-158,Keith Mumphery, Hou WR,FA,,0/0,0,0,0,0,0,0,3,40,0,4
-159,Alan Bonner, Hou WRRecent News,FA,,0/0,0,0,0,2,15,0,2,21,0,3.6
-160,Tre McBride, Ten WR,FA,,0/0,0,0,0,0,0,0,1,19,0,3.6
-161,Chris Hogan, Buf WR  QBreaking News,FA,,0/0,0,0,0,0,0,0,3,34,0,3.4
-162,Robert Herron, TB WR,FA,,0/0,0,0,0,0,0,0,2,33,0,3.3
-163,Brandon Tate, Cin WR,FA,,0/0,0,0,0,0,0,0,1,18,0,3.1
-164,Marc Mariani, Chi WR,FA,,0/0,0,0,0,0,0,0,1,8,0,3
-165,Eric Weems, Atl WR,FA,,0/0,0,0,0,0,0,0,2,25,0,2.7
-166,Jared Abbrederis, GB WR  Q,FA,,0/0,0,0,0,0,0,0,2,25,0,2.5
-167,Darrius Heyward-Bey, Pit WR,FA,,0/0,0,0,0,0,0,0,2,24,0,2.4
-168,Jeff Janis, GB WRRecent News,FA,,0/0,0,0,0,0,0,0,2,24,0,2.4
-169,Duron Carter, Ind WR,FA,,0/0,0,0,0,0,0,0,2,23,0,2.3
-170,Gerell Robinson, Mia WR,FA,,0/0,0,0,0,0,0,0,2,22,0,2.2
-171,Seyi Ajirotutu, Phi WR,FA,,0/0,0,0,0,0,0,0,2,21,0,2.1
-172,Darren Waller, Bal WR,FA,,0/0,0,0,0,0,0,0,2,21,0,2.1
-173,DeVier Posey, NYJ WR,FA,,0/0,0,0,0,0,0,0,2,20,0,2
+144,Kaelin Clay, TB WR  P,FA,,0/0,0,0,0,0,0,0,2,20,0,6.3
+145,Willie Snead, NO WRBreaking News,FA,,0/0,0,0,0,0,0,0,4,62,0,6.2
+146,Corey Washington, NYG WR  Q,FA,,0/0,0,0,0,0,0,0,4,59,0,5.9
+147,JJ Nelson, Ari WR,FA,,0/0,0,0,0,0,0,0,3,44,0,5.8
+148,Ricardo Lockette, Sea WR,FA,,0/0,0,0,0,0,0,0,4,56,0,5.6
+149,Andre Caldwell, Den WRBreaking News,FA,,0/0,0,0,0,0,0,0,4,49,0,5.6
+150,Joshua Bellamy, Chi WR,FA,,0/0,0,0,0,0,0,0,4,55,0,5.5
+151,Paul Richardson*, Sea WR  ORecent News,FA,,0/0,0,0,0,0,0,0,4,54,0,5.4
+152,Damaris Johnson, Hou WRBreaking News,FA,,0/0,0,0,0,2,15,0,2,21,0,5.4
+153,Myles White, GB WRBreaking News,FA,,0/0,0,0,0,0,0,0,3,49,0,4.9
+154,Darrius Heyward-Bey, Pit WRBreaking News,FA,,0/0,0,0,0,0,0,0,4,48,0,4.8
+155,Lance Moore, Det WR,FA,,0/0,0,0,0,0,0,0,3,47,0,4.7
+156,Aaron Dobson, NE WR,FA,,0/0,0,0,0,0,0,0,3,44,0,4.4
+157,Ryan Grant, Wsh WR,FA,,0/0,0,0,0,0,0,0,3,43,0,4.3
+158,Brice Butler, Oak WR  Q,FA,,0/0,0,0,0,0,0,0,3,42,0,4.2
+159,Keith Mumphery, Hou WRRecent News,FA,,0/0,0,0,0,0,0,0,3,41,0,4.1
+160,Neal Sterling, Jac WR,FA,,0/0,0,0,0,0,0,0,3,40,0,4
+161,Chris Givens, StL WR,FA,,0/0,0,0,0,0,0,0,3,38,0,3.8
+162,Brandon Tate, Cin WR,FA,,0/0,0,0,0,0,0,0,1,19,0,3.6
+163,James Jones, NYG WR,FA,,0/0,0,0,0,0,0,0,2,30,0,3
+164,Marc Mariani, Chi WR,FA,,0/0,0,0,0,0,0,0,1,11,0,2.9
+165,Darren Waller, Bal WR,FA,,0/0,0,0,0,0,0,0,2,29,0,2.9
+166,Chris Owusu, NYJ WRBreaking News,FA,,0/0,0,0,0,0,0,0,1,16,0,2.8
+167,Eric Weems, Atl WR,FA,,0/0,0,0,0,0,0,0,2,25,0,2.5
+168,Chris Harper, NYG WR,FA,,0/0,0,0,0,0,0,0,2,25,0,2.5
+169,Jared Abbrederis, GB WRBreaking News,FA,,0/0,0,0,0,0,0,0,2,24,0,2.4
+170,Duron Carter, Ind WRBreaking News,FA,,0/0,0,0,0,0,0,0,2,23,0,2.3
+171,Russell Shepard, TB WR,FA,,0/0,0,0,0,0,0,0,2,21,0,2.1
+172,Tre McBride, Ten WR,FA,,0/0,0,0,0,0,0,0,2,20,0,2
+173,Seyi Ajirotutu, Phi WR,FA,,0/0,0,0,0,0,0,0,2,20,0,2
 174,James Wright*, Cin WR  IR,FA,,0/0,0,0,0,0,0,0,1,18,0,1.8
-175,Denarius Moore, Cin WR,FA,,0/0,0,0,0,0,0,0,1,18,0,1.8
+175,Kevin Norwood, Car WRRecent News,FA,,0/0,0,0,0,0,0,0,1,18,0,1.8
 176,Marcus Harris*, NYG WR  IR,FA,,0/0,0,0,0,0,0,0,1,18,0,1.8
-177,Vince Mayle, Cle WR  P,FA,,0/0,0,0,0,0,0,0,1,17,0,1.7
-178,Kevin Norwood, Sea WR,FA,,0/0,0,0,0,0,0,0,1,9,0,0.9
+177,Mario Alford, Cin WR,FA,,0/0,0,0,0,0,0,0,1,18,0,1.8
+178,Andre Davis, FA WR,FA,,0/0,0,0,0,0,0,0,1,17,0,1.7
+179,Marcus Easley, Buf WR,FA,,0/0,0,0,0,0,0,0,1,16,0,1.6
+180,Vince Mayle, Cle WR  P,FA,,0/0,0,0,0,0,0,0,1,16,0,1.6
