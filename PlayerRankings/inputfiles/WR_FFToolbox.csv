@@ -1,335 +1,154 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
-1,"Randall Cobb
-",WR,,7,Que,25,19.06,$33,255.1
-2,"Antonio Brown
-",WR,,11,,27,4.91,$43,242.4
-3,"Odell Beckham Jr.
-",WR,,11,,22,11.63,$39,238.3
-4,"Demaryius Thomas
-",WR,,7,,27,11.42,$39,229.9
-5,"Julio Jones
-",WR,,10,,26,10.06,$42,226.9
-6,"Dez Bryant
-",WR,,6,Pro,26,8.73,$42,225.1
-7,"Calvin Johnson
-",WR,,9,,29,15.51,$37,221.7
-8,"A.J. Green
-",WR,,7,,27,18.99,$35,200.6
-9,"Mike Evans
-",WR,,6,Que,22,30.16,$29,186.2
-10,"T.Y. Hilton
-",WR,,10,Que,25,23.02,$27,176.9
-11,"Brandin Cooks
-",WR,,11,,21,26.44,$25,176.7
-12,"DeAndre Hopkins
-",WR,,9,,23,33.16,$24,170.7
-13,"Alshon Jeffery
-",WR,,7,Que,25,26.55,$29,168.8
-14,"Jordan Matthews
-",WR,,8,,23,32.33,$22,165.9
-15,"Davante Adams
-",WR,,7,,22,48.73,$13,164.9
-16,"Emmanuel Sanders
-",WR,,7,Pro,28,32.56,$22,161.5
-17,"DeSean Jackson
-",WR,,8,Pro,28,68.38,$11,160.2
-18,"Julian Edelman
-",WR,,4,Pro,29,47.13,$15,157.0
-19,"Andre Johnson
-",WR,,10,,34,46.27,$16,156.3
-20,"Mike Wallace
-",WR,,5,,29,81.65,$8,155.6
-21,"Brandon Marshall
-",WR,,5,,31,59.12,$13,152.9
-22,"Amari Cooper
-",WR,,6,,22,43.98,$21,152.6
-23,"Keenan Allen
-",WR,,10,,23,46.13,$17,152.5
-24,"Vincent Jackson
-",WR,,6,,32,74.71,$10,148.9
-25,"Golden Tate
-",WR,,9,,27,44.39,$16,147.5
-26,"Jeremy Maclin
-",WR,,9,,27,51.15,$13,145.7
-27,"Sammy Watkins
-",WR,,8,,22,56.99,$16,139.8
-28,"Larry Fitzgerald
-",WR,,9,,32,85.29,$7,139.5
-29,"Marques Colston
-",WR,,11,,32,119.55,$4,139.0
-30,"Torrey Smith
-",WR,,10,Pro,26,108.27,$5,138.9
-31,"Steve Smith
-",WR,,9,,36,89.78,$5,136.6
-32,"Jarvis Landry
-",WR,,5,,22,52.6,$13,135.3
-33,"Allen Robinson
-",WR,,8,,22,69.05,$13,134.6
-34,"Martavis Bryant
-",WR,,11,Sus,23,75.33,$11,133.5
-35,"Anquan Boldin
-",WR,,10,,34,105.6,$4,131.4
-36,"Percy Harvin
-",WR,,8,Pro,27,158.77,$3,130.7
-37,"Eric Decker
-",WR,,5,,28,104.6,$5,130.7
-38,"John Brown
-",WR,,9,,25,91.72,$6,130.5
-39,"Roddy White
-",WR,,10,Que,33,93.47,$7,129.1
-40,"Pierre Garcon
-",WR,,8,,29,126.18,$5,127.6
-41,"Steve Johnson
-",WR,,10,,29,138.31,$3,125.2
-42,"Kendall Wright
-",WR,,4,,25,110.78,$5,122.9
-43,"Eddie Royal
-",WR,,7,Pro,29,121.98,$3,120.0
-44,"Michael Crabtree
-",WR,,6,,27,151.28,$3,117.8
-45,"Rueben Randle
-",WR,,11,,24,160.01,$2,116.2
-46,"Terrance Williams
-",WR,,6,,25,128.71,$3,115.1
-47,"Marvin Jones
-",WR,,7,,25,161.99,$2,114.8
-48,"Tavon Austin
-",WR,,6,,24,184.61,$1,113.4
-49,"Kenny Stills
-",WR,,5,,23,153.02,$3,109.7
-50,"Brian Quick
-",WR,,6,Pro,26,135.12,$3,109.1
-51,"Devin Funchess
-",WR,,5,,21,110.27,$5,109.0
-52,"Allen Hurns
-",WR,,8,Pro,23,170.45,$1,106.7
-53,"Michael Floyd
-",WR,,9,Que,25,115.43,$5,105.1
-54,"Nelson Agholor
-",WR,,8,,22,69.54,$13,104.6
-55,"Charles Johnson
-",WR,,5,,26,81.32,$7,104.3
-56,"Cole Beasley
-",WR,,6,,26,181.28,$1,104.1
-57,"Malcom Floyd
-",WR,,10,,33,181.52,$1,104.0
-58,"Dorial Green-Beckham
-",WR,,4,Pro,22,156.71,$6,102.5
-59,"Dwayne Bowe
-",WR,,11,Pro,30,178.64,$1,102.0
-60,"Doug Baldwin
-",WR,,9,,26,154.72,$2,101.5
-61,"Harry Douglas
-",WR,,4,,30,236.47,$0,101.2
-62,"Breshad Perriman
-",WR,,9,Que,21,138.09,$6,101.0
-63,"Markus Wheaton
-",WR,,11,,24,120.49,$3,100.2
-64,"Cordarrelle Patterson
-",WR,,5,,24,188.99,$2,98.3
-65,"DeVante Parker
-",WR,,5,Pro,22,130.49,$7,96.4
-66,"Kamar Aiken
-",WR,,9,,26,204.81,$1,93.8
-67,"Cecil Shorts III
-",WR,,9,,27,182.84,$1,93.3
-68,"Donte Moncrief
-",WR,,10,,22,166.26,$3,93.2
-69,"Phillip Dorsett
-",WR,,10,Pro,21,158.12,$4,90.3
-70,"Philly Brown
-",WR,,5,,23,209.36,$1,87.6
-71,"Riley Cooper
-",WR,,8,Pro,27,206.94,$1,87.0
-72,"Victor Cruz
-",WR,,11,Que,28,88.56,$6,85.3
-73,"Robert Woods
-",WR,,8,Pro,23,215.44,$1,84.9
-74,"Mohamed Sanu
-",WR,,7,,26,195.4,$1,83.9
-75,"Brian Hartline
-",WR,,11,Pro,28,205.93,$1,82.0
-76,"Reggie Wayne
-",WR,,4,,36,160.49,$2,80.1
-77,"Cody Latimer
-",WR,,7,,22,161.41,$3,80.0
-78,"Andrew Hawkins
-",WR,,11,,29,216.2,$1,77.0
-79,"Ty Montgomery
-",WR,,7,Que,22,157.7,$2,76.2
-80,"Kenny Britt
-",WR,,6,,26,181.12,$1,75.4
-81,"Jermaine Kearse
-",WR,,9,,25,196.95,$0,74.1
-82,"Brandon Coleman
-",WR,,11,,23,155.68,$2,70.4
-83,"Greg Jennings
-",WR,,5,Pro,31,201.85,$0,68.3
-84,"Hakeem Nicks
-",WR,,4,Pro,27,225.4,$0,68.3
-85,"Chris Conley
-",WR,,9,,22,210.38,$2,65.9
-86,"Justin Hunter
-",WR,,4,,24,220,$1,63.5
-87,"Dontrelle Inman
-",WR,,10,Que,26,0,$0,63.0
-88,"Jerricho Cotchery
-",WR,,5,Que,33,180.31,$0,61.2
-89,"Marqise Lee
-",WR,,8,Que,23,210.57,$1,60.9
-90,"Andre Roberts
-",WR,,8,,27,313.67,$1,60.0
-91,"De'Anthony Thomas
-",WR,,9,Pro,22,252.75,$1,56.2
-92,"Lance Moore
-",WR,,9,,32,0,$0,52.6
-93,"Nate Washington
-",WR,,4,,32,231.5,$0,52.5
-94,"Marlon Brown
-",WR,,9,,,184.8,$0,52.3
-95,"Brandon LaFell
-",WR,,4,Out,28,117.82,$5,50.0
-96,"Chris Matthews
-",WR,,9,,25,204,$1,49.6
-97,"Danny Amendola
-",WR,,4,,29,182.32,$1,49.4
-98,"Taylor Gabriel
-",WR,,11,,24,232.5,$1,48.5
-99,"Jarius Wright
-",WR,,5,,25,276.25,$0,46.0
-100,"Tyler Lockett
-",WR,,9,,21,171.43,$2,46.0
-101,"Stedman Bailey
-",WR,,6,,24,200.93,$1,45.3
-102,"Kevin White
-",WR,,7,Out,22,137.88,$11,44.6
-103,"Jarrett Boykin
-",WR,,5,,25,0,$0,44.3
-104,"Andre Caldwell
-",WR,,7,,30,199.25,$1,43.9
-105,"Justin Hardy
-",WR,,10,,21,236.12,$1,43.4
-106,"Rod Streater
-",WR,,6,,27,260.33,$1,42.7
-107,"Devin Hester
-",WR,,10,,32,209,$0,42.1
-108,"Louis Murphy
-",WR,,6,,28,0,$0,39.5
-109,"Leonard Hankerson
-",WR,,10,,27,184.92,$1,37.2
-110,"Marquise Goodwin
-",WR,,8,Que,24,190,$0,36.0
-111,"Josh Huff
-",WR,,8,,23,207.46,$2,34.4
-112,"Travis Benjamin
-",WR,,11,,25,229.5,$0,33.9
-113,"Jaelen Strong
-",WR,,9,,22,183.25,$4,33.6
-114,"Andre Holmes
-",WR,,6,Dou,27,254.5,$1,33.2
-115,"Devin Smith
-",WR,,5,Que,22,228.19,$1,31.9
-116,"Josh Morgan
-",WR,,7,,30,0,$0,31.6
-117,"Sammie Coates
-",WR,,11,,22,209.97,$1,31.3
-118,"Albert Wilson
-",WR,,9,Pro,23,224,$1,31.0
-119,"James Jones
-",WR,,6,,31,233.56,$1,30.6
-120,"Quinton Patton
-",WR,,10,,25,0,$0,30.5
-121,"DeVier Posey
-",WR,Free Agent,9,,25,0,$0,30.0
-122,"Aaron Dobson
-",WR,,4,,24,225.57,$1,29.6
-123,"Jason Avant
-",WR,,5,Pro,32,322.5,$0,29.4
-124,"Jeremy Kerley
-",WR,,5,Que,26,329,$0,29.3
-125,"Jeff Janis
-",WR,,7,,24,169.61,$2,29.2
-126,"Rashad Greene
-",WR,,8,,22,203,$0,28.8
-127,"Duron Carter
-",WR,,10,,24,276.25,$1,27.5
-128,"Michael Campanaro
-",WR,,9,,24,316,$0,27.3
-129,"Brenton Bersin
-",WR,,5,,25,0,$0,27.3
-130,"Rishard Matthews
-",WR,,5,,25,266.25,$0,27.2
-131,"Ted Ginn Jr.
-",WR,,5,,30,235.4,$0,26.6
-132,"DeAndre Smelter
-",WR,,10,Out,23,0,$1,26.5
-133,"Paul Richardson
-",WR,,9,Out,23,317,$1,25.8
-134,"Jerome Simpson
-",WR,,5,Sus,29,0,$0,25.5
-135,"Miles Austin
-",WR,,8,,31,157.43,$0,24.9
-136,"T.J. Graham
-",WR,Free Agent,9,Pro,26,0,$0,24.5
-137,"Jacoby Jones
-",WR,,10,,31,184,$0,24.3
-138,"Nick Toon
-",WR,,11,Que,26,0,$1,23.2
-139,"Tre McBride
-",WR,,4,,22,0,$1,23.0
-140,"Bruce Ellington
-",WR,,10,,24,330,$0,23.0
-141,"Jaron Brown
-",WR,,9,,25,233,$0,20.7
-142,"Marquess Wilson
-",WR,,7,Que,22,219.36,$1,20.6
-143,"Damaris Johnson
-",WR,Free Agent,7,,25,0,$0,20.4
-144,"Kenbrell Thompkins
-",WR,Free Agent,4,,,0,$1,18.5
-145,"Chris Givens
-",WR,,6,,25,211.17,$0,18.3
-146,"Brandon Tate
-",WR,,7,,27,103,$0,17.2
-147,"Jeremy Ross
-",WR,,9,,27,190,$0,17.1
-148,"Stefon Diggs
-",WR,,5,,21,190.38,$1,15.7
-149,"Keshawn Martin
-",WR,,9,,25,277,$0,14.8
-150,"Corey Washington
-",WR,,11,Que,23,0,$0,14.1
-151,"Devin Street
-",WR,,6,,24,0,$0,13.6
-152,"Dwayne Harris
-",WR,,11,,27,196,$0,13.4
-153,"Kenny Bell
-",WR,,6,Que,23,273.67,$1,13.2
-154,"Tai-ler Jones
-",WR,,9,,23,0,$0,12.8
-155,"Darrius Heyward-Bey
-",WR,,11,,28,217,$0,12.7
-156,"Denarius Moore
-",WR,Free Agent,6,,26,0,$0,12.6
-157,"Ricardo Lockette
-",WR,,9,,29,199,$0,12.5
-158,"Junior Hemingway
-",WR,Free Agent,9,Pro,26,0,$0,11.3
-159,"Corey Fuller
-",WR,,9,,25,136,$0,11.2
-160,"JaMarcus Nelson
-",WR,,9,,23,175.8,$0,10.8
-161,"Ryan Grant
-",WR,,8,,24,222,$0,10.6
-162,"Jamison Crowder
-",WR,,8,,21,231.17,$0,10.2
-163,"Eric Weems
-",WR,,10,,30,0,$0,10.1
-164,"Robert Herron
-",WR,,6,Out,23,0,$0,8.5
-165,"Darren Waller
-",WR,,9,,22,204,$1,5.5
-166,"Chris Hogan
-",WR,,8,Que,26,208,$0,3.8
-167,"Marc Mariani
-",WR,,7,,28,0,$0,0.6
+1,Antonio Brown,WR,,8,,28,1.09,$43 ,256
+2,Julio Jones,WR,,11,,27,2.6,$39 ,248
+3,Odell Beckham Jr.,WR,,8,Pro,23,2.52,$43 ,247
+4,Dez Bryant,WR,,7,Pro,27,9.9,$32 ,218
+5,A.J. Green,WR,,9,,28,5.54,$35 ,216
+6,DeAndre Hopkins,WR,,9,,24,5.26,$37 ,214
+7,Allen Robinson,WR,,5,,22,10.43,$33 ,210
+8,Brandon Marshall,WR,,11,,32,16.27,$21 ,192.9
+9,Keenan Allen,WR,,11,,24,14.5,$28 ,185.2
+10,Alshon Jeffery,WR,,9,Pro,26,18.99,$27 ,185
+11,Jordy Nelson,WR,,4,Out,31,20.09,$26 ,180.9
+12,Mike Evans,WR,,6,,22,16.98,$31 ,180
+13,Sammy Watkins,WR,,10,,23,26.79,$27 ,177.5
+14,Amari Cooper,WR,,10,,22,20.99,$33 ,175.5
+15,Brandin Cooks,WR,,5,,22,20.97,$26 ,175
+16,T.Y. Hilton,WR,,10,,26,23.36,$23 ,173.3
+17,Doug Baldwin,WR,,5,Pro,27,43.33,$15 ,167.5
+18,Demaryius Thomas,WR,,11,,28,26.98,$25 ,167
+19,Kelvin Benjamin,WR,,7,,25,36.99,$20 ,166.1
+20,Randall Cobb,WR,,4,Pro,25,31.28,$22 ,163.3
+21,Donte Moncrief,WR,,10,,23,38.04,$16 ,162
+22,Jeremy Maclin,WR,,5,,28,36.45,$16 ,161
+23,Julian Edelman,WR,,9,Pro,30,38.28,$18 ,156.9
+24,Michael Floyd,WR,,9,,26,47.73,$12 ,156.4
+25,Eric Decker,WR,,11,Que,29,43.25,$13 ,154.9
+26,Golden Tate,WR,,10,,28,34.13,$17 ,154.5
+27,Jarvis Landry,WR,,8,,23,28.75,$20 ,153.3
+28,Tyler Lockett,WR,,5,,23,55.9,$13 ,150.5
+29,Larry Fitzgerald,WR,,9,,32,50.74,$12 ,149.6
+30,Jordan Matthews,WR,,4,Que,24,50.68,$15 ,148.9
+31,DeVante Parker,WR,,8,Pro,23,55.38,$16 ,145.1
+32,Allen Hurns,WR,,5,,24,63.63,$13 ,145
+33,DeSean Jackson,WR,,9,,29,74.18,$7 ,142.1
+34,Michael Crabtree,WR,,10,,28,69.05,$9 ,139.9
+35,John Brown,WR,,9,Pro,26,55.71,$11 ,138.3
+36,Emmanuel Sanders,WR,,11,,29,61.06,$12 ,138
+37,Marvin Jones,WR,,10,,26,70.25,$8 ,133.8
+38,Tavon Austin,WR,,8,Pro,25,95.73,$6 ,133.5
+39,Josh Gordon,WR,,13,Sus,25,75.44,$8 ,132
+40,Torrey Smith,WR,,8,Pro,27,86.74,$5 ,130
+41,Kevin White,WR,,9,,24,64.55,$16 ,130
+42,Sterling Shepard,WR,,8,Que,23,72.16,$11 ,127
+43,Markus Wheaton,WR,,8,,25,107.71,$5 ,124.3
+44,Willie Snead Jr.,WR,,5,,23,86.17,$6 ,122.5
+45,Steve Smith,WR,,8,Out,37,129.73,$3 ,122.5
+46,Travis Benjamin,WR,,11,Pro,26,99.09,$6 ,120
+47,Corey Coleman,WR,,13,Pro,22,76.9,$10 ,119
+48,Mohamed Sanu,WR,,11,,26,124.26,$3 ,117
+49,Phillip Dorsett,WR,,10,,23,114.62,$4 ,115
+50,Dorial Green-Beckham,WR,,13,,23,116.53,$9 ,114.5
+51,Stefon Diggs,WR,,6,,22,87.46,$7 ,113.5
+52,Sammie Coates,WR,,8,,23,96.41,$6 ,112.5
+53,Laquon Treadwell,WR,,6,,21,102.57,$12 ,111.6
+54,Mike Wallace,WR,,8,,30,0,$2 ,110.5
+55,Vincent Jackson,WR,,6,,33,112.96,$4 ,110
+56,Kamar Aiken,WR,,8,,27,96.92,$4 ,109.2
+57,Michael Thomas,WR,,5,,21,103.27,$7 ,107.1
+58,Devin Funchess,WR,,7,,22,115.67,$5 ,104
+59,Kendall Wright,WR,,13,Pro,26,0,$2 ,103.2
+60,Rishard Matthews,WR,,13,,26,133.13,$3 ,102.9
+61,Rueben Randle,WR,,4,,25,0,$1 ,102.8
+62,Chris Hogan,WR,,9,Pro,27,146.95,$3 ,101.8
+63,Tyler Boyd,WR,,9,,21,138.23,$4 ,101.7
+64,Terrance Williams,WR,,7,,26,0,$1 ,99.7
+65,Pierre Garcon,WR,,9,,30,141.61,$2 ,98.8
+66,Anquan Boldin,WR,,10,,35,0,$1 ,98
+67,Jeff Janis,WR,,4,Pro,25,0,$1 ,95.1
+68,Josh Doctson,WR,,9,Out,23,134.49,$9 ,94.7
+69,Davante Adams,WR,,4,,23,0,$2 ,94.3
+70,Robert Woods,WR,,10,,24,0,$1 ,94
+71,Breshad Perriman,WR,,8,Out,22,157.39,$5 ,93.9
+72,Jermaine Kearse,WR,,5,,26,0,$1 ,89
+73,Bruce Ellington,WR,,8,,24,141.5,$1 ,88.6
+74,DeAndre Smelter,WR,,8,,24,0,$1 ,88.5
+75,Kenny Britt,WR,,8,,27,0,$1 ,87.5
+76,Ted Ginn Jr.,WR,,7,,31,0,$2 ,87.1
+77,Will Fuller V,WR,,9,,22,0,$4 ,87
+78,Jaelen Strong,WR,,9,,22,0,$1 ,84
+79,Nelson Agholor,WR,,4,,23,155.6,$4 ,83
+80,Charles Johnson,WR,,6,,27,0,$0 ,82
+81,Brandon LaFell,WR,,9,,29,0,$1 ,80.1
+82,Cody Latimer,WR,,11,,23,0,$0 ,77.8
+83,Danny Amendola,WR,,9,Out,30,0,$1 ,77.4
+84,Justin Hardy,WR,,11,,24,0,$1 ,76.2
+85,Kenny Stills,WR,,8,,24,0,$0 ,76
+86,Albert Wilson,WR,,5,,24,0,$0 ,76
+87,Jerome Simpson,WR,,8,,30,0,$0 ,75.5
+88,Bennie Fowler,WR,,11,,25,0,$0 ,75.5
+89,Eddie Royal,WR,,9,Pro,30,0,$0 ,75.2
+90,Seth Roberts,WR,,10,,25,0,$1 ,73.8
+91,Quinton Patton,WR,,8,Pro,26,0,$0 ,73.8
+92,Jamison Crowder,WR,,9,Pro,23,0,$1 ,73.8
+93,Chris Conley,WR,,5,,23,0,$2 ,71.5
+94,Leonte Carroo,WR,,8,,22,0,$2 ,71
+95,Cole Beasley,WR,,7,,27,0,$0 ,70
+96,Ty Montgomery,WR,,4,Pro,23,0,$1 ,68
+97,Tajae Sharpe,WR,,13,,21,0,$1 ,68
+98,Brandon Coleman,WR,,5,,24,0,$1 ,66.8
+99,Malcolm Mitchell,WR,,9,Que,23,0,$1 ,65.5
+100,Darrius Heyward-Bey,WR,,8,,29,0,$0 ,65
+101,Victor Cruz,WR,,8,Pro,29,0,$2 ,64.5
+102,Cecil Shorts III,WR,,9,,28,0,$0 ,64
+103,Brian Quick,WR,,8,,27,0,$0 ,63.8
+104,JaMarcus Nelson,WR,,9,Pro,24,0,$1 ,63.7
+105,Andrew Hawkins,WR,,13,Pro,30,0,$0 ,63.5
+106,Marqise Lee,WR,,5,,24,0,$0 ,63
+107,Kenny Bell,WR,,6,,24,0,$1 ,62
+108,Jarius Wright,WR,,6,Pro,26,0,$0 ,62
+109,Braxton Miller,WR,,9,,23,0,$2 ,62
+110,Nate Washington,WR,,9,,32,0,$0 ,59
+111,Leonard Hankerson,WR,,10,,28,0,$0 ,59
+112,Pharoh Cooper,WR,,8,,21,0,$1 ,54.5
+113,Rashad Greene,WR,,5,,23,0,$0 ,54
+114,Devin Smith,WR,,11,Out,24,0,$0 ,52.5
+115,Chris Moore,WR,,8,Que,23,0,$0 ,52.5
+116,Rashard Higgins,WR,,13,,21,0,$1 ,52
+117,Taylor Gabriel,WR,,13,,25,0,$0 ,51
+118,Andre Johnson,WR,,13,,35,0,$0 ,49.5
+119,Jordan Payton,WR,,13,,22,0,$0 ,48.5
+120,Harry Douglas,WR,,13,,31,0,$0 ,46.1
+121,Brice Butler,WR,,7,,26,0,$0 ,45.3
+122,Mike Thomas,WR,,8,,21,0,$1 ,45
+123,Andre Holmes,WR,,10,,28,0,$0 ,45
+124,Josh Huff,WR,,4,,24,0,$0 ,44.4
+125,Quan Bray,WR,,10,,23,0,$0 ,42.1
+126,Dwayne Harris,WR,,8,,28,0,$1 ,41
+127,Nick Williams,WR,,11,,25,0,$0 ,41
+128,Marquess Wilson,WR,,9,Out,23,0,$0 ,40.9
+129,James Jones,WR,,11,,32,0,$0 ,40.5
+130,Donteea Dye,WR,,6,,22,0,$0 ,40.4
+131,Tai-ler Jones,WR,,10,,24,0,$0 ,40
+132,Rod Streater,WR,,5,,28,0,$0 ,38.5
+133,Quincy Enunwa,WR,,11,,24,0,$0 ,37.5
+134,Philly Brown,WR,,7,Pro,24,0,$0 ,37
+135,Jeremy Kerley,WR,,10,,27,0,$0 ,36
+136,James Wright,WR,,9,,24,0,$0 ,36
+137,Dezmin Lewis,WR,,10,Que,23,0,$0 ,34.8
+138,Justin Hunter,WR,,13,Pro,25,0,$0 ,34.2
+139,Dontrelle Inman,WR,,11,,27,0,$0 ,33.9
+140,Keyarris Garrett,WR,,7,,23,0,$0 ,33.8
+141,Chris Givens,WR,,4,,26,0,$0 ,33
+142,Ricardo Louis,WR,,13,,22,0,$0 ,31
+143,Paul Richardson,WR,,5,Pro,24,0,$0 ,31
+144,Kenbrell Thompkins,WR,,11,,28,0,$0 ,30.1
+145,Marquise Goodwin,WR,,10,,25,0,$0 ,30
+146,Charone Peake,WR,,11,,23,0,$0 ,30
+147,Kenny Lawler,WR,,5,Pro,22,0,$0 ,28.3
+148,Louis Murphy,WR,,6,Out,29,0,$0 ,27.5
+149,Keshawn Martin,WR,,9,,26,0,$0 ,20.1
+150,Duke Williams,WR,,8,,23,0,$0 ,20
+151,Cordarrelle Patterson,WR,,6,Pro,25,0,$0 ,19.5
+152,Demarcus Ayers,WR,,8,,22,0,$0 ,15
+153,Michael Campanaro,WR,,8,,25,0,$1 ,6.8

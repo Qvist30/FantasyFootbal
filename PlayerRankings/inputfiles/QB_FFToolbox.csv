@@ -1,131 +1,65 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS
-1,"Andrew Luck
-",QB,,10,,25,9.98,$41,430.3
-2,"Aaron Rodgers
-",QB,,7,,31,15.75,$37,402.1
-3,"Ben Roethlisberger
-",QB,,11,,33,50.12,$16,383.5
-4,"Russell Wilson
-",QB,,9,,26,43.21,$22,365.0
-5,"Drew Brees
-",QB,,11,,36,46.1,$20,357.9
-6,"Peyton Manning
-",QB,,7,,39,38.89,$20,347.5
-7,"Matthew Stafford
-",QB,,9,,27,75.47,$11,340.0
-8,"Ryan Tannehill
-",QB,,5,,27,85.23,$11,334.5
-9,"Tony Romo
-",QB,,6,,35,67.95,$12,331.1
-10,"Sam Bradford
-",QB,,8,,27,95.15,$7,321.0
-11,"Cam Newton
-",QB,,5,,26,94.04,$12,319.0
-12,"Matt Ryan
-",QB,,10,,30,63.84,$15,318.8
-13,"Tom Brady
-",QB,,4,,38,76.52,$12,317.7
-14,"Eli Manning
-",QB,,11,,34,98.97,$8,317.2
-15,"Colin Kaepernick
-",QB,,10,,27,141.75,$4,311.8
-16,"Philip Rivers
-",QB,,10,Pro,33,103.88,$7,304.5
-17,"Andy Dalton
-",QB,,7,Pro,27,156.88,$3,297.3
-18,"Teddy Bridgewater
-",QB,,5,,22,120.74,$8,296.6
-19,"Alex Smith
-",QB,,9,,31,166.54,$2,283.4
-20,"Joe Flacco
-",QB,,9,,30,138.2,$4,279.7
-21,"Carson Palmer
-",QB,,9,,35,141.08,$3,275.7
-22,"Jameis Winston
-",QB,,6,Pro,25,153.75,$6,274.7
-23,"Marcus Mariota
-",QB,,4,,24,154.83,$5,272.8
-24,"Nick Foles
-",QB,,6,,26,161.97,$3,272.0
-25,"Derek Carr
-",QB,,6,,24,157.96,$4,253.4
-26,"Jay Cutler
-",QB,,7,,32,154.7,$3,250.5
-27,"Blake Bortles
-",QB,,8,,23,163.18,$3,245.1
-28,"Kirk Cousins
-",QB,,8,,27,182.66,$1,220.1
-29,"Tyrod Taylor
-",QB,,9,,26,177.34,$1,187.1
-30,"Brian Hoyer
-",QB,,9,,29,185.9,$1,163.3
-31,"Josh McCown
-",QB,,11,,36,188.45,$1,158.6
-32,"Ryan Fitzpatrick
-",QB,,5,,32,189.05,$1,154.7
-33,"Geno Smith
-",QB,,5,Out,24,234.5,$1,126.4
-34,"E.J. Manuel
-",QB,,8,,25,205,$0,83.5
-35,"Johnny Manziel
-",QB,,11,Que,22,204.12,$2,81.9
-36,"Matt Cassel
-",QB,,8,,33,220.86,$1,78.8
-37,"Ryan Mallett
-",QB,,9,,27,249,$1,64.8
-38,"Robert Griffin III
-",QB,,8,Que,25,192.47,$2,41.3
-39,"Zach Mettenberger
-",QB,,4,,24,269,$0,20.8
-40,"Jimmy Clausen
-",QB,,7,Que,26,258,$0,20.7
-41,"Jimmy Garoppolo
-",QB,,4,,23,203.05,$1,18.9
-42,"Mark Sanchez
-",QB,,8,,28,203.98,$1,18.5
-43,"Brandon Weeden
-",QB,,6,Pro,31,295.5,$0,18.0
-44,"Michael Vick
-",QB,,11,,35,221,$0,14.6
-45,"Chad Henne
-",QB,,8,,30,0,$0,12.0
-46,"Shaun Hill
-",QB,,5,,35,303,$0,12.0
-47,"Mike Glennon
-",QB,,6,,25,199,$0,11.3
-48,"Chase Daniel
-",QB,,9,,28,243.25,$0,11.0
-49,"Austin Davis
-",QB,,6,,26,271.5,$0,10.9
-50,"Luke McCown
-",QB,,11,,34,281,$0,9.9
-51,"Matt Moore
-",QB,,5,,31,331,$0,9.5
-52,"Kellen Moore
-",QB,,9,,26,0,$0,9.5
-53,"T.J. Yates
-",QB,Free Agent,10,,28,223.5,$3,9.4
-54,"Scott Tolzien
-",QB,,7,,28,212.8,$0,9.3
-55,"Brock Osweiler
-",QB,,7,,24,217.19,$1,9.0
-56,"Kellen Clemens
-",QB,,10,,32,283,$0,9.0
-57,"Matt Hasselbeck
-",QB,,10,,39,243,$0,9.0
-58,"Ryan Nassib
-",QB,,11,,25,204,$0,8.9
-59,"A.J. McCarron
-",QB,,7,,24,214,$0,8.7
-60,"Tarvaris Jackson
-",QB,,9,Que,32,328.5,$0,8.5
-61,"Matt Schaub
-",QB,,9,,34,0,$0,3.3
-62,"Drew Stanton
-",QB,,9,,31,285.33,$0,3.2
-63,"Christian Ponder
-",QB,,6,,27,262,$0,3.1
-64,"Derek Anderson
-",QB,,5,,32,253.8,$1,2.9
-65,"Blaine Gabbert
-",QB,,10,,25,325.5,$0,2.8
+1,Cam Newton,QB,,7,,27,38.51,$27 ,399.2
+2,Aaron Rodgers,QB,,4,,32,48.47,$25 ,393.3
+3,Russell Wilson,QB,,5,,27,60.8,$23 ,383.7
+4,Andrew Luck,QB,,10,,26,60.12,$26 ,372.6
+5,Drew Brees,QB,,5,,37,73.45,$14 ,362
+6,Carson Palmer,QB,,9,,36,98.45,$8 ,354.7
+7,Ben Roethlisberger,QB,,8,,34,87.77,$13 ,348.7
+8,Philip Rivers,QB,,11,,34,114.79,$9 ,338.2
+9,Blake Bortles,QB,,5,,24,102.76,$16 ,333.2
+10,Tom Brady,QB,,9,Sus,39,92.78,$14 ,329.8
+11,Derek Carr,QB,,10,,25,121.08,$14 ,326.7
+12,Eli Manning,QB,,8,,35,108.95,$8 ,324
+13,Marcus Mariota,QB,,13,,22,135.84,$13 ,318
+14,Tony Romo,QB,,7,Pro,36,141.88,$5 ,317.4
+15,Andy Dalton,QB,,9,,28,141.98,$7 ,316.1
+16,Kirk Cousins,QB,,9,,27,126.16,$8 ,314.8
+17,Jameis Winston,QB,,6,,22,126.14,$14 ,312.9
+18,Tyrod Taylor,QB,,10,,27,132.18,$5 ,308
+19,Ryan Tannehill,QB,,8,,28,153.38,$6 ,303.6
+20,Matthew Stafford,QB,,10,,28,130.42,$7 ,299.9
+21,Ryan Fitzpatrick,QB,,11,,33,153,$2 ,298.7
+22,Matt Ryan,QB,,11,,31,143.04,$7 ,296.8
+23,Brock Osweiler,QB,,9,,25,0,$4 ,290.4
+24,Alex Smith,QB,,5,,32,0,$3 ,276.8
+25,Robert Griffin III,QB,,13,,26,0,$2 ,273.1
+26,Joe Flacco,QB,,8,Pro,31,0,$3 ,270.4
+27,Teddy Bridgewater,QB,,6,,23,0,$4 ,268.7
+28,Jay Cutler,QB,,9,,33,0,$4 ,268.6
+29,Mark Sanchez,QB,,11,,29,0,$1 ,251.3
+30,Sam Bradford,QB,,4,,28,0,$2 ,231.6
+31,Blaine Gabbert,QB,,8,,26,0,$1 ,224.8
+32,Jared Goff,QB,,8,,21,0,$5 ,192.9
+33,Colin Kaepernick,QB,,8,Pro,28,0,$1 ,94.4
+34,Carson Wentz,QB,,4,,23,0,$4 ,71
+35,Jimmy Garoppolo,QB,,9,,24,0,$1 ,70.3
+36,Paxton Lynch,QB,,11,,22,0,$3 ,39.6
+37,Case Keenum,QB,,8,,28,0,$0 ,36.7
+38,Josh McCown,QB,,13,,37,0,$0 ,25.6
+39,Geno Smith,QB,,11,,25,0,$1 ,22.2
+40,Landry Jones,QB,,8,,27,0,$0 ,18.9
+41,A.J. McCarron,QB,,9,,25,0,$0 ,18.8
+42,Nick Foles,QB,,5,,27,0,$0 ,13.1
+43,Dan Orlovsky,QB,,10,,32,0,$0 ,12.9
+44,Brandon Weeden,QB,,9,,32,0,$0 ,12.8
+45,Derek Anderson,QB,,7,,33,0,$0 ,11.4
+46,Matt Moore,QB,,8,,32,0,$0 ,11
+47,E.J. Manuel,QB,,10,,26,0,$0 ,10.5
+48,Brian Hoyer,QB,,9,,30,0,$0 ,10.5
+49,Ryan Mallett,QB,,8,,28,0,$0 ,10.4
+50,Chad Henne,QB,,5,,31,0,$0 ,10.3
+51,Dak Prescott,QB,,7,,23,0,$0 ,10
+52,Luke McCown,QB,,5,,35,0,$0 ,9.9
+53,Zach Mettenberger,QB,,11,,25,0,$0 ,9.5
+54,Brett Hundley,QB,,4,Pro,23,0,$0 ,9.4
+55,Ryan Nassib,QB,,8,,26,0,$0 ,9.4
+56,Matt Schaub,QB,,11,,35,0,$0 ,9.3
+57,Matt McGloin,QB,,10,,26,0,$0 ,9.2
+58,Scott Tolzien,QB,,10,,28,0,$0 ,9.2
+59,Drew Stanton,QB,,9,,32,0,$0 ,9.2
+60,Mike Glennon,QB,,6,,26,0,$0 ,9.1
+61,Trevone Boykin,QB,,5,,22,0,$0 ,8.8
+62,Matt Cassel,QB,,13,,34,0,$0 ,3.4
+63,Colt McCoy,QB,,9,,29,0,$1 ,3
+64,Shaun Hill,QB,,6,,36,0,$0 ,2.4

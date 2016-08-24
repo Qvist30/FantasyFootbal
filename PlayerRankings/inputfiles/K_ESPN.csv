@@ -1,38 +1,33 @@
-RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Stephen Gostkowski, NE K,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-2,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,129
-3,Adam Vinatieri, Ind K,FA,,0/0,0,0,0,0,0,0,0,0,0,128
-4,Justin Tucker, Bal K,FA,,0/0,0,0,0,0,0,0,0,0,0,127
-5,Matt Bryant, Atl K,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-6,Brandon McManus, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-7,Cody Parkey, Phi K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-8,Mason Crosby, GB K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-9,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-10,Caleb Sturgis, Mia KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-11,Matt Prater, Det K,FA,,0/0,0,0,0,0,0,0,0,0,0,123
-12,Dan Carpenter, Buf KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,123
-13,Shayne Graham, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-14,Shaun Suisham*, Pit K  IR,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-15,Blair Walsh, Min KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-16,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,120
-17,Nick Novak, SD K,FA,,0/0,0,0,0,0,0,0,0,0,0,120
-18,Garrett Hartley*, Pit K  IRRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,120
-19,Josh Brown, NYG K  QRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,118
-20,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,118
-21,Josh Scobee, Pit KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-22,Robbie Gould, Chi K,FA,,0/0,0,0,0,0,0,0,0,0,0,116
-23,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,116
-24,Dustin Hopkins, NO KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,116
-25,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,116
-26,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,115
-27,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,114
-28,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,113
-29,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,112
-30,Randy Bullock, Hou K,FA,,0/0,0,0,0,0,0,0,0,0,0,111
-31,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,110
-32,Kai Forbath, Wsh K  PRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,109
-33,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,108
-34,Connor Barth, TB KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,106
-35,Jason Myers, Jac KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,106
-36,Travis Coons, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,102
-37,Carey Spear, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,95
+RNK,PLAYER,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
+1,"Stephen Gostkowski, NE K",COLE,,0/0,0,0,0,0,0,0,0,0,0,134.5
+2,"Adam Vinatieri, Ind K",FA,,0/0,0,0,0,0,0,0,0,0,0,132.7
+3,"Steven Hauschka, Sea K",ALES,,0/0,0,0,0,0,0,0,0,0,0,128.7
+4,"Blair Walsh, Min K",Bro,,0/0,0,0,0,0,0,0,0,0,0,125.4
+5,"Josh Brown, NYG K",FA,,0/0,0,0,0,0,0,0,0,0,0,124.8
+6,"Roberto Aguayo, TB K",FA,,0/0,0,0,0,0,0,0,0,0,0,124.8
+7,"Dan Bailey, Dal K",FA,,0/0,0,0,0,0,0,0,0,0,0,124.4
+8,"Mason Crosby, GB K",NIEV,,0/0,0,0,0,0,0,0,0,0,0,123.4
+9,"Chris Boswell, Pit K",BOB,,0/0,0,0,0,0,0,0,0,0,0,122.3
+10,"Justin Tucker, Bal K",SENK,,0/0,0,0,0,0,0,0,0,0,0,122.2
+11,"Graham Gano, Car K",HAM,,0/0,0,0,0,0,0,0,0,0,0,119.5
+12,"Robbie Gould, Chi K",FA,,0/0,0,0,0,0,0,0,0,0,0,116.7
+13,"Chandler Catanzaro, Ari K",BOO,,0/0,0,0,0,0,0,0,0,0,0,115.1
+14,"Matt Prater, Det K",FA,,0/0,0,0,0,0,0,0,0,0,0,114.4
+15,"Nick Novak, Hou K",FA,,0/0,0,0,0,0,0,0,0,0,0,113.1
+16,"Dustin Hopkins, Wsh K",FA,,0/0,0,0,0,0,0,0,0,0,0,113.1
+17,"Cairo Santos, KC K",JTR,,0/0,0,0,0,0,0,0,0,0,0,113
+18,"Jason Myers, Jax K",RMO,,0/0,0,0,0,0,0,0,0,0,0,112.7
+19,"Matt Bryant, Atl K",FA,,0/0,0,0,0,0,0,0,0,0,0,112
+20,"Dan Carpenter, Buf K",FA,,0/0,0,0,0,0,0,0,0,0,0,110.7
+21,"Nick Folk, NYJ K  P",FA,,0/0,0,0,0,0,0,0,0,0,0,110.3
+22,"Josh Lambo, SD K",FA,,0/0,0,0,0,0,0,0,0,0,0,109.7
+23,"Sebastian Janikowski, Oak K",FA,,0/0,0,0,0,0,0,0,0,0,0,109.4
+24,"Brandon McManus, Den K",SEXY,,0/0,0,0,0,0,0,0,0,0,0,108.9
+25,"Mike Nugent, Cin K",JAJ,,0/0,0,0,0,0,0,0,0,0,0,108.7
+26,"Cody Parkey, Phi K  P",FA,,0/0,0,0,0,0,0,0,0,0,0,108.3
+27,"Connor Barth, NO K",FA,,0/0,0,0,0,0,0,0,0,0,0,107.6
+28,"Travis Coons, Cle K",FA,,0/0,0,0,0,0,0,0,0,0,0,103.6
+29,"Andrew Franks, Mia K",FA,,0/0,0,0,0,0,0,0,0,0,0,103
+30,"Phil Dawson, SF K",FA,,0/0,0,0,0,0,0,0,0,0,0,102.1
+31,"Ryan Succop, Ten K",FA,,0/0,0,0,0,0,0,0,0,0,0,100.5
+32,"Greg Zuerlein, LA K",FA,,0/0,0,0,0,0,0,0,0,0,0,92.6
