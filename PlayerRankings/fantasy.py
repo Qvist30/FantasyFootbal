@@ -50,8 +50,8 @@ def createPostionalRanking(position, starters):
                         espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','')
                         espnPlayer = re.sub('\W+',' ', espnPlayer)
                         if(espnPlayer.replace(' ', '').lower().strip().startswith(player.replace(' ', '').lower().strip()) | player.replace(' ', '').lower().strip().startswith(espnPlayer.replace(' ', '').lower().strip())):
-                            rows_list.append([espnPlayer, row["NFL"], position, ptsPerGame*16, espnPtsPerGame *16,np.mean([espnPtsPerGame, ptsPerGame]), np.mean([espnPtsPerGame, ptsPerGame]) * 16, row["BYE"]])
-                            found = True
+                            rows_list.append([espnPlayer, row["NFL"], position, ptsPerGame*16, espnPtsPerGame *16,np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]), np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]) * 16, row["BYE"]])
+			    found = True
                             break
                         
                 if found == False:
