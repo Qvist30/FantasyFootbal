@@ -1,38 +1,34 @@
 RNK,PLAYER, TEAM POS,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,147
-2,Stephen Gostkowski, NE K,FA,,0/0,0,0,0,0,0,0,0,0,0,142
-3,Justin Tucker, Bal K,FA,,0/0,0,0,0,0,0,0,0,0,0,141
-4,Adam Vinatieri, Ind K,FA,,0/0,0,0,0,0,0,0,0,0,0,140
-5,Matt Bryant, Atl K,FA,,0/0,0,0,0,0,0,0,0,0,0,138
-6,Matt Prater, Det K,FA,,0/0,0,0,0,0,0,0,0,0,0,138
-7,Caleb Sturgis, Mia KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,138
-8,Mason Crosby, GB K,FA,,0/0,0,0,0,0,0,0,0,0,0,137
-9,Dan Carpenter, Buf KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,137
-10,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,137
-11,Blair Walsh, Min KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,135
-12,Cody Parkey, Phi K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,134
-13,Shaun Suisham*, Pit K  IR,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-14,Greg Zuerlein, StL K,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-15,Brandon McManus, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,132
-16,Shayne Graham, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,131
-17,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,130
-18,Nick Novak, SD K,FA,,0/0,0,0,0,0,0,0,0,0,0,129
-19,Nick Folk, NYJ K,FA,,0/0,0,0,0,0,0,0,0,0,0,128
-20,Garrett Hartley*, Pit K  IRRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,128
-21,Josh Brown, NYG K  QRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-22,Josh Scobee, Pit KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-23,Chandler Catanzaro, Ari K,FA,,0/0,0,0,0,0,0,0,0,0,0,126
-24,Sebastian Janikowski, Oak K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-25,Jay Feely, FA K,FA,,0/0,0,0,0,0,0,0,0,0,0,125
-26,Robbie Gould, Chi K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
-27,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
-28,Randy Bullock, Hou K,FA,,0/0,0,0,0,0,0,0,0,0,0,124
-29,Dustin Hopkins, NO KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,124
-30,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,123
-31,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,122
-32,Connor Barth, TB KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,121
-33,Jason Myers, Jac KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,120
-34,Kai Forbath, Wsh K  PRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,118
-35,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,117
-36,Travis Coons, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,113
-37,Carey Spear, Cle KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,105
+1,Stephen Gostkowski, NE K,FA,,0/0,0,0,0,0,0,0,0,0,0,149.3
+2,Adam Vinatieri, Ind K,FA,,0/0,0,0,0,0,0,0,0,0,0,147.9
+3,Steven Hauschka, Sea K,FA,,0/0,0,0,0,0,0,0,0,0,0,145.7
+4,Blair Walsh, Min K,FA,,0/0,0,0,0,0,0,0,0,0,0,138.2
+5,Roberto Aguayo, TB KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,138.2
+6,Dan Bailey, Dal K,FA,,0/0,0,0,0,0,0,0,0,0,0,138.1
+7,Justin Tucker, Bal K,FA,,0/0,0,0,0,0,0,0,0,0,0,134.6
+8,Chris Boswell, Pit K,FA,,0/0,0,0,0,0,0,0,0,0,0,134.3
+9,Mason Crosby, GB K,FA,,0/0,0,0,0,0,0,0,0,0,0,133.7
+10,Josh Brown, NYG K  SSPD,FA,,0/0,0,0,0,0,0,0,0,0,0,131
+11,Graham Gano, Car K,FA,,0/0,0,0,0,0,0,0,0,0,0,127.5
+12,Robbie Gould, Chi K,FA,,0/0,0,0,0,0,0,0,0,0,0,127.3
+13,Matt Prater, Det K,FA,,0/0,0,0,0,0,0,0,0,0,0,127.3
+14,Chandler Catanzaro, Ari KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,126.3
+15,Matt Bryant, Atl K,FA,,0/0,0,0,0,0,0,0,0,0,0,124.3
+16,Nick Novak, Hou KBreaking News,FA,,0/0,0,0,0,0,0,0,0,0,0,123.6
+17,Cairo Santos, KC K,FA,,0/0,0,0,0,0,0,0,0,0,0,121.9
+18,Jason Myers, Jax K,FA,,0/0,0,0,0,0,0,0,0,0,0,121.7
+19,Dustin Hopkins, Wsh K,FA,,0/0,0,0,0,0,0,0,0,0,0,121.3
+20,Dan Carpenter, Buf K,FA,,0/0,0,0,0,0,0,0,0,0,0,120
+21,Josh Lambo, SD K,FA,,0/0,0,0,0,0,0,0,0,0,0,119.1
+22,Brandon McManus, Den K,FA,,0/0,0,0,0,0,0,0,0,0,0,118.5
+23,Nick Folk, NYJ K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,117.8
+24,Sebastian Janikowski, Oak KBreaking Video,FA,,0/0,0,0,0,0,0,0,0,0,0,117.8
+25,Cody Parkey, Phi K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,116.8
+26,Mike Nugent, Cin K,FA,,0/0,0,0,0,0,0,0,0,0,0,115.7
+27,Connor Barth, NO K,FA,,0/0,0,0,0,0,0,0,0,0,0,113.9
+28,Patrick Murray, Cle K  P,FA,,0/0,0,0,0,0,0,0,0,0,0,112.4
+29,Phil Dawson, SF K,FA,,0/0,0,0,0,0,0,0,0,0,0,112.2
+30,Andrew Franks, Mia K,FA,,0/0,0,0,0,0,0,0,0,0,0,110.9
+31,Ryan Succop, Ten K,FA,,0/0,0,0,0,0,0,0,0,0,0,107.5
+32,Greg Zuerlein, LA K,FA,,0/0,0,0,0,0,0,0,0,0,0,97.4
+33,Randy Bullock, NYG KRecent News,FA,,0/0,0,0,0,0,0,0,0,0,0,7.3
