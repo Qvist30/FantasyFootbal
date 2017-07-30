@@ -1,161 +1,182 @@
-RNK,PLAYER,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS
-1,"Antonio Brown, PitÊWR",RMO,,0/0,0,0,0,3.9,25.1,0.1,131.5,1740.8,9.9,241.5
-2,"Julio Jones, AtlÊWR",HAM,,0/0,0,0,0,0,0,0,125.9,1752.3,7.3,217.3
-3,"Odell Beckham Jr., NYGÊWRÊÊP",BOB,,0/0,0,0,0,0,0,0,100.2,1497.4,9.4,205.4
-4,"DeAndre Hopkins, HouÊWR",BOO,,0/0,0,0,0,0,0,0,102.9,1458.2,8.8,198.2
-5,"A.J. Green, CinÊWR",SENK,,0/0,0,0,0,0,0,0,90.7,1333.1,8.8,185.7
-6,"Alshon Jeffery, ChiÊWRÊÊP",JTR,,0/0,0,0,0,0,0,0,91.8,1322.3,8.2,180.7
-7,"Dez Bryant, DalÊWRÊÊP",BOO,,0/0,0,0,0,0,0,0,84.1,1207.2,9.8,179
-8,"Brandon Marshall, NYJÊWR",Bro,,0/0,0,0,0,0,0,0,95.6,1255.6,8.6,175.8
-9,"Jordy Nelson*, GBÊWRÊÊO",Bro,,0/0,0,0,0,0,0,0,80.6,1216,8.4,171.4
-10,"Allen Robinson, JaxÊWR",HAM,,0/0,0,0,0,0,0,0,75.7,1209.7,8,168.6
-11,"Mike Evans, TBÊWR",COLE,,0/0,0,0,0,0,0,0,79.8,1196.1,8.1,168.3
-12,"Sammy Watkins, BufÊWR",BOO,,0/0,0,0,0,2.3,14.3,0.1,72.5,1158.7,7.5,163.1
-13,"Eric Decker, NYJÊWRÊÊQ",NIEV,,0/0,0,0,0,0,0,0,85.3,1123.3,8.3,162.4
-14,"T.Y. Hilton, IndÊWR",JAJ,,0/0,0,0,0,1.9,11.8,0,73.3,1164.4,6.9,158.8
-15,"Keenan Allen, SDÊWR",BOO,,0/0,0,0,0,0,0,0,105.6,1196,6.3,157.6
-16,"Brandin Cooks, NOÊWR",ALES,,0/0,0,0,0,7.9,48.9,0.3,87.8,1059.3,6.6,152
-17,"Amari Cooper, OakÊWR",BOB,,0/0,0,0,0,0,0,0,82.2,1080.7,7.1,150.6
-18,"Julian Edelman, NEÊWRÊÊP",JAJ,,0/0,0,0,0,8.1,50,0.2,93.6,1007,7.2,149.7
-19,"Demaryius Thomas, DenÊWR",ALES,,0/0,0,0,0,0,0,0,85.6,1109.5,6.3,148.1
-20,"Randall Cobb, GBÊWRÊÊP",Bro,,0/0,0,0,0,16,73.5,0.4,79.3,942,6.9,145.9
-21,"Jarvis Landry, MiaÊWR",BOB,,0/0,0,0,0,14.8,62,0.4,103.5,1025.5,5.4,144.7
-22,"Jeremy Maclin, KCÊWR",NIEV,,0/0,0,0,0,4,24.8,0.2,81.5,1092.7,5,142
-23,"Doug Baldwin, SeaÊWR",Bro,,0/0,0,0,0,0,0,0,74.7,989.6,7,140.7
-24,"Kelvin Benjamin, CarÊWR",FA,,0/0,0,0,0,0,0,0,66.4,892.6,8.4,139.6
-25,"Golden Tate, DetÊWR",JAJ,,0/0,0,0,0,7.2,45.9,0.2,84.9,1002.3,5.1,137.3
-26,"Emmanuel Sanders, DenÊWR",SENK,,0/0,0,0,0,4.3,27.2,0.1,76.3,1060.3,4.3,136
-27,"Larry Fitzgerald, AriÊWR",HAM,,0/0,0,0,0,0,0,0,82.5,945.4,6.8,134.7
-28,"Donte Moncrief, IndÊWR",JTR,,0/0,0,0,0,0,0,0,72.5,903.4,7.4,134.5
-29,"John Brown, AriÊWRÊÊP",SEXY,,0/0,0,0,0,4.3,26.8,0.1,63.4,955.7,5.9,134.1
-30,"Michael Crabtree, OakÊWR",SEXY,,0/0,0,0,0,3.7,23.2,0.1,76.7,870.1,7.4,133.9
-31,"Michael Floyd, AriÊWR",Bro,,0/0,0,0,0,0,0,0,59.6,937.7,6.6,133.4
-32,"Jordan Matthews, PhiÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,80.3,978.8,5.9,132.5
-33,"Marvin Jones, DetÊWR",JTR,,0/0,0,0,0,0,0,0,71.6,975.7,5.6,130.5
-34,"DeVante Parker, MiaÊWRÊÊP",JTR,,0/0,0,0,0,0,0,0,65.8,958.9,5.7,129.7
-35,"Kevin White, ChiÊWR",FA,,0/0,0,0,0,0,0,0,64.4,933,5.5,125.9
-36,"DeSean Jackson, WshÊWR",JAJ,,0/0,0,0,0,0,0,0,55.3,980.7,4.5,125.2
-37,"Tyler Lockett, SeaÊWR",JAJ,,0/0,0,0,0,4.6,28.5,0.1,53.4,802.9,5.7,123.3
-38,"Sterling Shepard, NYGÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,71.5,892.8,5.2,121
-39,"Torrey Smith, SFÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,53.4,918.5,4.4,118.1
-40,"Michael Thomas, NOÊWR",FA,,0/0,0,0,0,0,0,0,58.5,773.9,6,113.2
-41,"Allen Hurns, JaxÊWR",SEXY,,0/0,0,0,0,0,0,0,57.8,798,5.5,112.1
-42,"Willie Snead Jr, NOÊWR",NIEV,,0/0,0,0,0,0,0,0,67.8,863.1,4.4,112
-43,"Corey Coleman, CleÊWRÊÊP",FA,,0/0,0,0,0,4,25,0.1,66.5,813.9,4.1,109.6
-44,"Vincent Jackson, TBÊWR",ALES,,0/0,0,0,0,0,0,0,51.1,776.3,5.2,108.6
-45,"Sammie Coates, PitÊWR",FA,,0/0,0,0,0,0,0,0,58.2,749.7,5.2,106.7
-46,"Josh Gordon*, CleÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,51.9,808.3,4.1,105.4
-47,"Travis Benjamin, SDÊWRÊÊP",RMO,,0/0,0,0,0,0,0,0,52.3,774.4,4.1,104.8
-48,"Tavon Austin, LAÊWRÊÊP",JTR,,0/0,0,0,0,30,152.2,1,65.8,649.2,2.5,103.6
-49,"Steve Smith Sr.*, BalÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,57,801.1,4,103.4
-50,"Terrance Williams, DalÊWR",FA,,0/0,0,0,0,0,0,0,42.5,704.3,4.9,100.1
-51,"Devin Funchess, CarÊWR",FA,,0/0,0,0,0,4.8,30,0.1,46,631.1,5.3,98.8
-52,"Phillip Dorsett, IndÊWR",FA,,0/0,0,0,0,7.5,47.3,0.2,48.1,629,4.9,98
-53,"Will Fuller, HouÊWR",FA,,0/0,0,0,0,4.4,28.1,0.1,46,697.8,4.1,97.3
-54,"Markus Wheaton, PitÊWR",BOB,,0/0,0,0,0,3.9,25.1,0.1,50.8,688.1,4,97.1
-55,"Stefon Diggs, MinÊWR",SEXY,,0/0,0,0,0,4.4,27.9,0.1,57,704.4,3.8,96.5
-56,"Mohamed Sanu, AtlÊWR",FA,,0/0,0,0,0,5.9,36.8,0.2,57.1,676.4,3.9,95.7
-57,"Kenny Britt, LAÊWR",FA,,0/0,0,0,0,0,0,0,45.6,751.7,3.4,95.6
-58,"Pierre Garcon, WshÊWR",NIEV,,0/0,0,0,0,0,0,0,56.8,674.1,4.4,94.3
-59,"Laquon Treadwell, MinÊWR",FA,,0/0,0,0,0,0,0,0,50.6,686.2,3.6,89.9
-60,"Kamar Aiken, BalÊWR",COLE,,0/0,0,0,0,0,0,0,52.2,647.7,3.9,87.9
-61,"Bruce Ellington, SFÊWR",FA,,0/0,0,0,0,0,0,0,59.9,631.7,3.4,85.2
-62,"Nelson Agholor, PhiÊWR",FA,,0/0,0,0,0,0,0,0,49.5,618.1,3.6,83.5
-63,"Dorial Green-Beckham, TenÊWR",FA,,0/0,0,0,0,4.3,27.3,0.1,39,570.9,3.8,83.4
-64,"Rishard Matthews, TenÊWR",FA,,0/0,0,0,0,0,0,0,51,640.5,3.1,82.6
-65,"Jaelen Strong, HouÊWR",FA,,0/0,0,0,0,0,0,0,47,555.9,4.2,80.7
-66,"Jermaine Kearse, SeaÊWR",FA,,0/0,0,0,0,0,0,0,35.9,528.4,4.5,79.8
-67,"Robert Woods, BufÊWR",Bro,,0/0,0,0,0,2.3,14.3,0.1,46.7,551.2,3.7,78.9
-68,"Breshad Perriman*, BalÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,39.3,569.6,3.7,78.7
-69,"Josh Doctson*, WshÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,39.7,540.7,4.1,78.4
-70,"Tyler Boyd, CinÊWR",FA,,0/0,0,0,0,8.3,52.6,0.2,41.7,510.4,3.2,77.9
-71,"Victor Cruz, NYGÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,39.9,556.9,3.3,75.2
-72,"Anquan Boldin, DetÊWR",Bro,,0/0,0,0,0,0,0,0,43.8,579.1,2.9,75.1
-73,"Chris Hogan, NEÊWRÊÊP",FA,,0/0,0,0,0,2,12.5,0.1,40.6,465.5,3.9,71
-74,"Kendall Wright, TenÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,46.8,571.2,2.3,70.3
-75,"Mike Wallace, BalÊWR",FA,,0/0,0,0,0,2,12.9,0.1,36.7,481.4,3.3,69.4
-76,"Jamison Crowder, WshÊWRÊÊP",FA,,0/0,0,0,0,1.9,12.1,0,49.7,467.7,3,67
-77,"Cole Beasley, DalÊWR",FA,,0/0,0,0,0,0,0,0,49.2,496.2,3,66.8
-78,"Albert Wilson, KCÊWR",FA,,0/0,0,0,0,4,24.8,0.2,37.6,465.6,2.3,63.9
-79,"Ted Ginn Jr., CarÊWR",SENK,,0/0,0,0,0,4.8,30,0.1,28.4,422.8,2.6,63.9
-80,"Davante Adams, GBÊWR",COLE,,0/0,0,0,0,0,0,0,36.3,413.2,3.7,63.2
-81,"Seth Roberts, OakÊWR",FA,,0/0,0,0,0,0,0,0,34.3,399.9,3.3,59.6
-82,"Chris Conley, KCÊWR",FA,,0/0,0,0,0,0,0,0,37.2,413.5,2.7,57.2
-83,"Brandon LaFell, CinÊWR",FA,,0/0,0,0,0,0,0,0,31.9,419,2.4,56.1
-84,"Leonte Carroo, MiaÊWR",FA,,0/0,0,0,0,0,0,0,29.5,417.7,2.2,55
-85,"Justin Hardy, AtlÊWR",FA,,0/0,0,0,0,0,0,0,42.6,404.5,2.4,54.7
-86,"Pharoh Cooper, LAÊWR",FA,,0/0,0,0,0,4.3,26.5,0.1,34,405.1,1.3,51.8
-87,"Eddie Royal, ChiÊWRÊÊP",FA,,0/0,0,0,0,2.2,13.9,0.1,34.2,364,2.1,51.1
-88,"Rashad Greene, JaxÊWR",FA,,0/0,0,0,0,0,0,0,34.8,298.7,2.7,50.3
-89,"Kenny Stills, MiaÊWR",FA,,0/0,0,0,0,0,0,0,25,371.2,1.7,47.3
-90,"Quinton Patton, SFÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,31.3,354.1,1.9,46.6
-91,"J.J. Nelson, AriÊWRÊÊP",FA,,0/0,0,0,0,2.2,13.4,0.1,16.7,316.1,1.8,45
-92,"Jarius Wright, MinÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,27,353.7,1.5,44.6
-93,"Brian Hartline, CleÊWRÊÊP",RMO,,0/0,0,0,0,0,0,0,27.8,356,1.5,44.5
-94,"Andrew Hawkins, CleÊWRÊÊP",FA,,0/0,0,0,0,2,12.5,0,30.3,341,1.4,43.9
-95,"James Jones, SDÊWR",FA,,0/0,0,0,0,0,0,0,22.3,298.3,1.9,41.1
-96,"Ty Montgomery, GBÊWRÊÊP",FA,,0/0,0,0,0,8,50.9,0.2,25.3,230.1,1.8,40.2
-97,"Josh Huff, PhiÊWR",FA,,0/0,0,0,0,1.8,11.6,0.1,25.8,262.9,1.6,39.7
-98,"Corey Brown, CarÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,19.6,284.9,1.7,38.9
-99,"Jeff Janis, GBÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,12.3,232.1,2,35.5
-100,"Tyrell Williams, SDÊWR",FA,,0/0,0,0,0,0,0,0,18.4,238.6,1.7,33.8
-101,"DeAndre Smelter, SFÊWR",FA,,0/0,0,0,0,0,0,0,19.6,261.4,1.3,33.5
-102,"Terrelle Pryor, CleÊWRÊÊP",FA,,0/0,0,0,0,4,25,0.1,15.5,214.8,1.4,32.5
-103,"Devin Smith*, NYJÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,13.5,225.7,1.6,31.9
-104,"Marqise Lee, JaxÊWR",FA,,0/0,0,0,0,7.5,47.3,0.2,16,178.3,1.3,31.7
-105,"Quincy Enunwa, NYJÊWR",FA,,0/0,0,0,0,0,0,0,17.2,207.2,1.6,30.4
-106,"Dezmin Lewis, BufÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,14.6,207.5,1.6,30.3
-107,"Charles Johnson, MinÊWR",FA,,0/0,0,0,0,0,0,0,15.4,222.1,1.3,30.1
-108,"Brian Quick, LAÊWR",FA,,0/0,0,0,0,0,0,0,14.2,210.1,1.2,27.9
-109,"Quan Bray, IndÊWR",FA,,0/0,0,0,0,0,0,0,12.8,166,1.4,27.4
-110,"Adam Humphries, TBÊWR",FA,,0/0,0,0,0,0,0,0,19.3,176.8,1.4,27.1
-111,"Braxton Miller, HouÊWR",FA,,0/0,0,0,0,8.9,56.1,0.2,14.2,153.8,0.8,26.6
-112,"Jerome Simpson, SFÊWR",FA,,0/0,0,0,0,0,0,0,14.9,204.1,0.9,25.8
-113,"Danny Amendola*, NEÊWRÊÊO",FA,,0/0,0,0,0,2,12.5,0.1,16.3,163.2,1.1,25.1
-114,"Cody Latimer, DenÊWR",FA,,0/0,0,0,0,2.1,13.6,0.1,15.8,179.9,0.9,25
-115,"Tajae Sharpe, TenÊWR",FA,,0/0,0,0,0,0,0,0,15.6,193.4,0.9,24.5
-116,"Lucky Whitehead, DalÊWR",FA,,0/0,0,0,0,18,76,0.5,6.4,82.6,0.6,24.1
-117,"Dwayne Harris, NYGÊWR",FA,,0/0,0,0,0,2,13.1,0.1,10.2,134.1,1,23.9
-118,"Bennie Fowler, DenÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,14.6,165.9,1.1,22.9
-119,"Darrius Heyward-Bey, PitÊWR",FA,,0/0,0,0,0,0,0,0,10.7,152.1,1.1,22.2
-120,"Cecil Shorts III, HouÊWR",FA,,0/0,0,0,0,0,0,0,13.1,154.1,1,21.6
-121,"TJ Jones, DetÊWR",FA,,0/0,0,0,0,0,0,0,10.5,139.5,0.9,19.6
-122,"Malcolm Mitchell, NEÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,10.3,133.3,1,19.1
-123,"Brice Butler, DalÊWR",FA,,0/0,0,0,0,0,0,0,9.6,123.9,0.9,17.7
-124,"Rueben Randle, PhiÊWR",RMO,,0/0,0,0,0,0,0,0,9.7,126.2,0.7,17
-125,"Jordan Norwood, DenÊWR",FA,,0/0,0,0,0,0,0,0,8.7,110.9,0.6,16.8
-126,"Rashard Higgins, CleÊWR",FA,,0/0,0,0,0,0,0,0,8.7,111.2,0.6,14.9
-127,"Chris Moore, BalÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,8.2,104.8,0.6,14.6
-128,"Brandon Coleman, NOÊWR",FA,,0/0,0,0,0,0,0,0,7.9,100.2,0.7,14.1
-129,"Kenbrell Thompkins, NYJÊWR",FA,,0/0,0,0,0,0,0,0,8,100.4,0.6,13.9
-130,"Dontrelle Inman, SDÊWR",FA,,0/0,0,0,0,0,0,0,7.2,91.1,0.6,12.5
-131,"Aldrick Robinson, AtlÊWR",FA,,0/0,0,0,0,0,0,0,7.4,92.8,0.5,12.2
-132,"Andre Holmes, OakÊWR",FA,,0/0,0,0,0,0,0,0,6.4,81.2,0.6,12
-133,"Cordarrelle Patterson, MinÊWRÊÊP",FA,,0/0,0,0,0,4.4,27.9,0.1,2.8,36.3,0.2,11.3
-134,"Paul Richardson, SeaÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,5.5,71.4,0.6,10.9
-135,"Kolby Listenbee*, BufÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,5.2,64.9,0.5,10.7
-136,"Stephen Hill, CarÊWRÊÊQ",FA,,0/0,0,0,0,0,0,0,5.7,73.6,0.5,10.5
-137,"Kenny Bell, TBÊWR",FA,,0/0,0,0,0,0,0,0,6.1,74.3,0.5,10.4
-138,"Andre Johnson, TenÊWR",COLE,,0/0,0,0,0,0,0,0,5.6,73.1,0.4,9.8
-139,"Rod Streater, KCÊWR",FA,,0/0,0,0,0,0,0,0,5.8,73.4,0.4,9.7
-140,"Leonard Hankerson, BufÊWR",FA,,0/0,0,0,0,0,0,0,5.2,64.9,0.5,9.2
-141,"Jakeem Grant, MiaÊWR",FA,,0/0,0,0,0,0,0,0,3.4,42.4,0.2,8.4
-142,"Ricardo Louis, CleÊWR",FA,,0/0,0,0,0,0,0,0,4.4,55.6,0.3,7.4
-143,"Jeremy Kerley, DetÊWR",FA,,0/0,0,0,0,0,0,0,3.5,46.5,0.3,7
-144,"Keshawn Martin, NEÊWR",FA,,0/0,0,0,0,0,0,0,3.4,44.4,0.3,6.7
-145,"Brandon Tate, CinÊWR",FA,,0/0,0,0,0,0,0,0,3,39.1,0.2,6.6
-146,"Moritz Bohringer, MinÊWR",FA,,0/0,0,0,0,2.2,13.9,0.1,2.8,36.3,0.2,6.6
-147,"Eli Rogers, PitÊWR",FA,,0/0,0,0,0,0,0,0,3.6,46.1,0.3,6.6
-148,"Trevor Davis, GBÊWR",FA,,0/0,0,0,0,0,0,0,3.2,42.1,0.3,6.5
-149,"Josh Boyce, IndÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,3.3,41.9,0.4,6.3
-150,"Ryan Grant, WshÊWR",FA,,0/0,0,0,0,0,0,0,3.4,44.2,0.3,6.2
-151,"Jordan Payton, CleÊWR",FA,,0/0,0,0,0,0,0,0,3.6,46.1,0.3,6.2
-152,"Jaron Brown, AriÊWR",FA,,0/0,0,0,0,0,0,0,3.3,40.6,0.3,6
-153,"Devin Street, DalÊWRÊÊP",FA,,0/0,0,0,0,0,0,0,3.2,41.3,0.3,5.9
-154,"Chris Givens, PhiÊWR",FA,,0/0,0,0,0,0,0,0,3.2,42.1,0.2,5.7
-155,"Keenan Reynolds, BalÊWR",FA,,0/0,0,0,0,2,12.9,0.1,1.5,18.8,0.1,5.6
-156,"Aaron Burbridge, SFÊWR",FA,,0/0,0,0,0,0,0,0,3.2,41.5,0.2,5.4
-157,"Deonte Thompson, ChiÊWR",FA,,0/0,0,0,0,0,0,0,3.1,39.7,0.2,5.4
-158,"Kasen Williams, SeaÊWR",FA,,0/0,0,0,0,0,0,0,2.8,35.7,0.3,5.3
-159,"Louis Murphy*, TBÊWRÊÊO",FA,,0/0,0,0,0,0,0,0,3,37.2,0.3,5.2
-160,"Marquise Goodwin, BufÊWR",FA,,0/0,0,0,0,0,0,0,2.6,32.5,0.2,5
+RNK,PLAYER,TYPE,ACTION,    C/A,  YDS,   TD,  INT, RUSH,  YDS,   TD,  REC,  YDS,   TD,PTS,
+1,"Antonio Brown, Pit WR",RMO,,0/0,0,0,0,4,22.3,0.1,107.7,1420.5,7.7,195.1,253.3
+2,"Julio Jones, Atl WR  QRecent News",HAM,,0/0,0,0,0,0,0,0,95.8,1434,7.3,187.8,218.2
+3,"Jordy Nelson, GB WRRecent News",JAJ,,0/0,0,0,0,0,0,0,92.4,1277.1,9.9,187.2,205.5
+4,"Odell Beckham Jr., NYG WR",BOB,,0/0,0,0,0,0,0,0,97.4,1312.6,8.1,179.1,186.4
+5,"A.J. Green, Cin WR",RIP,,0/0,0,0,0,0,0,0,96.3,1312.2,7.6,177,182.2
+6,"T.Y. Hilton, Ind WR  Q",ALES,,0/0,0,0,0,0,0,0,84.3,1308.8,7.4,175.7,181.5
+7,"Mike Evans, TB WRBreaking News",COLE,,0/0,0,0,0,0,0,0,87,1204.8,8.6,173.1,178
+8,"Michael Thomas, NO WR",HAM,,0/0,0,0,0,0,0,0,94.3,1174.5,8,164.8,172.3
+9,"Doug Baldwin, Sea WR",Bro,,0/0,0,0,0,4.1,25.7,0.1,85.7,1096,6.7,152.9,170.2
+10,"Terrelle Pryor Sr., Wsh WR",RIP,,0/0,0,0,0,3.3,20.7,0.1,76.3,1079.1,6.1,146.6,169.3
+11,"Amari Cooper, Oak WR",RMO,,0/0,0,0,0,3.2,20.2,0.1,81.8,1113.8,5.5,146.1,165.8
+12,"Brandin Cooks, NE WR",BOB,,0/0,0,0,0,4.2,26.3,0.2,77.7,1058.1,6.1,146,164.6
+13,"DeAndre Hopkins, Hou WRRecent News",BOO,,0/0,0,0,0,0,0,0,83.3,1133.2,5.4,146,164.5
+14,"Alshon Jeffery, Phi WR",RMO,,0/0,0,0,0,0,0,0,78,1097.3,5.9,145.2,161.2
+15,"Dez Bryant, Dal WRBreaking Video",BOO,,0/0,0,0,0,0,0,0,69.3,993.7,7.5,144,158.5
+16,"Sammy Watkins, Buf WR  QRecent News",BOB,,0/0,0,0,0,0,0,0,70.3,1105.4,5.6,143.3,153.2
+17,"Golden Tate, Det WR",BOB,,0/0,0,0,0,9.8,55.2,0.2,88.7,1024.6,5.7,142.7,152.6
+18,"Michael Crabtree, Oak WR",BOO,,0/0,0,0,0,0,0,0,85,985.6,7.2,141.2,150.5
+19,"Allen Robinson, Jax WR",RIP,,0/0,0,0,0,0,0,0,73.7,998.9,6.9,141.2,149.9
+20,"Martavis Bryant, Pit WR  SSPDRecent News",FA,,0/0,0,0,0,6,37.9,0.2,61.5,922.7,7.1,139.9,147.8
+21,"Demaryius Thomas, Den WR",RIP,,0/0,0,0,0,0,0,0,85.9,1054.5,5.8,139.4,147.7
+22,"Emmanuel Sanders, Den WR",BOB,,0/0,0,0,0,0,0,0,82,1080.2,5.3,139.2,142.9
+23,"Julian Edelman, NE WR",JTR,,0/0,0,0,0,8.5,56,0.2,80.3,922.4,6,135.1,142.6
+24,"Davante Adams, GB WR",NIEV,,0/0,0,0,0,0,0,0,72,890.8,7.8,135,139.3
+25,"Larry Fitzgerald, Ari WR",HAM,,0/0,0,0,0,0,0,0,89.6,1001.5,5.9,134.7,138.8
+26,"Tyreek Hill, KC WR",JAJ,,0/0,0,0,0,22.8,143.6,0.8,76.2,826.4,4.1,132.3,137.7
+27,"Kelvin Benjamin, Car WRRecent News",COLE,,0/0,0,0,0,0,0,0,65,934.4,6.3,131.1,136.9
+28,"Jamison Crowder, Wsh WR",BOO,,0/0,0,0,0,4,25.3,0.1,82.7,1006.5,4.2,129.5,136.8
+29,"DeVante Parker, Mia WRBreaking News",FA,,0/0,0,0,0,0,0,0,65.4,890.3,6.6,128.5,136.7
+30,"Jarvis Landry, Mia WRRecent News",JAJ,,0/0,0,0,0,4,23.4,0.1,90.2,957.9,4.8,128.2,136.4
+31,"Brandon Marshall, NYG WR",Bro,,0/0,0,0,0,0,0,0,67,873.9,6.5,126.4,135.4
+32,"Willie Snead, NO WR",COLE,,0/0,0,0,0,0,0,0,74.9,946.6,5.3,124.9,135
+33,"Donte Moncrief, Ind WR",NIEV,,0/0,0,0,0,1.9,11.7,0.1,68.7,797,7.4,124.7,133.5
+34,"Pierre Garcon, SF WR",ALES,,0/0,0,0,0,0,0,0,80.1,990.9,3.9,122.7,126.4
+35,"DeSean Jackson, TB WRBreaking News",COLE,,0/0,0,0,0,0,0,0,58.1,951.6,4.5,122.5,124.6
+36,"Stefon Diggs, Min WR",BOO,,0/0,0,0,0,3.7,23.5,0.1,79.5,926.2,4.3,121.4,122.8
+37,"Randall Cobb, GB WRBreaking News",Bro,,0/0,0,0,0,7.4,47.5,0.2,68.3,781.8,5.9,120.2,114.9
+38,"Kenny Britt, Cle WRBreaking News",HAM,,0/0,0,0,0,0,0,0,65.6,933.4,4.5,119.4,114.2
+39,"Keenan Allen, LAC WR",SENK,,0/0,0,0,0,0,0,0,79.5,911.7,4.8,118.8,112.9
+40,"Adam Thielen, Min WRBreaking News",JTR,,0/0,0,0,0,3.7,23.5,0.1,71.5,921.6,3.8,117.8,112.6
+41,"Marvin Jones, Det WR",FA,,0/0,0,0,0,0,0,0,55.8,825.5,5.7,116.2,111.9
+42,"Jeremy Maclin, Bal WR",FA,,0/0,0,0,0,2.3,14.4,0,75.3,909.3,3.8,114.3,111.7
+43,"Quincy Enunwa, NYJ WR  Q",SENK,,0/0,0,0,0,0,0,0,69,913.1,3.8,113.7,110.8
+44,"Eric Decker, Ten WR",FA,,0/0,0,0,0,0,0,0,55.7,749.2,6.4,113.1,108.6
+45,"Tyrell Williams, LAC WR",RMO,,0/0,0,0,0,0,0,0,55.1,806.9,5.4,113,108.2
+46,"John Brown, Ari WR  QRecent News",NIEV,,0/0,0,0,0,3.6,22.7,0.1,58.4,844.2,4.3,112.5,106.7
+47,"Corey Davis, Ten WRBreaking News",FA,,0/0,0,0,0,0,0,0,59.7,751.9,5.8,110.1,106.3
+48,"Corey Coleman, Cle WRRecent News",RMO,,0/0,0,0,0,7.5,46.8,0.2,67.6,838.1,3.4,109.9,105.6
+49,"Ted Ginn Jr., NO WR",ALES,,0/0,0,0,0,4,28.4,0.1,51.5,759.1,4.7,109.5,105.5
+50,"Mike Wallace, Bal WR",HAM,,0/0,0,0,0,3.8,24.6,0.1,65.7,816.7,4.1,108.8,104.1
+51,"Cameron Meredith, Chi WRRecent News",RIP,,0/0,0,0,0,2.4,15.1,0.1,67.9,821.6,4.1,107.8,103.1
+52,"Rishard Matthews, Ten WR",JAJ,,0/0,0,0,0,0,0,0,53.4,755.4,5,105.5,101.5
+53,"Jordan Matthews, Phi WRRecent News",JAJ,,0/0,0,0,0,0,0,0,71,792.6,3.9,102.4,100.9
+54,"Will Fuller V, Hou WR",FA,,0/0,0,0,0,0,0,0,57.1,781.9,3.8,101.8,100.6
+55,"Tavon Austin, LAR WRBreaking News",JTR,,0/0,0,0,0,19.4,134.2,0.6,53.4,671.8,2.7,101.4,95.4
+56,"Kenny Stills, Mia WR",FA,,0/0,0,0,0,0,0,0,47.1,719.3,4.9,100.7,95.1
+57,"Mohamed Sanu, Atl WR",FA,,0/0,0,0,0,3.9,24.1,0.2,54.8,631,5.4,99.4,93.7
+58,"Robert Woods, LAR WR",FA,,0/0,0,0,0,0,0,0,65.2,791,3.4,99.3,93
+59,"Tyler Lockett, Sea WR  Q",FA,,0/0,0,0,0,4.1,25.7,0.1,50.1,694.2,3.7,97.8,92.5
+60,"Marqise Lee, Jax WR",FA,,0/0,0,0,0,8.3,52,0.2,54.9,664,3.5,97.4,90.6
+61,"Sterling Shepard, NYG WR",JTR,,0/0,0,0,0,4,25,0.1,58,669.2,4.6,97.1,89.7
+62,"Taylor Gabriel, Atl WR  QRecent News",JTR,,0/0,0,0,0,3.9,24.5,0.1,49.7,684.3,4.3,97,83.6
+63,"Devin Funchess, Car WR",FA,,0/0,0,0,0,0,0,0,44.3,652.2,4.7,93.6,83
+64,"Allen Hurns, Jax WR",FA,,0/0,0,0,0,0,0,0,51,691.5,4.2,93.2,81.3
+65,"Kevin White, Chi WR",FA,,0/0,0,0,0,0,0,0,57.1,661.3,4.2,90.9,80.4
+66,"Cole Beasley, Dal WR",Bro,,0/0,0,0,0,0,0,0,65.8,697.6,3.1,88.5,80.3
+67,"J.J. Nelson, Ari WR",SENK,,0/0,0,0,0,4.4,27.7,0.1,37.2,630.5,3.6,88.3,79.6
+68,"Robby Anderson, NYJ WR",FA,,0/0,0,0,0,3.7,23.4,0.1,50.1,685.4,2.8,87.9,77.1
+69,"Kenny Golladay, Det WR",FA,,0/0,0,0,0,0,0,0,48.1,588,4.7,86.7,76.3
+70,"Josh Doctson, Wsh WR",FA,,0/0,0,0,0,0,0,0,46.5,637.9,3.6,85.4,76.3
+71,"Curtis Samuel, Car WR  QRecent News",FA,,0/0,0,0,0,31,158.2,1,39.9,478.9,2.6,84.9,74.8
+72,"Torrey Smith, Phi WRRecent News",FA,,0/0,0,0,0,0,0,0,39.4,626.1,3.5,83.3,72.1
+73,"Terrance Williams, Dal WR",FA,,0/0,0,0,0,0,0,0,40.5,615.3,3.6,82.5,71.5
+74,"Cooper Kupp, LAR WR",FA,,0/0,0,0,0,0,0,0,54.9,653.9,2.8,81.8,69.7
+75,"Zay Jones, Buf WRBreaking News",FA,,0/0,0,0,0,0,0,0,52.6,602.8,3.6,81.7,68.1
+76,"Breshad Perriman, Bal WR",FA,,0/0,0,0,0,0,0,0,49.4,636.5,2.9,80.6,67.1
+77,"ArDarius Stewart, NYJ WR  Q",FA,,0/0,0,0,0,0,0,0,46.8,581.3,2.7,74.4,65.3
+78,"Jeremy Kerley, SF WR",FA,,0/0,0,0,0,3.8,23.2,0.1,48.4,560.3,2.1,71.3,64
+79,"John Ross, Cin WR  QRecent News",FA,,0/0,0,0,0,2.2,13.6,0.1,37.9,534,2.6,70.3,63.4
+80,"Markus Wheaton, Chi WR  QBreaking News",FA,,0/0,0,0,0,0,0,0,40.1,544.1,2.7,69.8,62.5
+81,"Andre Holmes, Buf WRBreaking News",FA,,0/0,0,0,0,0,0,0,33.2,443.2,4,68.5,60.8
+82,"Albert Wilson, KC WR",FA,,0/0,0,0,0,1.9,12,0.1,42.9,495,2.6,66.6,60.8
+83,"Carlos Henderson, Den WR",FA,,0/0,0,0,0,0,0,0,41,503.2,2.6,66.5,58.3
+84,"Laquon Treadwell, Min WR",FA,,0/0,0,0,0,0,0,0,43.1,491.6,2.9,66.2,57.5
+85,"Braxton Miller, Hou WRBreaking News",FA,,0/0,0,0,0,8.8,55.3,0.2,36.3,396.9,2.8,62.8,55.3
+86,"Seth Roberts, Oak WR",FA,,0/0,0,0,0,0,0,0,32.7,411.7,3.3,61.4,54
+87,"Chris Hogan, NE WR",SENK,,0/0,0,0,0,4.2,26.9,0.2,27,398.8,3,61.1,51.6
+88,"Tyler Boyd, Cin WR",RIP,,0/0,0,0,0,2.2,13.6,0.1,40.2,452.3,2.4,61.1,49.4
+89,"Paul Richardson, Sea WR",FA,,0/0,0,0,0,0,0,0,33.5,439.9,2.7,60.3,49.3
+90,"Marquise Goodwin, SF WR",FA,,0/0,0,0,0,1.9,11.6,0,30.8,463.5,1.9,58.8,47.6
+91,"Travis Benjamin, LAC WR",NIEV,,0/0,0,0,0,2,13,0,30.4,420,2.2,57.5,46
+92,"Chris Conley, KC WR",FA,,0/0,0,0,0,0,0,0,37.7,430.9,2.4,57.5,45.9
+93,"Eli Rogers, Pit WR",BOB,,0/0,0,0,0,0,0,0,33.3,410.1,2.1,54.4,45.3
+94,"Brandon LaFell, Cin WR",FA,,0/0,0,0,0,0,0,0,30.2,371.2,2.2,50.5,44.4
+95,"Jermaine Kearse, Sea WR",FA,,0/0,0,0,0,0,0,0,23.2,320.7,2.7,48.3,42.4
+96,"Chad Williams, Ari WR",FA,,0/0,0,0,0,0,0,0,25.7,337.8,2,45.6,41
+97,"Adam Humphries, TB WR",FA,,0/0,0,0,0,4,25.6,0.1,29.6,310.4,1.7,45.3,40
+98,"Phillip Dorsett, Ind WR",FA,,0/0,0,0,0,1.9,11.7,0.1,23.4,315.4,2,44.8,39.5
+99,"Ricardo Louis, Cle WR",FA,,0/0,0,0,0,0,0,0,29.5,337.9,1.3,41.6,39.2
+100,"Brandon Coleman, NO WR",FA,,0/0,0,0,0,0,0,0,19.8,265.7,2.2,39.6,38.4
+101,"Chris Godwin, TB WRBreaking News",FA,,0/0,0,0,0,0,0,0,20.8,246.6,1.7,34.7,32.8
+102,"Malcolm Mitchell, NE WRRecent News",ALES,,0/0,0,0,0,0,0,0,18.8,234.9,1.8,34.4,32.4
+103,"Jaron Brown, Ari WR  Q",FA,,0/0,0,0,0,0,0,0,17.8,239.1,1.4,32.3,30.9
+104,"Michael Campanaro*, Bal WR  ORecent News",FA,,0/0,0,0,0,5.7,36,0.1,17.1,184.1,0.9,30.3,30.7
+105,"Brice Butler, Dal WR",FA,,0/0,0,0,0,0,0,0,14.1,194.4,1.8,30.2,30.7
+106,"Aldrick Robinson, SF WR",FA,,0/0,0,0,0,0,0,0,14.4,239.1,0.9,29.7,30.3
+107,"Charone Peake, NYJ WR",FA,,0/0,0,0,0,0,0,0,20.3,232.2,1,29.1,29.5
+108,"Corey Brown, Buf WR",FA,,0/0,0,0,0,0,0,0,16.8,219,1.1,28.5,29.5
+109,"Kendall Wright, Chi WR",FA,,0/0,0,0,0,1.6,10.1,0,19.1,216.6,1,28.4,28.5
+110,"Kamar Aiken, Ind WR",FA,,0/0,0,0,0,0,0,0,15.6,191.1,1.5,27.6,27.7
+111,"Dontrelle Inman, LAC WR  Q",HAM,,0/0,0,0,0,0,0,0,15.1,202.1,1.1,26.8,27.6
+112,"Cordarrelle Patterson, Oak WR",FA,,0/0,0,0,0,4.8,39.3,0.1,13.2,133,0.9,26.4,27.6
+113,"Chester Rogers, Ind WR",FA,,0/0,0,0,0,0,0,0,14.2,177.9,1.4,26.4,27.5
+114,"Taywan Taylor, Ten WR",FA,,0/0,0,0,0,0,0,0,14.7,183.3,1.3,26.2,27.4
+115,"Josh Reynolds, LAR WR",FA,,0/0,0,0,0,0,0,0,15.4,207.9,0.9,26,26.8
+116,"Mike Williams*, LAC WR  OBreaking News",FA,,0/0,0,0,0,0,0,0,13.1,174.2,1.4,25.8,26.2
+117,"Justin Hardy, Atl WR",FA,,0/0,0,0,0,0,0,0,14.3,160.8,1.5,25.2,25.8
+118,"JuJu Smith-Schuster, Pit WR  QBreaking News",FA,,0/0,0,0,0,0,0,0,14.1,172.3,1.3,25.1,24.9
+119,"Trent Taylor, SF WR",FA,,0/0,0,0,0,1.9,11.6,0,13.4,173,0.7,24.4,23.3
+120,"Russell Shepard, Car WR",FA,,0/0,0,0,0,0,0,0,11.8,166.8,1,22.7,23.2
+121,"Dede Westbrook, Jax WR",FA,,0/0,0,0,0,0,0,0,13.3,160.9,0.9,22,21.6
+122,"Michael Floyd, Min WR  SSPD",FA,,0/0,0,0,0,0,0,0,11.3,165,0.9,21.8,19.9
+123,"Ryan Switzer, Dal WR  QBreaking News",FA,,0/0,0,0,0,4.4,27.4,0.2,10,112.1,0.6,21.2,19.9
+124,"Rashard Higgins, Cle WR",FA,,0/0,0,0,0,0,0,0,13.4,160,0.7,20,18.2
+125,"TJ Jones, Det WR",FA,,0/0,0,0,0,0,0,0,10.7,139.2,0.9,19.9,17.4
+126,"Victor Cruz, Chi WR",FA,,0/0,0,0,0,0,0,0,12,144.4,0.9,19.6,16.9
+127,"Chris Moore, Bal WR",FA,,0/0,0,0,0,1.5,9.6,0,11.5,134.2,0.6,19.4,16.5
+128,"Andre Roberts, Atl WR  Q",FA,,0/0,0,0,0,0,0,0,6.8,85.7,0.7,18.1,16.5
+129,"Chad Hansen, NYJ WR  Q",FA,,0/0,0,0,0,0,0,0,10.4,129.8,0.6,16.6,15.9
+130,"Bruce Ellington, SF WR  Q",FA,,0/0,0,0,0,0,0,0,10.3,125.4,0.6,16.1,15.6
+131,"Sammie Coates*, Pit WR  ORecent News",SENK,,0/0,0,0,0,0,0,0,6,97.4,0.6,13.8,15.2
+132,"Rashad Greene, Jax WR  Q",FA,,0/0,0,0,0,0,0,0,6.6,80.4,0.4,13.1,13.5
+133,"Ryan Grant, Wsh WRRecent News",FA,,0/0,0,0,0,0,0,0,7.4,98.1,0.5,12.7,12.7
+134,"Geronimo Allison, GB WR  SSPD",FA,,0/0,0,0,0,0,0,0,6.2,85.2,0.7,12.4,12.7
+135,"Demarcus Robinson, KC WR",FA,,0/0,0,0,0,0,0,0,7.7,92.7,0.5,12.2,12.6
+136,"Bennie Fowler, Den WRBreaking News",FA,,0/0,0,0,0,0,0,0,6.7,82.8,0.4,10.8,12.2
+137,"Danny Amendola, NE WR",FA,,0/0,0,0,0,0,0,0,5.4,68.6,0.5,10.6,11.9
+138,"De'Anthony Thomas, KC WR",FA,,0/0,0,0,0,1.9,12,0.1,6.9,63.8,0.3,10.6,11.9
+139,"Jaelen Strong, Hou WR",FA,,0/0,0,0,0,0,0,0,6.6,82.1,0.4,10.5,11.5
+140,"Jarius Wright, Min WR",FA,,0/0,0,0,0,0,0,0,6.1,75,0.4,9.9,11.3
+141,"Pharoh Cooper, LAR WR",FA,,0/0,0,0,0,0,0,0,6.8,70.5,0.3,9.8,11.1
+142,"Jace Billingsley, Det WR",FA,,0/0,0,0,0,0,0,0,5.4,69.6,0.5,9.7,9.8
+143,"Malachi Dupre, GB WR",FA,,0/0,0,0,0,3.7,23.4,0.1,3.6,45.3,0.4,9.6,9.6
+144,"Tavarres King, NYG WR",FA,,0/0,0,0,0,0,0,0,5.4,67.7,0.4,9.2,9.2
+145,"Nelson Agholor, Phi WRBreaking News",FA,,0/0,0,0,0,0,0,0,5.4,65.2,0.3,8.8,8.6
+146,"Amara Darboh, Sea WR",FA,,0/0,0,0,0,0,0,0,4.5,57,0.4,8.2,8.5
+147,"Leonte Carroo, Mia WR",FA,,0/0,0,0,0,0,0,0,4.5,55.1,0.4,8.1,7.5
+148,"Tommylee Lewis, NO WR",FA,,0/0,0,0,0,4,25.4,0.2,2,25.6,0.2,7.9,7.2
+149,"Jehu Chesson, KC WR",FA,,0/0,0,0,0,0,0,0,4.6,55.6,0.3,7.3,7.1
+150,"Isaiah McKenzie, Den WR",FA,,0/0,0,0,0,0,0,0,3.4,41.4,0.2,7.3,6.9
+151,"Brandon Tate, Buf WRBreaking News",FA,,0/0,0,0,0,0,0,0,3,36.4,0.2,6.5,6.8
+152,"Dwayne Harris, NYG WR",FA,,0/0,0,0,0,0,0,0,1.8,22.6,0.1,6.4,6.5
+153,"Darrius Heyward-Bey, Pit WR",FA,,0/0,0,0,0,0,0,0,3.5,44.2,0.3,6.2,6.2
+154,"Jakeem Grant, Mia WR",FA,,0/0,0,0,0,0,0,0,1.5,18.4,0.1,6.1,6.2
+155,"Shelton Gibson, Phi WR",FA,,0/0,0,0,0,4,25.4,0.1,1.8,21.7,0.1,6.1,6.1
+156,"Damiere Byrd, Car WR",FA,,0/0,0,0,0,0,0,0,3.2,41.5,0.2,5.9,5.9
+157,"Jalin Marshall, NYJ WR  SSPD",FA,,0/0,0,0,0,0,0,0,2.6,30.1,0.2,5.7,5.6
+158,"Mack Hollins, Phi WR",FA,,0/0,0,0,0,0,0,0,3.6,43.5,0.2,5.6,5.6
+159,"Wendall Williams, Hou WR",FA,,0/0,0,0,0,0,0,0,3.3,43.8,0.2,5.6,5.6
+160,"Quan Bray, Ind WR  Q",FA,,0/0,0,0,0,0,0,0,1.8,22.2,0.2,4.9,5.3
+161,"Tajae Sharpe*, Ten WR  OBreaking News",FA,,0/0,0,0,0,0,0,0,2.7,35.5,0.2,4.9,5.3
+162,"Rodney Adams, Min WR",FA,,0/0,0,0,0,0,0,0,1.7,21.6,0.1,3.7,5.3
+163,"Jared Abbrederis, Det WR",FA,,0/0,0,0,0,0,0,0,1.8,23.2,0.2,3.2,5.3
+164,"Ishmael Zamora, Oak WR",FA,,0/0,0,0,0,0,0,0,1.8,22.7,0.1,3.1,5.3
+165,"Donteea Dye, TB WR  Q",FA,,0/0,0,0,0,0,0,0,1.7,20.6,0.1,2.9,5.1
+166,"Brenton Bersin, Car WRRecent News",FA,,0/0,0,0,0,0,0,0,1.6,20.7,0.1,2.8,5
+167,"David Moore, Sea WR",FA,,0/0,0,0,0,0,0,0,1.5,19,0.1,2.7,4.9
+168,"Josh Malone, Cin WR",FA,,0/0,0,0,0,0,0,0,1.6,19.2,0.1,2.6,4.7
+169,"Jordan Payton, Cle WR",FA,,0/0,0,0,0,0,0,0,1.7,20,0.1,2.5,4
+170,"Alex Erickson, Cin WR",FA,,0/0,0,0,0,0,0,0,0,0,0,1.4,3.7
+171,"Mario Alford, Cle WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.8,3.6
+172,"Eric Weems, Ten WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.7,3.5
+173,"Trevor Davis, GB WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.7,3.3
+174,"Demarcus Ayers, Pit WRBreaking News",FA,,0/0,0,0,0,0,0,0,0,0,0,0.6,3.2
+175,"Deonte Thompson, Chi WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.5,3.2
+176,"DeAngelo Yancey, GB WR",FA,,0/0,0,0,0,0,0,0,0.2,2.7,0,0.4,2.9
+177,"Cody Latimer, Den WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.3,2.8
+178,"Jeff Janis, GB WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.2,2.7
+179,"Michael Thomas, LAR WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.2,2.7
+180,"Keenan Reynolds, Bal WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.1,2.6
+181,"Joshua Bellamy, Chi WR",FA,,0/0,0,0,0,0,0,0,0,0,0,0.1,2.4

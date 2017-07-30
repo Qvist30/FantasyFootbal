@@ -39,7 +39,7 @@ def createPostionalRanking(position, starters):
                 ptsPerGame = float(row["PTS"])/16
                 player = row["PLAYER"]
                 team = row["NFL"]
-                player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','').replace('?','').replace('STASH','')
+                player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','').replace('?','').replace('STASH','').replace('Jr.','').replace('III','')
                 player = re.sub('\W+',' ', player)
                 
                 with open('inputfiles/' + position + '_ESPN.csv') as espnfile:
@@ -55,7 +55,7 @@ def createPostionalRanking(position, starters):
                             break
                         
                 if found == False:
-                    print player, " NOT FOUND"
+                    print (player, " NOT FOUND")
         numpArray = np.array(sorted(rows_list, key=operator.itemgetter(5), reverse=True))
         pptsPerGameBench = float(numpArray[starters, 5])
         pptsPerGameReplacement = float(numpArray[starters*2, 5])
