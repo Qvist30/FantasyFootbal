@@ -26,7 +26,7 @@ import operator
 import re
 
     
-def createPostionalRanking(position, starters):
+def createPostionalRanking(position, starters, backup):
     filename = 'outputfiles/' + position + '_output.csv'
     with open(filename, 'w') as output:
         writer = csv.writer(output, delimiter = ',', lineterminator='\n')
@@ -58,19 +58,19 @@ def createPostionalRanking(position, starters):
                     print (player, " NOT FOUND")
         numpArray = np.array(sorted(rows_list, key=operator.itemgetter(5), reverse=True))
         pptsPerGameBench = float(numpArray[starters, 5])
-        pptsPerGameReplacement = float(numpArray[starters*2, 5])
+        pptsPerGameReplacement = float(numpArray[starters+backup, 5])
         for x in numpArray:
             writer.writerow([x[0], x[1], x[2], x[3], x[4], x[5],x[6],x[7], float(x[5]) - pptsPerGameBench, float(x[5]) - pptsPerGameReplacement])
     output.close()
     return filename
 
 if __name__ == '__main__':
-    qbFile = createPostionalRanking('QB', 12)
-    rbFile = createPostionalRanking('RB', 30)
-    wrFile = createPostionalRanking('WR', 30)
-    teFile = createPostionalRanking('TE', 12)
-    defFile = createPostionalRanking('DEF', 12)
-    kFile = createPostionalRanking('K', 12)
+    qbFile = createPostionalRanking('QB', 12, 12)
+    rbFile = createPostionalRanking('RB', 29, 31)
+    wrFile = createPostionalRanking('WR', 29, 31)
+    teFile = createPostionalRanking('TE', 14, 10)
+    defFile = createPostionalRanking('DEF', 0,12)
+    kFile = createPostionalRanking('K', 0,12)
     qbArray = np.genfromtxt(qbFile, delimiter=',', dtype=[('player', 'S30'), ('team', 'S30'), ('position', 'S30'), ('FFtoolbox', float), ('ESPN', float), ('PPG', float), ('Pts', float), ('Bye', int), ('PAB', float), ('PAR', float)], skip_header=1)
     rbArray = np.genfromtxt(rbFile, delimiter=',', dtype=[('player', 'S30'), ('team', 'S30'), ('position', 'S30'), ('FFtoolbox', float), ('ESPN', float), ('PPG', float), ('Pts', float), ('Bye', int), ('PAB', float), ('PAR', float)], skip_header=1)
     wrArray = np.genfromtxt(wrFile, delimiter=',', dtype=[('player', 'S30'), ('team', 'S30'), ('position', 'S30'), ('FFtoolbox', float), ('ESPN', float), ('PPG', float), ('Pts', float), ('Bye', int), ('PAB', float), ('PAR', float)], skip_header=1)
