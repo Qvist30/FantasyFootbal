@@ -1,46 +1,73 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS,
-1,Rob GronkowskiÊ,TE,,9,,28,19.39,$11 ,173,NA
-2,Travis KelceÊ,TE,,10,,28,30.57,$10 ,152.8,NA
-3,Jimmy GrahamÊ,TE,,6,Que,31,61.72,$4 ,152,NA
-4,Tyler EifertÊ,TE,,6,,27,74.34,$5 ,147,NA
-5,Jordan ReedÊ,TE,,5,Out,27,53.04,$8 ,138.5,NA
-6,Greg OlsenÊ,TE,,11,,32,52.41,$5 ,124,NA
-7,Hunter HenryÊ,TE,,9,,23,97.29,$6 ,120.5,NA
-8,Zach ErtzÊ,TE,,10,,27,93.02,$4 ,108.6,NA
-9,Martellus BennettÊ,TE,,8,,30,98.28,$4 ,107,NA
-10,Eric EbronÊ,TE,,7,Que,24,107.35,$3 ,105.5,NA
-11,Jack DoyleÊ,TE,,11,,27,116.31,$2 ,101,NA
-12,Kyle RudolphÊ,TE,,9,,28,81.47,$3 ,100,NA
-13,Delanie WalkerÊ,TE,,8,,33,94.4,$3 ,100,NA
-14,Austin HooperÊ,TE,,5,,23,134.24,$2 ,95,NA
-15,Coby FleenerÊ,TE,,5,Que,29,136.6,$2 ,95,NA
-16,Julius ThomasÊ,TE,,11,,29,153.54,$2 ,91,NA
-17,C.J. FiedorowiczÊ,TE,,7,,26,161.51,$1 ,89,NA
-18,Cameron BrateÊ,TE,,11,,26,160.39,$1 ,88.8,NA
-19,Jason WittenÊ,TE,,6,,35,149.44,$1 ,86.9,NA
-20,Antonio GatesÊ,TE,,9,,37,182.1,$1 ,85,NA
-21,O.J. HowardÊ,TE,,11,,23,137.17,$6 ,79.5,NA
-22,Dwayne AllenÊ,TE,,9,,27,190.66,$1 ,79,NA
-23,David NjokuÊ,TE,,9,,21,176.66,$4 ,77,NA
-24,Gerald EverettÊ,TE,,8,,23,217.83,$1 ,75,NA
-25,Jared CookÊ,TE,,10,,30,179.43,$1 ,74.5,NA
-26,Jesse JamesÊ,TE,,9,,23,190.56,$1 ,73.5,NA
-27,Charles ClayÊ,TE,,6,,28,192.14,$1 ,72,NA
-28,Evan EngramÊ,TE,,8,,23,159.61,$4 ,65,NA
-29,Zach MillerÊ,TE,,9,,33,218.57,$1 ,64.5,NA
-30,Ben WatsonÊ,TE,,10,,37,216.32,$0 ,64.1,NA
-31,Erik SwoopeÊ,TE,,11,Que,25,218.87,$1 ,58.1,NA
-32,Vance McDonaldÊ,TE,,11,,27,221.5,$1 ,58,NA
-33,Jermaine GreshamÊ,TE,,8,,29,227.35,$1 ,53,NA
-34,Dion SimsÊ,TE,,9,,26,226.39,$0 ,50,NA
-35,Adam ShaheenÊ,TE,,9,,23,219.69,$1 ,49.5,NA
-36,Vernon DavisÊ,TE,,5,Que,33,218.32,$1 ,46,NA
-37,A.J. DerbyÊ,TE,,5,Que,26,0,$1 ,45,NA
-38,Lance KendricksÊ,TE,,8,,29,0,$0 ,44,NA
-39,Austin Seferian-JenkinsÊ,TE,,11,Sus,25,187.58,$1 ,42,NA
-40,Marcedes LewisÊ,TE,,8,,33,0,$0 ,40.5,NA
-41,Mychal RiveraÊ,TE,,8,Que,27,0,$0 ,40,NA
-42,Ryan GriffinÊ,TE,,7,,27,0,$1 ,39.9,NA
-43,Will TyeÊ,TE,,8,,26,0,$0 ,39,NA
-44,Clive WalfordÊ,TE,,10,,26,208.83,$1 ,35.3,NA
-45,Tyler HigbeeÊ,TE,,8,,24,219.69,$1 ,35,NA
+1,Rob Gronkowski ,TE,,11,,29,27.27,$8 ,161,NA
+2,Travis Kelce ,TE,,12,,29,28.05,$9 ,152.2,NA
+3,Zach Ertz ,TE,,9,Que,28,36.38,$7 ,126.2,NA
+4,Greg Olsen ,TE,,4,,33,77.5,$4 ,118.1,NA
+5,Evan Engram ,TE,,9,,24,55.05,$6 ,117.6,NA
+6,Jimmy Graham ,TE,,7,,32,70.3,$5 ,117.1,NA
+7,Kyle Rudolph ,TE,,10,,29,84.75,$4 ,109.1,NA
+8,Delanie Walker ,TE,,8,,34,86.94,$3 ,100.2,NA
+9,David Njoku ,TE,,11,,22,110.78,$3 ,95,NA
+10,Austin Hooper ,TE,,8,,24,189.29,$1 ,93.1,NA
+11,Jared Cook ,TE,,7,,31,188.74,$1 ,92.7,NA
+12,Jack Doyle ,TE,,9,,28,124.26,$2 ,89,NA
+13,Cameron Brate ,TE,,5,,27,180.97,$1 ,87,NA
+14,O.J. Howard ,TE,,5,,24,118.54,$3 ,87,NA
+15,Jordan Reed ,TE,,4,Que,28,103.76,$3 ,84.7,NA
+16,George Kittle ,TE,,11,,25,119.29,$3 ,83.5,NA
+17,Austin Seferian-Jenkins ,TE,,9,,26,158.6,$2 ,75.6,NA
+18,Eric Ebron ,TE,,9,,25,163.04,$2 ,75.3,NA
+19,Trey Burton ,TE,,5,,27,94.67,$4 ,75.2,NA
+20,Mike Gesicki ,TE,,11,,23,149.71,$4 ,74,NA
+21,Ricky Seals-Jones ,TE,,9,,23,178.65,$1 ,72.6,NA
+22,Hayden Hurst ,TE,,10,,25,164.61,$2 ,72.2,NA
+23,Charles Clay ,TE,,11,,29,173.43,$1 ,69.4,NA
+24,Antonio Gates ,TE,,0,,38,258.8,$0 ,68.9,NA
+25,Ed Dickson ,TE,,7,Out,31,258.54,$0 ,67.3,NA
+26,Gerald Everett ,TE,,12,Que,24,217.89,$1 ,66.2,NA
+27,Ben Watson ,TE,,6,Que,38,207.91,$1 ,64.1,NA
+28,Vance McDonald ,TE,,7,Que,28,196.13,$1 ,64,NA
+29,Michael Roberts ,TE,,6,Que,24,281.54,$0 ,61.7,NA
+30,Ryan Griffin ,TE,,10,,28,279.33,$0 ,60.5,NA
+31,Coby Fleener ,TE,,0,Que,30,293,$0 ,58.4,NA
+32,Tyler Eifert ,TE,,9,,28,150.65,$2 ,56.4,NA
+33,Jesse James ,TE,,7,,24,262.86,$0 ,53.8,NA
+34,Rico Gathers ,TE,,8,,24,289.9,$1 ,53.3,NA
+35,Jake Butt ,TE,,10,,23,203.09,$1 ,52.8,NA
+36,Stephen Anderson ,TE,,10,,25,281.48,$0 ,49.5,NA
+37,Vernon Davis ,TE,,4,,34,233.82,$1 ,47.8,NA
+38,A.J. Derby ,TE,,11,,27,0,$0 ,45,NA
+39,Jonnu Smith ,TE,,8,,23,230.17,$1 ,43.9,NA
+40,Adam Shaheen ,TE,,5,,24,254.73,$1 ,42,NA
+41,Dallas Goedert ,TE,,9,,24,185.36,$2 ,41.5,NA
+42,Seth DeValve ,TE,,11,Que,25,416,$0 ,41.1,NA
+43,Blake Jarwin ,TE,,8,,24,253.29,$0 ,40,NA
+44,Garrett Celek ,TE,,11,,30,322.7,$0 ,38.9,NA
+45,Tyler Kroft ,TE,,9,,26,238.97,$1 ,38.1,NA
+46,Nick O'Leary ,TE,,11,Que,26,391,$0 ,36.2,NA
+47,Clive Walford ,TE,,11,,27,324.58,$0 ,36.1,NA
+48,Luke Willson ,TE,,6,,28,233.11,$1 ,34.6,NA
+49,Marcedes Lewis ,TE,,7,,34,0,$0 ,34.5,NA
+50,Nick Boyle ,TE,,10,,25,0,$0 ,30.9,NA
+51,Jeff Heuerman ,TE,,10,Que,26,427.33,$0 ,30.3,NA
+52,Julius Thomas ,TE,,0,Que,30,0,$0 ,30,NA
+53,Chris Herndon ,TE,,11,,,298.61,$0 ,26.3,NA
+54,Jermaine Gresham ,TE,,9,Out,30,567.83,$0 ,24,NA
+55,Josh Hill ,TE,,6,,28,618.2,$0 ,22.7,NA
+56,Mark Andrews ,TE,,10,Que,22,247.73,$1 ,20,NA
+57,Dwayne Allen ,TE,,11,,28,296.23,$0 ,19.6,NA
+58,Demetrius Harris ,TE,,12,Sus,27,532,$0 ,19.1,NA
+59,Nick Vannett ,TE,,7,,25,278.09,$1 ,18.9,NA
+60,Tyler Higbee ,TE,,12,,25,277,$0 ,18.1,NA
+61,Tyler Conklin ,TE,,10,,,392.11,$0 ,17.5,NA
+62,Virgil Green ,TE,,8,,30,258.42,$0 ,14,NA
+63,Derek Carrier ,TE,,7,,28,0,$0 ,10.7,NA
+64,Eric Saubert ,TE,,8,,24,0,$0 ,9.9,NA
+65,Ian Thomas ,TE,,4,,22,256.53,$1 ,8.5,NA
+66,Lance Kendricks ,TE,,7,,30,0,$0 ,8.5,NA
+67,Rhett Ellison ,TE,,9,,30,0,$0 ,7.8,NA
+68,Jordan Leggett ,TE,,11,,23,328.64,$0 ,6.6,NA
+69,Troy Fumagalli ,TE,,10,,,307.53,$0 ,5.1,NA
+70,Jordan Akins ,TE,,10,,26,272.66,$1 ,4.6,NA
+71,Niles Paul ,TE,,9,,29,0,$0 ,4.2,NA
+72,Dion Sims ,TE,,5,,27,0,$0 ,3.5,NA

@@ -40,6 +40,7 @@ def createPostionalRanking(position, starters, backup):
                 player = row["PLAYER"]
                 team = row["NFL"]
                 player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','').replace('?','').replace('STASH','').replace('Jr.','').replace('III','')
+                player = player.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Suprise','').replace('Surprise','').replace('INSIDER','').replace('EXPERT','').replace('Breakout','').replace('COMEBACK','').replace('?','').replace('STASH','').replace('Christopher','Chris').replace('Steven','Stephen')
                 player = re.sub('\W+',' ', player)
                 
                 with open('inputfiles/' + position + '_ESPN.csv') as espnfile:
@@ -47,7 +48,7 @@ def createPostionalRanking(position, starters, backup):
                     for espnRow in espnReader:
                         espnPtsPerGame = float(espnRow["PTS"])/16
                         espnPlayer = espnRow["PLAYER"]
-                        espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','')
+                        espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Mitchell', 'Mitch').replace('Christopher','Chris').replace('Benjamin', 'Ben')
                         espnPlayer = re.sub('\W+',' ', espnPlayer)
                         if(espnPlayer.replace(' ', '').lower().strip().startswith(player.replace(' ', '').lower().strip()) | player.replace(' ', '').lower().strip().startswith(espnPlayer.replace(' ', '').lower().strip())):
                             rows_list.append([espnPlayer, row["NFL"], position, ptsPerGame*16, espnPtsPerGame *16,np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]), np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]) * 16, row["BYE"]])
