@@ -48,7 +48,7 @@ def createPostionalRanking(position, starters, backup):
                     for espnRow in espnReader:
                         espnPtsPerGame = float(espnRow["PTS"])/16
                         espnPlayer = espnRow["PLAYER"]
-                        espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Mitchell', 'Mitch').replace('Christopher','Chris').replace('Benjamin', 'Ben')
+                        espnPlayer = espnPlayer.replace('Contract Year Player', '').replace('Recently Updated Outlook', '').replace('Injury', '').replace('News','').replace('Mitchell', 'Mitch').replace('Christopher','Chris').replace('Benjamin ', 'Ben ')
                         espnPlayer = re.sub('\W+',' ', espnPlayer)
                         if(espnPlayer.replace(' ', '').lower().strip().startswith(player.replace(' ', '').lower().strip()) | player.replace(' ', '').lower().strip().startswith(espnPlayer.replace(' ', '').lower().strip())):
                             rows_list.append([espnPlayer, row["NFL"], position, ptsPerGame*16, espnPtsPerGame *16,np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]), np.mean([espnPtsPerGame, ptsPerGame, ptsPerGame]) * 16, row["BYE"]])

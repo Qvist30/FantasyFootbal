@@ -1,67 +1,67 @@
 ##,PLAYER,NFL,Team,BYE,INJ.,AGE,ADP,AAV,PTS,
-1,Aaron Rodgers,QB,,7,,35,27.82,$12 ,459.9,NA
-2,Russell Wilson,QB,,7,,30,43.9,$10 ,431.3,NA
-3,Carson Wentz,QB,,9,Que,26,51.81,$11 ,427.3,NA
-4,Tom Brady,QB,,11,,41,62,$7 ,420.7,NA
-5,Deshaun Watson,QB,,10,,23,35.33,$11 ,414.7,NA
-6,Cam Newton,QB,,4,,29,59.27,$8 ,413,NA
-7,Drew Brees,QB,,6,,39,81.61,$6 ,412,NA
-8,Matt Ryan,QB,,8,,33,105.23,$5 ,409.6,NA
-9,Jimmy Garoppolo,QB,,11,,27,79.95,$8 ,406.1,NA
-10,Matthew Stafford,QB,,6,,30,90.41,$6 ,406,NA
-11,Andrew Luck,QB,,9,,29,75.42,$7 ,398.9,NA
-12,Kirk Cousins,QB,,10,,30,79.12,$7 ,397.6,NA
-13,Jared Goff,QB,,12,,24,90.9,$7 ,396.9,NA
-14,Patrick Mahomes,QB,,12,,23,95.95,$7 ,392.9,NA
-15,Ben Roethlisberger,QB,,7,,36,107.88,$5 ,390.7,NA
-16,Philip Rivers,QB,,8,,37,108.1,$4 ,385.1,NA
-17,Derek Carr,QB,,7,,27,124.62,$5 ,376.3,NA
-18,Eli Manning,QB,,9,,37,162.09,$2 ,373.1,NA
-19,Marcus Mariota,QB,,8,,25,107.68,$6 ,371.1,NA
-20,Andy Dalton,QB,,9,,31,163.6,$2 ,369.9,NA
-21,Alex Smith,QB,,4,,34,130.79,$4 ,366,NA
-22,Dak Prescott,QB,,8,,25,116.7,$6 ,360.6,NA
-23,Mitch Trubisky,QB,,5,,24,131.8,$5 ,349.8,NA
-24,Blake Bortles,QB,,9,,27,144.18,$3 ,346.1,NA
-25,Ryan Tannehill,QB,,11,,30,176.16,$2 ,341.5,NA
-26,Jameis Winston,QB,,5,Sus,24,132.08,$5 ,336.6,NA
-27,Sam Bradford,QB,,9,,31,205.46,$1 ,332.2,NA
-28,Case Keenum,QB,,10,,30,156.68,$3 ,314.7,NA
-29,Joe Flacco,QB,,10,,33,196.73,$2 ,277.5,NA
-30,Josh Rosen,QB,,9,,21,143.42,$9 ,263,NA
-31,Tyrod Taylor,QB,,11,,29,173.26,$2 ,220.7,NA
-32,Josh McCown,QB,,11,,39,236.29,$1 ,185.3,NA
-33,A.J. McCarron,QB,,11,,28,259.15,$1 ,175.4,NA
-34,Baker Mayfield,QB,,11,,23,136.99,$10 ,135.7,NA
-35,Sam Darnold,QB,,11,,21,154.04,$8 ,119.2,NA
-36,Lamar Jackson,QB,,10,,21,136.62,$8 ,106.1,NA
-37,Ryan Fitzpatrick,QB,,5,,36,243.02,$0 ,78.2,NA
-38,Josh Allen,QB,,11,,22,173.1,$5 ,51.5,NA
-39,Paxton Lynch,QB,,10,,24,324.47,$0 ,31.3,NA
-40,E.J. Manuel,QB,,7,,28,0,$0 ,22.8,NA
-41,Jacoby Brissett,QB,,9,,26,257.92,$1 ,20.8,NA
-42,Landry Jones,QB,,7,,29,0,$0 ,19,NA
-43,Teddy Bridgewater,QB,,11,,26,252.18,$1 ,17.3,NA
-44,Matt Barkley,QB,,9,,28,390,$0 ,17,NA
-45,C.J. Beathard,QB,,11,,25,334.78,$0 ,16.8,NA
-46,Chad Henne,QB,,12,,33,0,$0 ,16.8,NA
-47,Brian Hoyer,QB,,11,,33,307.5,$0 ,16.5,NA
-48,Brock Osweiler,QB,,11,,28,430.38,$0 ,16.3,NA
-49,Brandon Weeden,QB,,10,,35,0,$0 ,16.2,NA
-50,Cody Kessler,QB,,9,,25,399.5,$0 ,15.6,NA
-51,Nathan Peterman,QB,,11,,24,286.71,$0 ,15.3,NA
-52,Chase Daniel,QB,,5,,32,0,$0 ,14.2,NA
-53,Blaine Gabbert,QB,,8,,29,570.6,$0 ,13,NA
-54,DeShone Kizer,QB,,7,,22,302.25,$0 ,12.6,NA
-55,Sean Mannion,QB,,12,,26,0,$0 ,11.1,NA
-56,Garrett Gilbert,QB,,4,,27,0,$0 ,9.9,NA
-57,Nick Foles,QB,,9,Que,29,225.87,$1 ,9,NA
-58,Matt Cassel,QB,,6,,36,0,$0 ,7.6,NA
-59,Matt Schaub,QB,,8,,37,0,$0 ,7.6,NA
-60,Tom Savage,QB,,6,,28,0,$0 ,7.5,NA
-61,Geno Smith,QB,,8,,28,0,$0 ,7.5,NA
-62,Trevor Siemian,QB,,10,,27,572,$0 ,7.4,NA
-63,Davis Webb,QB,,9,,23,276.58,$0 ,7.2,NA
-64,Colt McCoy,QB,,4,,32,0,$0 ,7.1,NA
-65,Austin Davis,QB,,7,,29,0,$0 ,6.5,NA
-66,Cooper Rush,QB,,8,,25,306.5,$0 ,5.8,NA
+1,Aaron Rodgers ,QB,,7,,35,28.83,$13 ,459.9,NA
+2,Russell Wilson ,QB,,7,,30,48.53,$10 ,431.3,NA
+3,Carson Wentz ,QB,,9,Que,26,63.31,$11 ,427.3,NA
+4,Tom Brady ,QB,,11,,41,59.14,$7 ,422.7,NA
+5,Cam Newton ,QB,,4,,29,63.6,$8 ,413,NA
+6,Drew Brees ,QB,,6,,39,79.08,$6 ,412,NA
+7,Deshaun Watson ,QB,,10,,23,40.48,$11 ,408.7,NA
+8,Jimmy Garoppolo ,QB,,11,,27,95.03,$8 ,406.1,NA
+9,Matthew Stafford ,QB,,6,,30,95.05,$6 ,406,NA
+10,Andrew Luck ,QB,,9,,29,77.77,$7 ,404.9,NA
+11,Matt Ryan ,QB,,8,,33,107.14,$5 ,398.6,NA
+12,Kirk Cousins ,QB,,10,,30,83.58,$7 ,397.6,NA
+13,Jared Goff ,QB,,12,,24,104.46,$7 ,396.9,NA
+14,Patrick Mahomes ,QB,,12,,23,117.35,$7 ,392.9,NA
+15,Ben Roethlisberger ,QB,,7,,36,114.12,$5 ,390.7,NA
+16,Philip Rivers ,QB,,8,,37,106.7,$5 ,385.1,NA
+17,Derek Carr ,QB,,7,,27,136.37,$5 ,376.3,NA
+18,Eli Manning ,QB,,9,,37,163.65,$2 ,373.1,NA
+19,Marcus Mariota ,QB,,8,,25,122.03,$6 ,371.1,NA
+20,Andy Dalton ,QB,,9,,31,157.06,$3 ,369.9,NA
+21,Alex Smith ,QB,,4,,34,137,$4 ,366,NA
+22,Dak Prescott ,QB,,8,,25,127.97,$6 ,360.6,NA
+23,Mitch Trubisky ,QB,,5,,24,147.53,$5 ,349.8,NA
+24,Blake Bortles ,QB,,9,,27,150.3,$3 ,346.1,NA
+25,Jameis Winston ,QB,,5,Sus,24,144.56,$5 ,342.6,NA
+26,Ryan Tannehill ,QB,,11,,30,170.56,$2 ,341.5,NA
+27,Sam Bradford ,QB,,9,,31,198.11,$2 ,332.2,NA
+28,Case Keenum ,QB,,10,,30,161.26,$3 ,314.7,NA
+29,Joe Flacco ,QB,,10,,33,180.79,$2 ,277.5,NA
+30,Josh Rosen ,QB,,9,,21,156.31,$9 ,263,NA
+31,Tyrod Taylor ,QB,,11,,29,169.65,$2 ,220.7,NA
+32,Josh McCown ,QB,,11,,39,216.5,$1 ,185.3,NA
+33,A.J. McCarron ,QB,,11,,28,223.88,$1 ,175.4,NA
+34,Baker Mayfield ,QB,,11,,23,144.53,$9 ,135.7,NA
+35,Sam Darnold ,QB,,11,,21,156.06,$7 ,119.2,NA
+36,Lamar Jackson ,QB,,10,,21,154.5,$8 ,106.1,NA
+37,Ryan Fitzpatrick ,QB,,5,,36,242.69,$0 ,78.2,NA
+38,Josh Allen ,QB,,11,,22,184.32,$4 ,51.5,NA
+39,Paxton Lynch ,QB,,10,,24,324.47,$0 ,31.3,NA
+40,E.J. Manuel ,QB,,7,,28,0,$0 ,22.8,NA
+41,Jacoby Brissett ,QB,,9,,26,247.41,$1 ,20.8,NA
+42,Landry Jones ,QB,,7,,29,0,$0 ,19,NA
+43,Teddy Bridgewater ,QB,,11,,26,244.92,$1 ,17.3,NA
+44,Matt Barkley ,QB,,9,,28,390,$0 ,17,NA
+45,C.J. Beathard ,QB,,11,,25,334.78,$0 ,16.8,NA
+46,Chad Henne ,QB,,12,,33,0,$0 ,16.8,NA
+47,Brian Hoyer ,QB,,11,,33,307.5,$0 ,16.5,NA
+48,Brock Osweiler ,QB,,11,,28,430.38,$0 ,16.3,NA
+49,Brandon Weeden ,QB,,10,,35,0,$0 ,16.2,NA
+50,Cody Kessler ,QB,,9,,25,399.5,$0 ,15.6,NA
+51,Nathan Peterman ,QB,,11,,24,308.59,$0 ,15.3,NA
+52,Chase Daniel ,QB,,5,,32,0,$0 ,14.2,NA
+53,Blaine Gabbert ,QB,,8,,29,570.6,$0 ,13,NA
+54,DeShone Kizer ,QB,,7,,22,293.85,$0 ,12.6,NA
+55,Sean Mannion ,QB,,12,,26,0,$1 ,11.1,NA
+56,Garrett Gilbert ,QB,,4,,27,0,$0 ,9.9,NA
+57,Nick Foles ,QB,,9,Que,29,217.31,$1 ,9,NA
+58,Matt Cassel ,QB,,6,,36,0,$0 ,7.6,NA
+59,Matt Schaub ,QB,,8,,37,0,$0 ,7.6,NA
+60,Tom Savage ,QB,,6,,28,0,$0 ,7.5,NA
+61,Geno Smith ,QB,,8,,28,0,$0 ,7.5,NA
+62,Trevor Siemian ,QB,,10,,27,572,$0 ,7.4,NA
+63,Davis Webb ,QB,,9,,23,268.6,$0 ,7.2,NA
+64,Colt McCoy ,QB,,4,,32,0,$0 ,7.1,NA
+65,Austin Davis ,QB,,7,,29,0,$0 ,6.5,NA
+66,Cooper Rush ,QB,,8,,25,306.5,$0 ,5.8,NA
